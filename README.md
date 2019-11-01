@@ -1,2 +1,2 @@
 # Capstone-1
-Capstone project: Critical, commercial and popular success in Hollywood
+Capstone project: Compaaring critical, commercial and popular success of movies
