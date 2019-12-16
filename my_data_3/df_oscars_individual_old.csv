@@ -1,0 +1,4246 @@
+,year,name,category,result
+0,1955.0,Sam Spiegel,picture,W
+1,1955.0,Stanley Kramer,picture,N
+2,1955.0,William Perlberg,picture,N
+3,1955.0,Jack Cummings,picture,N
+4,1955.0,Sol C. Siegel,picture,N
+5,1955.0,Elia Kazan,director,W
+6,1955.0,George Seaton,director,N
+7,1955.0,William A. Wellman,director,N
+8,1955.0,Alfred Hitchcock,director,N
+9,1955.0,Billy Wilder,director,N
+10,1955.0,Marlon Brando,actor,W
+11,1955.0,Humphrey Bogart,actor,N
+12,1955.0,Bing Crosby,actor,N
+13,1955.0,James Mason,actor,N
+14,1955.0,Dan O'Herlihy,actor,N
+15,1955.0,Grace Kelly,actress,W
+16,1955.0,Dorothy Dandridge,actress,N
+17,1955.0,Judy Garland,actress,N
+18,1955.0,Audrey Hepburn,actress,N
+19,1955.0,Jane Wyman,actress,N
+20,1955.0,Edmond O'Brien,s_actor,W
+21,1955.0,Lee J. Cobb,s_actor,N
+22,1955.0,Karl Malden,s_actor,N
+23,1955.0,Rod Steiger,s_actor,N
+24,1955.0,Tom Tully,s_actor,N
+25,1955.0,Eva Marie Saint,s_actress,W
+26,1955.0,Nina Foch,s_actress,N
+27,1955.0,Katy Jurado,s_actress,N
+28,1955.0,Jan Sterling,s_actress,N
+29,1955.0,Claire Trevor,s_actress,N
+30,1955.0,George Seaton,screenplay,W
+31,1955.0,Stanley Roberts,screenplay,N
+32,1955.0,John Michael Hayes,screenplay,N
+33,1955.0,Billy Wilder,screenplay,N
+34,1955.0,Albert Hackett,screenplay,N
+35,1955.0,Dimitri Tiomkin,music,W
+36,1955.0,Max Steiner,music,N
+37,1955.0,Larry Adler,music,N
+38,1955.0,Leonard Bernstein,music,N
+39,1955.0,Franz Waxman,music,N
+40,1955.0,Adolph Deutsch,music,W
+41,1955.0,Herschel Burke Gilbert,music,N
+42,1955.0,Henry Mancini,music,N
+43,1955.0,Ray Heindorf,music,N
+44,1955.0,Alfred Newman,music,N
+45,1955.0,Three Coins in the Fountain,song,W
+46,1955.0,Count Your Blessings Instead of Sheep,song,N
+47,1955.0,The High and the Mighty,song,N
+48,1955.0,Hold My Hand,song,N
+49,1955.0,The Man That Got Away,song,N
+50,1955.0,Leslie I. Carey,sound,W
+51,1955.0,Wesley C. Miller,sound,N
+52,1955.0,John P. Livadary,sound,N
+53,1955.0,Loren L. Ryder,sound,N
+54,1955.0,John O. Aalberg,sound,N
+55,1955.0,Richard Day,art_direction,W
+56,1955.0,Hal Pereira,art_direction,N
+57,1955.0,Cedric Gibbons,art_direction,N
+58,1955.0,Max Ophüls,art_direction,N
+59,1955.0,Hal Pereira,art_direction,N
+60,1955.0,John Meehan,art_direction,W
+61,1955.0,Cedric Gibbons,art_direction,N
+62,1955.0,Lyle R. Wheeler,art_direction,N
+63,1955.0,Hal Pereira,art_direction,N
+64,1955.0,Malcolm Bert,art_direction,N
+65,1955.0,Boris Kaufman,cinematography,W
+0,1956.0,Harold Hecht,picture,W
+1,1956.0,Buddy Adler,picture,N
+2,1956.0,Leland Hayward,picture,N
+3,1956.0,Fred Kohlmar,picture,N
+4,1956.0,Hal B. Wallis,picture,N
+5,1956.0,Delbert Mann,director,W
+6,1956.0,John Sturges,director,N
+7,1956.0,Elia Kazan,director,N
+8,1956.0,Joshua Logan,director,N
+9,1956.0,David Lean,director,N
+10,1956.0,Ernest Borgnine,actor,W
+11,1956.0,James Cagney,actor,N
+12,1956.0,James Dean,actor,N
+13,1956.0,Frank Sinatra,actor,N
+14,1956.0,Spencer Tracy,actor,N
+15,1956.0,Anna Magnani,actress,W
+16,1956.0,Susan Hayward,actress,N
+17,1956.0,Katharine Hepburn,actress,N
+18,1956.0,Jennifer Jones,actress,N
+19,1956.0,Eleanor Parker,actress,N
+20,1956.0,Jack Lemmon,s_actor,W
+21,1956.0,Arthur Kennedy,s_actor,N
+22,1956.0,Joe Mantell,s_actor,N
+23,1956.0,Sal Mineo,s_actor,N
+24,1956.0,Arthur O'Connell,s_actor,N
+25,1956.0,Jo Van Fleet,s_actress,W
+26,1956.0,Betsy Blair,s_actress,N
+27,1956.0,Peggy Lee,s_actress,N
+28,1956.0,Marisa Pavan,s_actress,N
+29,1956.0,Natalie Wood,s_actress,N
+30,1956.0,Paddy Chayefsky,screenplay,W
+31,1956.0,Millard Kaufman,screenplay,N
+32,1956.0,Richard Brooks,screenplay,N
+33,1956.0,Paul Osborn,screenplay,N
+34,1956.0,Daniel Fuchs,screenplay,N
+35,1956.0,Alfred Newman,music,W
+36,1956.0,Max Steiner,music,N
+37,1956.0,Elmer Bernstein,music,N
+38,1956.0,George Duning,music,N
+39,1956.0,Alex North,music,N
+40,1956.0,Robert Russell Bennett,music,W
+41,1956.0,Alfred Newman,music,N
+42,1956.0,Cyril J. Mockridge,music,N
+43,1956.0,André Previn,music,N
+44,1956.0,Percy Faith,music,N
+45,1956.0,Love Is a Many-Splendored Thing,song,W
+46,1956.0,Nicholas Brodszky,song,N
+47,1956.0,Something's Gotta Give,song,N
+48,1956.0,Jimmy Van Heusen,song,N
+49,1956.0,Unchained Melody,song,N
+50,1956.0,Fred Hynes,sound,W
+51,1956.0,Carlton W. Faulkner,sound,N
+52,1956.0,Wesley C. Miller,sound,N
+53,1956.0,William A. Mueller,sound,N
+54,1956.0,Watson Jones,sound,N
+55,1956.0,Hal Pereira,art_direction,W
+56,1956.0,Cedric Gibbons,art_direction,N
+57,1956.0,Cedric Gibbons,art_direction,N
+58,1956.0,Joseph C. Wright,art_direction,N
+59,1956.0,Ted Haworth,art_direction,N
+60,1956.0,William Flannery,art_direction,W
+61,1956.0,Lyle R. Wheeler,art_direction,N
+62,1956.0,Oliver Smith,art_direction,N
+63,1956.0,Lyle R. Wheeler,art_direction,N
+64,1956.0,Hal Pereira,art_direction,N
+65,1956.0,James Wong Howe,cinematography,W
+66,1956.0,Russell Harlan,cinematography,N
+67,1956.0,Arthur Arling,cinematography,N
+68,1956.0,Joseph LaShelle,cinematography,N
+69,1956.0,Charles Lang,cinematography,N
+70,1956.0,Robert Burks,cinematography,W
+71,1956.0,Harry Stradling,cinematography,N
+72,1956.0,Leon Shamroy,cinematography,N
+0,1957.0,Mike Todd,picture,W
+1,1957.0,Robert Wyler,picture,N
+2,1957.0,George Stevens,picture,N
+3,1957.0,Charles Brackett,picture,N
+4,1957.0,Cecil B. DeMille,picture,N
+5,1957.0,George Stevens,director,W
+6,1957.0,Michael Anderson,director,N
+7,1957.0,William Wyler,director,N
+8,1957.0,Walter Lang,director,N
+9,1957.0,King Vidor,director,N
+10,1957.0,Yul Brynner,actor,W
+11,1957.0,James Dean,actor,N
+12,1957.0,Kirk Douglas,actor,N
+13,1957.0,Rock Hudson,actor,N
+14,1957.0,Laurence Olivier,actor,N
+15,1957.0,Ingrid Bergman,actress,W
+16,1957.0,Carroll Baker,actress,N
+17,1957.0,Katharine Hepburn,actress,N
+18,1957.0,Nancy Kelly,actress,N
+19,1957.0,Deborah Kerr,actress,N
+20,1957.0,Anthony Quinn,s_actor,W
+21,1957.0,Don Murray,s_actor,N
+22,1957.0,Anthony Perkins,s_actor,N
+23,1957.0,Mickey Rooney,s_actor,N
+24,1957.0,Robert Stack,s_actor,N
+25,1957.0,Dorothy Malone,s_actress,W
+26,1957.0,Mildred Dunnock,s_actress,N
+27,1957.0,Eileen Heckart,s_actress,N
+28,1957.0,Mercedes McCambridge,s_actress,N
+29,1957.0,Patty McCormack,s_actress,N
+30,1957.0,Albert Lamorisse,screenplay,W
+31,1957.0,Robert Lewin,screenplay,N
+32,1957.0,Andrew L. Stone,screenplay,N
+33,1957.0,Federico Fellini,screenplay,N
+34,1957.0,William Rose,screenplay,N
+35,1957.0,James Poe,screenplay,W
+36,1957.0,Tennessee Williams,screenplay,N
+37,1957.0,Michael Wilson,screenplay,N
+38,1957.0,Ivan Moffat,screenplay,N
+39,1957.0,Norman Corwin,screenplay,N
+40,1957.0,Victor Young,music,W
+41,1957.0,Alfred Newman,music,N
+42,1957.0,Hugo Friedhofer,music,N
+43,1957.0,Dimitri Tiomkin,music,N
+44,1957.0,Alex North,music,N
+45,1957.0,Alfred Newman,music,W
+46,1957.0,Lionel Newman,music,N
+47,1957.0,Morris Stoloff,music,N
+48,1957.0,Johnny Green,music,N
+49,1957.0,Georgie Stoll,music,N
+50,1957.0,"Que Sera, Sera (Whatever Will Be, Will Be)",song,W
+51,1957.0,Friendly Persuasion (Thee I Love),song,N
+52,1957.0,Leith Stevens,song,N
+53,1957.0,True Love,song,N
+54,1957.0,Victor Young,song,N
+55,1957.0,Carlton W. Faulkner,sound,W
+56,1957.0,Buddy Myers,sound,N
+57,1957.0,John P. Livadary,sound,N
+58,1957.0,Gordon R. Glennan,sound,N
+59,1957.0,Loren L. Ryder,sound,N
+60,1957.0,Cedric Gibbons,art_direction,W
+61,1957.0,Hal Pereira,art_direction,N
+62,1957.0,So Matsuyama,art_direction,N
+63,1957.0,Ross Bellah,art_direction,N
+64,1957.0,Lyle R. Wheeler,art_direction,N
+65,1957.0,Lyle R. Wheeler,art_direction,W
+66,1957.0,James W. Sullivan,art_direction,N
+67,1957.0,Boris Leven,art_direction,N
+68,1957.0,Cedric Gibbons,art_direction,N
+69,1957.0,Hal Pereira,art_direction,N
+70,1957.0,Joseph Ruttenberg,cinematography,W
+71,1957.0,Boris Kaufman,cinematography,N
+72,1957.0,Harold Rosson,cinematography,N
+73,1957.0,Burnett Guffey,cinematography,N
+74,1957.0,Walter Strenge,cinematography,N
+75,1957.0,Lionel Lindon,cinematography,W
+76,1957.0,Harry Stradling,cinematography,N
+77,1957.0,Leon Shamroy,cinematography,N
+78,1957.0,Loyal Griggs,cinematography,N
+79,1957.0,Jack Cardiff,cinematography,N
+80,1957.0,Jean Louis,costume,W
+81,1957.0,Helen Rose,costume,N
+82,1957.0,Edith Head,costume,N
+83,1957.0,Kohei Ezaki,costume,N
+84,1957.0,Charles LeMaire,costume,N
+85,1957.0,Irene Sharaff,costume,W
+86,1957.0,Miles White,costume,N
+87,1957.0,Moss Mabry,costume,N
+88,1957.0,Edith Head,costume,N
+89,1957.0,Maria De Matteis,costume,N
+90,1957.0,Gene Ruggiero,editing,W
+0,1958.0,Sam Spiegel,picture,W
+1,1958.0,Henry Fonda,picture,N
+2,1958.0,Jerry Wald,picture,N
+3,1958.0,William Goetz,picture,N
+4,1958.0,Arthur Hornblow Jr.,picture,N
+5,1958.0,David Lean,director,W
+6,1958.0,Sidney Lumet,director,N
+7,1958.0,Mark Robson,director,N
+8,1958.0,Joshua Logan,director,N
+9,1958.0,Billy Wilder,director,N
+10,1958.0,Alec Guinness,actor,W
+11,1958.0,Marlon Brando,actor,N
+12,1958.0,Anthony Franciosa,actor,N
+13,1958.0,Charles Laughton,actor,N
+14,1958.0,Anthony Quinn,actor,N
+15,1958.0,Joanne Woodward,actress,W
+16,1958.0,Deborah Kerr,actress,N
+17,1958.0,Anna Magnani,actress,N
+18,1958.0,Elizabeth Taylor,actress,N
+19,1958.0,Lana Turner,actress,N
+20,1958.0,Red Buttons,s_actor,W
+21,1958.0,Vittorio De Sica,s_actor,N
+22,1958.0,Sessue Hayakawa,s_actor,N
+23,1958.0,Arthur Kennedy,s_actor,N
+24,1958.0,Russ Tamblyn,s_actor,N
+25,1958.0,Miyoshi Umeki,s_actress,W
+26,1958.0,Carolyn Jones,s_actress,N
+27,1958.0,Elsa Lanchester,s_actress,N
+28,1958.0,Hope Lange,s_actress,N
+29,1958.0,Diane Varsi,s_actress,N
+30,1958.0,Michael Wilson,screenplay,W
+31,1958.0,Reginald Rose,screenplay,N
+32,1958.0,John Lee Mahin,screenplay,N
+33,1958.0,John Michael Hayes,screenplay,N
+34,1958.0,Paul Osborn,screenplay,N
+35,1958.0,Malcolm Arnold,music,W
+36,1958.0,Hugo Friedhofer,music,N
+37,1958.0,Hugo Friedhofer,music,N
+38,1958.0,Paul J. Smith,music,N
+39,1958.0,Johnny Green,music,N
+40,1958.0,All the Way,song,W
+41,1958.0,An Affair to Remember,song,N
+42,1958.0,April Love,song,N
+43,1958.0,Tammy,song,N
+44,1958.0,Wild Is the Wind,song,N
+45,1958.0,George Groves,sound,W
+46,1958.0,George Dutton,sound,N
+47,1958.0,Wesley C. Miller,sound,N
+48,1958.0,John P. Livadary,sound,N
+49,1958.0,Gordon E. Sawyer,sound,N
+50,1958.0,Orry-Kelly,costume,W
+51,1958.0,Charles LeMaire,costume,N
+52,1958.0,Edith Head,costume,N
+53,1958.0,Jean Louis,costume,N
+54,1958.0,Walter Plunkett,costume,N
+55,1958.0,Ted Haworth,art_direction,W
+56,1958.0,Hal Pereira,art_direction,N
+57,1958.0,William A. Horning,art_direction,N
+58,1958.0,Walter Holscher,art_direction,N
+59,1958.0,William A. Horning,art_direction,N
+60,1958.0,Jack Hildyard,cinematography,W
+61,1958.0,Milton Krasner,cinematography,N
+62,1958.0,Ray June,cinematography,N
+63,1958.0,William C. Mellor,cinematography,N
+0,1959.0,Arthur Freed,picture,W
+1,1959.0,Jack L. Warner,picture,N
+2,1959.0,Lawrence Weingarten,picture,N
+3,1959.0,Stanley Kramer,picture,N
+4,1959.0,Harold Hecht,picture,N
+5,1959.0,Vincente Minnelli,director,W
+6,1959.0,Richard Brooks,director,N
+7,1959.0,Stanley Kramer,director,N
+8,1959.0,Robert Wise,director,N
+9,1959.0,Mark Robson,director,N
+10,1959.0,David Niven,actor,W
+11,1959.0,Tony Curtis,actor,N
+12,1959.0,Paul Newman,actor,N
+13,1959.0,Sidney Poitier,actor,N
+14,1959.0,Spencer Tracy,actor,N
+15,1959.0,Susan Hayward,actress,W
+16,1959.0,Deborah Kerr,actress,N
+17,1959.0,Shirley MacLaine,actress,N
+18,1959.0,Rosalind Russell,actress,N
+19,1959.0,Elizabeth Taylor,actress,N
+20,1959.0,Burl Ives,s_actor,W
+21,1959.0,Theodore Bikel,s_actor,N
+22,1959.0,Lee J. Cobb,s_actor,N
+23,1959.0,Arthur Kennedy,s_actor,N
+24,1959.0,Gig Young,s_actor,N
+25,1959.0,Wendy Hiller,s_actress,W
+26,1959.0,Peggy Cass,s_actress,N
+27,1959.0,Martha Hyer,s_actress,N
+28,1959.0,Maureen Stapleton,s_actress,N
+29,1959.0,Cara Williams,s_actress,N
+30,1959.0,Alan Jay Lerner,screenplay,W
+31,1959.0,Richard Brooks,screenplay,N
+32,1959.0,Alec Guinness,screenplay,N
+33,1959.0,Don Mankiewicz,screenplay,N
+34,1959.0,John Gay,screenplay,N
+35,1959.0,Dimitri Tiomkin,music,W
+36,1959.0,Jerome Moross,music,N
+37,1959.0,David Raksin,music,N
+38,1959.0,Oliver Wallace,music,N
+39,1959.0,Hugo Friedhofer,music,N
+40,1959.0,André Previn,music,W
+41,1959.0,Yuri Faier,music,N
+42,1959.0,Ray Heindorf,music,N
+43,1959.0,Lionel Newman,music,N
+44,1959.0,Alfred Newman,music,N
+45,1959.0,Gigi,song,W
+46,1959.0,Jay Livingston,song,N
+47,1959.0,A Certain Smile,song,N
+48,1959.0,Jimmy Van Heusen,song,N
+49,1959.0,A Very Precious Love,song,N
+50,1959.0,Fred Hynes,sound,W
+51,1959.0,Gordon E. Sawyer,sound,N
+52,1959.0,Leslie I. Carey,sound,N
+53,1959.0,George Dutton,sound,N
+54,1959.0,Carlton W. Faulkner,sound,N
+55,1959.0,William A. Horning,art_direction,W
+56,1959.0,Malcolm Bert,art_direction,N
+57,1959.0,Cary Odell,art_direction,N
+58,1959.0,Lyle R. Wheeler,art_direction,N
+59,1959.0,Hal Pereira,art_direction,N
+60,1959.0,Cecil Beaton,costume,W
+61,1959.0,Jean Louis,costume,N
+62,1959.0,Ralph Jester,costume,N
+63,1959.0,Charles LeMaire,costume,N
+64,1959.0,Walter Plunkett,costume,N
+65,1959.0,Sam Leavitt,cinematography,W
+66,1959.0,Daniel L. Fapp,cinematography,N
+67,1959.0,Lionel Lindon,cinematography,N
+68,1959.0,Charles Lang,cinematography,N
+69,1959.0,Joseph MacDonald,cinematography,N
+70,1959.0,Joseph Ruttenberg,cinematography,W
+71,1959.0,Harry Stradling,cinematography,N
+72,1959.0,William Daniels,cinematography,N
+73,1959.0,James Wong Howe,cinematography,N
+74,1959.0,Leon Shamroy,cinematography,N
+75,1959.0,Adrienne Fazan,editing,W
+76,1959.0,William Ziegler,editing,N
+77,1959.0,William Lyon,editing,N
+78,1959.0,Frederic Knudtson,editing,N
+79,1959.0,William Hornbeck,editing,N
+80,1959.0,Tom Howard,effects,W
+81,1959.0,A. Arnold Gillespie,effects,N
+0,1960.0,Sam Zimbalist,picture,W
+1,1960.0,Otto Preminger,picture,N
+2,1960.0,George Stevens,picture,N
+3,1960.0,Henry Blanke,picture,N
+4,1960.0,John Woolf,picture,N
+5,1960.0,William Wyler,director,W
+6,1960.0,George Stevens,director,N
+7,1960.0,Fred Zinnemann,director,N
+8,1960.0,Jack Clayton,director,N
+9,1960.0,Billy Wilder,director,N
+10,1960.0,Charlton Heston,actor,W
+11,1960.0,Laurence Harvey,actor,N
+12,1960.0,Jack Lemmon,actor,N
+13,1960.0,Paul Muni,actor,N
+14,1960.0,James Stewart,actor,N
+15,1960.0,Simone Signoret,actress,W
+16,1960.0,Doris Day,actress,N
+17,1960.0,Audrey Hepburn,actress,N
+18,1960.0,Katharine Hepburn,actress,N
+19,1960.0,Elizabeth Taylor,actress,N
+20,1960.0,Hugh Griffith,s_actor,W
+21,1960.0,Arthur O'Connell,s_actor,N
+22,1960.0,George C. Scott,s_actor,N
+23,1960.0,Robert Vaughn,s_actor,N
+24,1960.0,Ed Wynn,s_actor,N
+25,1960.0,Shelley Winters,s_actress,W
+26,1960.0,Hermione Baddeley,s_actress,N
+27,1960.0,Susan Kohner,s_actress,N
+28,1960.0,Juanita Moore,s_actress,N
+29,1960.0,Thelma Ritter,s_actress,N
+30,1960.0,Neil Paterson,screenplay,W
+31,1960.0,Wendell Mayes,screenplay,N
+32,1960.0,Karl Tunberg,screenplay,N
+33,1960.0,Robert Anderson,screenplay,N
+34,1960.0,Billy Wilder,screenplay,N
+35,1960.0,Miklós Rózsa,music,W
+36,1960.0,Alfred Newman,music,N
+37,1960.0,Franz Waxman,music,N
+38,1960.0,Ernest Gold,music,N
+39,1960.0,Frank De Vol,music,N
+40,1960.0,André Previn,music,W
+41,1960.0,Leith Stevens,music,N
+42,1960.0,Nelson Riddle,music,N
+43,1960.0,Lionel Newman,music,N
+44,1960.0,George Bruns,music,N
+45,1960.0,High Hopes,song,W
+46,1960.0,Alfred Newman,song,N
+47,1960.0,Sylvia Fine,song,N
+48,1960.0,The Hanging Tree,song,N
+49,1960.0,Dimitri Tiomkin,song,N
+50,1960.0,Franklin Milton,sound,W
+51,1960.0,Carlton W. Faulkner,sound,N
+52,1960.0,A. W. Watkins,sound,N
+53,1960.0,George Groves,sound,N
+54,1960.0,Gordon E. Sawyer,sound,N
+55,1960.0,Lyle R. Wheeler,art_direction,W
+56,1960.0,Hal Pereira,art_direction,N
+57,1960.0,Carl Anderson,art_direction,N
+58,1960.0,Ted Haworth,art_direction,N
+59,1960.0,Oliver Messel,art_direction,N
+60,1960.0,William A. Horning,art_direction,W
+61,1960.0,John DeCuir,art_direction,N
+62,1960.0,Lyle R. Wheeler,art_direction,N
+63,1960.0,William A. Horning,art_direction,N
+64,1960.0,Richard H. Riedel,art_direction,N
+65,1960.0,William C. Mellor,cinematography,W
+66,1960.0,Sam Leavitt,cinematography,N
+67,1960.0,Joseph LaShelle,cinematography,N
+68,1960.0,Charles Lang,cinematography,N
+69,1960.0,"Harry Stradling, Sr.",cinematography,N
+70,1960.0,Robert Surtees,cinematography,W
+71,1960.0,Lee Garmes,cinematography,N
+72,1960.0,Daniel L. Fapp,cinematography,N
+73,1960.0,Franz Planer,cinematography,N
+74,1960.0,Leon Shamroy,cinematography,N
+75,1960.0,Orry-Kelly,costume,W
+76,1960.0,Edith Head,costume,N
+77,1960.0,Charles LeMaire,costume,N
+78,1960.0,Helen Rose,costume,N
+79,1960.0,Howard Shoup,costume,N
+80,1960.0,Elizabeth Haffenden,costume,W
+81,1960.0,Adele Palmer,costume,N
+82,1960.0,Renié,costume,N
+83,1960.0,Edith Head,costume,N
+84,1960.0,Irene Sharaff,costume,N
+85,1960.0,Ralph E. Winters,editing,W
+86,1960.0,Louis R. Loeffler,editing,N
+87,1960.0,George Tomasini,editing,N
+88,1960.0,Walter Thompson,editing,N
+89,1960.0,Frederic Knudtson,editing,N
+90,1960.0,A. Arnold Gillespie,effects,W
+91,1960.0,L. B. Abbott,effects,N
+0,1961.0,Billy Wilder,picture,W
+1,1961.0,John Wayne,picture,N
+2,1961.0,Bernard Smith,picture,N
+3,1961.0,Jerry Wald,picture,N
+4,1961.0,Fred Zinnemann,picture,N
+5,1961.0,Billy Wilder,director,W
+6,1961.0,Jules Dassin,director,N
+7,1961.0,Alfred Hitchcock,director,N
+8,1961.0,Jack Cardiff,director,N
+9,1961.0,Fred Zinnemann,director,N
+10,1961.0,Burt Lancaster,actor,W
+11,1961.0,Trevor Howard,actor,N
+12,1961.0,Jack Lemmon,actor,N
+13,1961.0,Laurence Olivier,actor,N
+14,1961.0,Spencer Tracy,actor,N
+15,1961.0,Elizabeth Taylor,actress,W
+16,1961.0,Greer Garson,actress,N
+17,1961.0,Deborah Kerr,actress,N
+18,1961.0,Shirley MacLaine,actress,N
+19,1961.0,Melina Mercouri,actress,N
+20,1961.0,Peter Ustinov,s_actor,W
+21,1961.0,Peter Falk,s_actor,N
+22,1961.0,Jack Kruschen,s_actor,N
+23,1961.0,Sal Mineo,s_actor,N
+24,1961.0,Chill Wills,s_actor,N
+25,1961.0,Shirley Jones,s_actress,W
+26,1961.0,Glynis Johns,s_actress,N
+27,1961.0,Shirley Knight,s_actress,N
+28,1961.0,Janet Leigh,s_actress,N
+29,1961.0,Mary Ure,s_actress,N
+30,1961.0,Richard Brooks,screenplay,W
+31,1961.0,Nedrick Young,screenplay,N
+32,1961.0,Gavin Lambert,screenplay,N
+33,1961.0,Isobel Lennart,screenplay,N
+34,1961.0,James Kennaway,screenplay,N
+35,1961.0,Ernest Gold,music,W
+36,1961.0,Dimitri Tiomkin,music,N
+37,1961.0,André Previn,music,N
+38,1961.0,Elmer Bernstein,music,N
+39,1961.0,Alex North,music,N
+40,1961.0,Morris Stoloff,music,W
+41,1961.0,André Previn,music,N
+42,1961.0,Nelson Riddle,music,N
+43,1961.0,Lionel Newman,music,N
+44,1961.0,Johnny Green,music,N
+45,1961.0,Never on Sunday,song,W
+46,1961.0,The Second Time Around,song,N
+47,1961.0,André Previn,song,N
+48,1961.0,The Green Leaves of Summer,song,N
+49,1961.0,Johnny Mercer,song,N
+50,1961.0,Gordon E. Sawyer,sound,W
+51,1961.0,Gordon E. Sawyer,sound,N
+52,1961.0,Franklin Milton,sound,N
+53,1961.0,Charles Rice,sound,N
+54,1961.0,George Groves,sound,N
+55,1961.0,Alexandre Trauner,art_direction,W
+56,1961.0,Joseph McMillan Johnson,art_direction,N
+57,1961.0,Joseph Hurley,art_direction,N
+58,1961.0,Thomas N. Morahan,art_direction,N
+59,1961.0,Hal Pereira,art_direction,N
+60,1961.0,Alexander Golitzen,art_direction,W
+61,1961.0,George Davis,art_direction,N
+62,1961.0,Hal Pereira,art_direction,N
+63,1961.0,Ted Haworth,art_direction,N
+64,1961.0,Edward Carrere,art_direction,N
+65,1961.0,Freddie Francis,cinematography,W
+66,1961.0,Joseph LaShelle,cinematography,N
+67,1961.0,Charles Lang,cinematography,N
+68,1961.0,Ernest Laszlo,cinematography,N
+69,1961.0,John L. Russell,cinematography,N
+70,1961.0,Russell Metty,cinematography,W
+71,1961.0,William H. Clothier,cinematography,N
+72,1961.0,Joseph Ruttenberg,cinematography,N
+73,1961.0,Sam Leavitt,cinematography,N
+74,1961.0,Joseph MacDonald,cinematography,N
+75,1961.0,Edith Head,costume,W
+76,1961.0,Deni Vachlioti,costume,N
+77,1961.0,Howard Shoup,costume,N
+78,1961.0,Bill Thomas,costume,N
+79,1961.0,Marik Vos,costume,N
+80,1961.0,Bill Thomas,costume,W
+81,1961.0,Irene Sharaff,costume,N
+82,1961.0,Irene Lentz,costume,N
+83,1961.0,Edith Head,costume,N
+84,1961.0,Marjorie Best,costume,N
+85,1961.0,Daniel Mandell,editing,W
+86,1961.0,Stuart Gilmore,editing,N
+87,1961.0,Frederic Knudtson,editing,N
+88,1961.0,Viola Lawrence,editing,N
+89,1961.0,Robert Lawrence,editing,N
+90,1961.0,Gene Warren,effects,W
+91,1961.0,Augie Lohman,effects,N
+0,1962.0,Robert Wise,picture,W
+1,1962.0,Joshua Logan,picture,N
+2,1962.0,Carl Foreman,picture,N
+3,1962.0,Robert Rossen,picture,N
+4,1962.0,Stanley Kramer,picture,N
+5,1962.0,Robert Wise,director,W
+6,1962.0,Federico Fellini,director,N
+7,1962.0,J. Lee Thompson,director,N
+8,1962.0,Robert Rossen,director,N
+9,1962.0,Stanley Kramer,director,N
+10,1962.0,Maximilian Schell,actor,W
+11,1962.0,Charles Boyer,actor,N
+12,1962.0,Paul Newman,actor,N
+13,1962.0,Spencer Tracy,actor,N
+14,1962.0,Stuart Whitman,actor,N
+15,1962.0,Sophia Loren,actress,W
+16,1962.0,Audrey Hepburn,actress,N
+17,1962.0,Piper Laurie,actress,N
+18,1962.0,Geraldine Page,actress,N
+19,1962.0,Natalie Wood,actress,N
+20,1962.0,George Chakiris,s_actor,W
+21,1962.0,Montgomery Clift,s_actor,N
+22,1962.0,Peter Falk,s_actor,N
+23,1962.0,Jackie Gleason,s_actor,N
+24,1962.0,George C. Scott,s_actor,N
+25,1962.0,Rita Moreno,s_actress,W
+26,1962.0,Fay Bainter,s_actress,N
+27,1962.0,Judy Garland,s_actress,N
+28,1962.0,Lotte Lenya,s_actress,N
+29,1962.0,Una Merkel,s_actress,N
+30,1962.0,Abby Mann,screenplay,W
+31,1962.0,George Axelrod,screenplay,N
+32,1962.0,Carl Foreman,screenplay,N
+33,1962.0,Robert Rossen,screenplay,N
+34,1962.0,Ernest Lehman,screenplay,N
+35,1962.0,Henry Mancini,music,W
+36,1962.0,Miklós Rózsa,music,N
+37,1962.0,Morris Stoloff,music,N
+38,1962.0,Dimitri Tiomkin,music,N
+39,1962.0,Elmer Bernstein,music,N
+40,1962.0,Saul Chaplin,music,W
+41,1962.0,George Bruns,music,N
+42,1962.0,Alfred Newman,music,N
+43,1962.0,Dmitri Shostakovich,music,N
+44,1962.0,Duke Ellington,music,N
+45,1962.0,Moon River,song,W
+46,1962.0,Henry Mancini,song,N
+47,1962.0,Miklós Rózsa,song,N
+48,1962.0,Jimmy Van Heusen,song,N
+49,1962.0,Dimitri Tiomkin,song,N
+50,1962.0,Gordon E. Sawyer,sound,W
+51,1962.0,Gordon E. Sawyer,sound,N
+52,1962.0,Waldon O. Watson,sound,N
+53,1962.0,John Cox,sound,N
+54,1962.0,Robert O. Cook,sound,N
+55,1962.0,Harry Horner,art_direction,W
+56,1962.0,Carroll Clark,art_direction,N
+57,1962.0,Fernando Carrere,art_direction,N
+58,1962.0,Piero Gherardi,art_direction,N
+59,1962.0,Rudolph Sternad,art_direction,N
+60,1962.0,Boris Leven,art_direction,W
+61,1962.0,Hal Pereira,art_direction,N
+62,1962.0,Veniero Colasanti,art_direction,N
+63,1962.0,Alexander Golitzen,art_direction,N
+64,1962.0,Hal Pereira,art_direction,N
+65,1962.0,Eugen Schüfftan,cinematography,W
+66,1962.0,Edward Colman,cinematography,N
+67,1962.0,Franz Planer,cinematography,N
+68,1962.0,Ernest Laszlo,cinematography,N
+69,1962.0,Daniel L. Fapp,cinematography,N
+70,1962.0,Daniel L. Fapp,cinematography,W
+71,1962.0,Jack Cardiff,cinematography,N
+72,1962.0,Russell Metty,cinematography,N
+73,1962.0,Harry Stradling,cinematography,N
+74,1962.0,Charles Lang,cinematography,N
+75,1962.0,Piero Gherardi,costume,W
+76,1962.0,Dorothy Jeakins,costume,N
+77,1962.0,Howard Shoup,costume,N
+78,1962.0,Jean Louis,costume,N
+79,1962.0,Yoshirō Muraki,costume,N
+80,1962.0,Irene Sharaff,costume,W
+81,1962.0,Bill Thomas,costume,N
+82,1962.0,Jean Louis,costume,N
+83,1962.0,Irene Sharaff,costume,N
+84,1962.0,Edith Head,costume,N
+85,1962.0,Thomas Stanford,editing,W
+86,1962.0,William H. Reynolds,editing,N
+87,1962.0,Alan Osbiston,editing,N
+88,1962.0,Frederic Knudtson,editing,N
+89,1962.0,Philip W. Anderson,editing,N
+90,1962.0,Bill Warrington,effects,W
+91,1962.0,Robert A. Mattey,effects,N
+0,1963.0,Sam Spiegel,picture,W
+1,1963.0,Darryl F. Zanuck,picture,N
+2,1963.0,Morton DaCosta,picture,N
+3,1963.0,Aaron Rosenberg,picture,N
+4,1963.0,Alan J. Pakula,picture,N
+5,1963.0,David Lean,director,W
+6,1963.0,Frank Perry,director,N
+7,1963.0,Pietro Germi,director,N
+8,1963.0,Arthur Penn,director,N
+9,1963.0,Robert Mulligan,director,N
+10,1963.0,Gregory Peck,actor,W
+11,1963.0,Burt Lancaster,actor,N
+12,1963.0,Jack Lemmon,actor,N
+13,1963.0,Marcello Mastroianni,actor,N
+14,1963.0,Peter O'Toole,actor,N
+15,1963.0,Anne Bancroft,actress,W
+16,1963.0,Bette Davis,actress,N
+17,1963.0,Katharine Hepburn,actress,N
+18,1963.0,Geraldine Page,actress,N
+19,1963.0,Lee Remick,actress,N
+20,1963.0,Ed Begley,s_actor,W
+21,1963.0,Victor Buono,s_actor,N
+22,1963.0,Telly Savalas,s_actor,N
+23,1963.0,Omar Sharif,s_actor,N
+24,1963.0,Terence Stamp,s_actor,N
+25,1963.0,Patty Duke,s_actress,W
+26,1963.0,Mary Badham,s_actress,N
+27,1963.0,Shirley Knight,s_actress,N
+28,1963.0,Angela Lansbury,s_actress,N
+29,1963.0,Thelma Ritter,s_actress,N
+30,1963.0,Horton Foote,screenplay,W
+31,1963.0,Eleanor Perry,screenplay,N
+32,1963.0,Robert Bolt,screenplay,N
+33,1963.0,Vladimir Nabokov,screenplay,N
+34,1963.0,William Gibson,screenplay,N
+35,1963.0,Maurice Jarre,music,W
+36,1963.0,Jerry Goldsmith,music,N
+37,1963.0,Bronisław Kaper,music,N
+38,1963.0,Franz Waxman,music,N
+39,1963.0,Elmer Bernstein,music,N
+40,1963.0,Ray Heindorf,music,W
+41,1963.0,Georgie Stoll,music,N
+42,1963.0,Michel Magne,music,N
+43,1963.0,Frank Perkins,music,N
+44,1963.0,Leigh Harline,music,N
+45,1963.0,Days of Wine and Roses,song,W
+46,1963.0,Bronisław Kaper,song,N
+47,1963.0,André Previn,song,N
+48,1963.0,Sammy Fain,song,N
+49,1963.0,Walk on the Wild Side,song,N
+50,1963.0,John Cox,sound,W
+51,1963.0,Robert O. Cook,sound,N
+52,1963.0,George R. Groves,sound,N
+53,1963.0,Waldon O. Watson,sound,N
+54,1963.0,Joseph D. Kelly,sound,N
+55,1963.0,Alexander Golitzen,art_direction,W
+56,1963.0,Joseph C. Wright,art_direction,N
+57,1963.0,Ted Haworth,art_direction,N
+58,1963.0,George Davis,art_direction,N
+59,1963.0,Hal Pereira,art_direction,N
+60,1963.0,John Box,art_direction,W
+61,1963.0,Paul Groesse,art_direction,N
+62,1963.0,George Davis,art_direction,N
+63,1963.0,Alexander Golitzen,art_direction,N
+64,1963.0,George Davis,art_direction,N
+0,1964.0,Tony Richardson,picture,W
+1,1964.0,Elia Kazan,picture,N
+2,1964.0,Walter Wanger,picture,N
+3,1964.0,Bernard Smith,picture,N
+4,1964.0,Ralph Nelson,picture,N
+5,1964.0,Tony Richardson,director,W
+6,1964.0,Federico Fellini,director,N
+7,1964.0,Elia Kazan,director,N
+8,1964.0,Otto Preminger,director,N
+9,1964.0,Martin Ritt,director,N
+10,1964.0,Sidney Poitier,actor,W
+11,1964.0,Albert Finney,actor,N
+12,1964.0,Richard Harris,actor,N
+13,1964.0,Rex Harrison,actor,N
+14,1964.0,Paul Newman,actor,N
+15,1964.0,Patricia Neal,actress,W
+16,1964.0,Leslie Caron,actress,N
+17,1964.0,Shirley MacLaine,actress,N
+18,1964.0,Rachel Roberts,actress,N
+19,1964.0,Natalie Wood,actress,N
+20,1964.0,Melvyn Douglas,s_actor,W
+21,1964.0,Nick Adams,s_actor,N
+22,1964.0,Bobby Darin,s_actor,N
+23,1964.0,Hugh Griffith,s_actor,N
+24,1964.0,John Huston,s_actor,N
+25,1964.0,Margaret Rutherford,s_actress,W
+26,1964.0,Diane Cilento,s_actress,N
+27,1964.0,Edith Evans,s_actress,N
+28,1964.0,Joyce Redman,s_actress,N
+29,1964.0,Lilia Skala,s_actress,N
+30,1964.0,John Osborne,screenplay,W
+31,1964.0,Richard L. Breen,screenplay,N
+32,1964.0,Irving Ravetch,screenplay,N
+33,1964.0,James Poe,screenplay,N
+34,1964.0,Serge Bourguignon,screenplay,N
+35,1964.0,Call Me Irresponsible,song,W
+36,1964.0,Henry Mancini,song,N
+37,1964.0,Ernest Gold,song,N
+38,1964.0,More,song,N
+39,1964.0,Dimitri Tiomkin,song,N
+40,1964.0,John Addison,music,W
+41,1964.0,Dimitri Tiomkin,music,N
+42,1964.0,Alex North,music,N
+43,1964.0,Alfred Newman,music,N
+44,1964.0,Ernest Gold,music,N
+45,1964.0,André Previn,music,W
+46,1964.0,Johnny Green,music,N
+47,1964.0,Leith Stevens,music,N
+48,1964.0,Maurice Jarre,music,N
+49,1964.0,George Bruns,music,N
+50,1964.0,Walter Elliott,effects,W
+51,1964.0,Robert Bratton,effects,N
+52,1964.0,Franklin Milton,sound,W
+53,1964.0,Charles Rice,sound,N
+54,1964.0,Waldon O. Watson,sound,N
+55,1964.0,James Corcoran,sound,N
+56,1964.0,Gordon E. Sawyer,sound,N
+57,1964.0,Gene Callahan,art_direction,W
+58,1964.0,Piero Gherardi,art_direction,N
+59,1964.0,Hal Pereira,art_direction,N
+60,1964.0,Hal Pereira,art_direction,N
+61,1964.0,George Davis,art_direction,N
+62,1964.0,John DeCuir,art_direction,W
+63,1964.0,Lyle R. Wheeler,art_direction,N
+64,1964.0,Hal Pereira,art_direction,N
+65,1964.0,George Davis,art_direction,N
+66,1964.0,Ralph W. Brinton,art_direction,N
+67,1964.0,James Wong Howe,cinematography,W
+68,1964.0,George J. Folsey,cinematography,N
+69,1964.0,Lucien Ballard,cinematography,N
+70,1964.0,Ernest Haller,cinematography,N
+71,1964.0,Milton Krasner,cinematography,N
+72,1964.0,Leon Shamroy,cinematography,W
+73,1964.0,Leon Shamroy,cinematography,N
+74,1964.0,William Daniels,cinematography,N
+75,1964.0,Joseph LaShelle,cinematography,N
+76,1964.0,Ernest Laszlo,cinematography,N
+77,1964.0,Piero Gherardi,costume,W
+78,1964.0,Edith Head,costume,N
+79,1964.0,Travilla,costume,N
+80,1964.0,Bill Thomas,costume,N
+81,1964.0,Edith Head,costume,N
+82,1964.0,Irene Sharaff,costume,W
+83,1964.0,Donald Brooks,costume,N
+84,1964.0,Walter Plunkett,costume,N
+85,1964.0,Piero Tosi,costume,N
+86,1964.0,Edith Head,costume,N
+87,1964.0,Harold F. Kress,editing,W
+88,1964.0,Dorothy Spencer,editing,N
+89,1964.0,Louis R. Loeffler,editing,N
+90,1964.0,Ferris Webster,editing,N
+91,1964.0,Frederic Knudtson,editing,N
+92,1964.0,Emil Kosa Jr.,effects,W
+93,1964.0,Ub Iwerks,effects,N
+0,1965.0,Jack L. Warner,picture,W
+1,1965.0,Hal B. Wallis,picture,N
+2,1965.0,Stanley Kubrick,picture,N
+3,1965.0,Walt Disney,picture,N
+4,1965.0,Michael Cacoyannis,picture,N
+5,1965.0,George Cukor,director,W
+6,1965.0,Peter Glenville,director,N
+7,1965.0,Stanley Kubrick,director,N
+8,1965.0,Robert Stevenson,director,N
+9,1965.0,Michael Cacoyannis,director,N
+10,1965.0,Rex Harrison,actor,W
+11,1965.0,Richard Burton,actor,N
+12,1965.0,Peter O'Toole,actor,N
+13,1965.0,Anthony Quinn,actor,N
+14,1965.0,Peter Sellers,actor,N
+15,1965.0,Julie Andrews,actress,W
+16,1965.0,Anne Bancroft,actress,N
+17,1965.0,Sophia Loren,actress,N
+18,1965.0,Debbie Reynolds,actress,N
+19,1965.0,Kim Stanley,actress,N
+20,1965.0,Peter Ustinov,s_actor,W
+21,1965.0,John Gielgud,s_actor,N
+22,1965.0,Stanley Holloway,s_actor,N
+23,1965.0,Edmond O'Brien,s_actor,N
+24,1965.0,Lee Tracy,s_actor,N
+25,1965.0,Lila Kedrova,s_actress,W
+26,1965.0,Gladys Cooper,s_actress,N
+27,1965.0,Edith Evans,s_actress,N
+28,1965.0,Grayson Hall,s_actress,N
+29,1965.0,Agnes Moorehead,s_actress,N
+30,1965.0,Edward Anhalt,screenplay,W
+31,1965.0,Stanley Kubrick,screenplay,N
+32,1965.0,Bill Walsh,screenplay,N
+33,1965.0,Alan Jay Lerner,screenplay,N
+34,1965.0,Michael Cacoyannis,screenplay,N
+35,1965.0,Chim Chim Cher-ee,song,W
+36,1965.0,Henry Mancini,song,N
+37,1965.0,"Hush, Hush, Sweet Charlotte",song,N
+38,1965.0,My Kind of Town,song,N
+39,1965.0,Jimmy Van Heusen,song,N
+40,1965.0,Richard M. Sherman,music,W
+41,1965.0,Laurence Rosenthal,music,N
+42,1965.0,Dimitri Tiomkin,music,N
+43,1965.0,Frank De Vol,music,N
+44,1965.0,Henry Mancini,music,N
+45,1965.0,André Previn,music,W
+46,1965.0,George Martin,music,N
+47,1965.0,Irwin Kostal,music,N
+48,1965.0,Nelson Riddle,music,N
+49,1965.0,Robert Armbruster,music,N
+50,1965.0,Norman Wanstall,effects,W
+51,1965.0,Robert Bratton,effects,N
+52,1965.0,George Groves,sound,W
+53,1965.0,John Cox,sound,N
+54,1965.0,Waldon O. Watson,sound,N
+55,1965.0,Robert O. Cook,sound,N
+56,1965.0,Franklin Milton,sound,N
+57,1965.0,Vassilis Photopoulos,art_direction,W
+58,1965.0,George Davis,art_direction,N
+59,1965.0,William Glasgow,art_direction,N
+60,1965.0,Stephen B. Grimes,art_direction,N
+61,1965.0,Cary Odell,art_direction,N
+62,1965.0,Gene Allen,art_direction,W
+63,1965.0,John Bryan,art_direction,N
+64,1965.0,Carroll Clark,art_direction,N
+65,1965.0,George Davis,art_direction,N
+66,1965.0,Jack Martin Smith,art_direction,N
+67,1965.0,Walter Lassally,cinematography,W
+68,1965.0,Philip H. Lathrop,cinematography,N
+69,1965.0,Milton Krasner,cinematography,N
+70,1965.0,Joseph Biroc,cinematography,N
+71,1965.0,Gabriel Figueroa,cinematography,N
+72,1965.0,Harry Stradling,cinematography,W
+73,1965.0,Geoffrey Unsworth,cinematography,N
+74,1965.0,William Clothier,cinematography,N
+75,1965.0,Edward Colman,cinematography,N
+76,1965.0,Daniel L. Fapp,cinematography,N
+77,1965.0,Dorothy Jeakins,costume,W
+78,1965.0,Edith Head,costume,N
+79,1965.0,Norma Koch,costume,N
+80,1965.0,Howard Shoup,costume,N
+81,1965.0,René Hubert,costume,N
+82,1965.0,Cecil Beaton,costume,W
+83,1965.0,Margaret Furse,costume,N
+84,1965.0,Tony Walton,costume,N
+85,1965.0,Morton Haack,costume,N
+86,1965.0,Edith Head,costume,N
+87,1965.0,Cotton Warburton,editing,W
+88,1965.0,Anne V. Coates,editing,N
+89,1965.0,Ted J. Kent,editing,N
+90,1965.0,Michael Luciano,editing,N
+91,1965.0,William Ziegler,editing,N
+92,1965.0,Peter Ellenshaw,effects,W
+93,1965.0,Jim Danforth,effects,N
+0,1966.0,Robert Wise,picture,W
+1,1966.0,Joseph Janni,picture,N
+2,1966.0,Carlo Ponti,picture,N
+3,1966.0,Stanley Kramer,picture,N
+4,1966.0,Fred Coe,picture,N
+5,1966.0,Robert Wise,director,W
+6,1966.0,William Wyler,director,N
+7,1966.0,John Schlesinger,director,N
+8,1966.0,David Lean,director,N
+9,1966.0,Hiroshi Teshigahara,director,N
+10,1966.0,Lee Marvin,actor,W
+11,1966.0,Richard Burton,actor,N
+12,1966.0,Laurence Olivier,actor,N
+13,1966.0,Rod Steiger,actor,N
+14,1966.0,Oskar Werner,actor,N
+15,1966.0,Julie Christie,actress,W
+16,1966.0,Julie Andrews,actress,N
+17,1966.0,Samantha Eggar,actress,N
+18,1966.0,Elizabeth Hartman,actress,N
+19,1966.0,Simone Signoret,actress,N
+20,1966.0,Martin Balsam,s_actor,W
+21,1966.0,Ian Bannen,s_actor,N
+22,1966.0,Tom Courtenay,s_actor,N
+23,1966.0,Michael Dunn,s_actor,N
+24,1966.0,Frank Finlay,s_actor,N
+25,1966.0,Shelley Winters,s_actress,W
+26,1966.0,Ruth Gordon,s_actress,N
+27,1966.0,Joyce Redman,s_actress,N
+28,1966.0,Maggie Smith,s_actress,N
+29,1966.0,Peggy Wood,s_actress,N
+30,1966.0,Robert Bolt,screenplay,W
+31,1966.0,Walter Newman,screenplay,N
+32,1966.0,Stanley Mann,screenplay,N
+33,1966.0,Abby Mann,screenplay,N
+34,1966.0,Herb Gardner,screenplay,N
+35,1966.0,The Shadow of Your Smile,song,W
+36,1966.0,Jerry Livingston,song,N
+37,1966.0,I Will Wait for You,song,N
+38,1966.0,Henry Mancini,song,N
+39,1966.0,"""What's New Pussycat?""",song,N
+40,1966.0,Maurice Jarre,music,W
+41,1966.0,Alex North,music,N
+42,1966.0,Alfred Newman,music,N
+43,1966.0,Jerry Goldsmith,music,N
+44,1966.0,Michel Legrand,music,N
+45,1966.0,Irwin Kostal,music,W
+46,1966.0,Frank De Vol,music,N
+47,1966.0,Lionel Newman,music,N
+48,1966.0,Don Walker,music,N
+49,1966.0,Michel Legrand,music,N
+50,1966.0,Treg Brown,effects,W
+51,1966.0,Walter Rossi,effects,N
+52,1966.0,James Corcoran,sound,W
+53,1966.0,James Corcoran,sound,N
+54,1966.0,A. W. Watkins,sound,N
+55,1966.0,George Groves,sound,N
+56,1966.0,Waldon O. Watson,sound,N
+57,1966.0,Robert Clatworthy,art_direction,W
+58,1966.0,Robert Emmet Smith,art_direction,N
+59,1966.0,George Davis,art_direction,N
+60,1966.0,Hal Pereira,art_direction,N
+61,1966.0,Hal Pereira,art_direction,N
+62,1966.0,John Box,art_direction,W
+63,1966.0,John DeCuir,art_direction,N
+64,1966.0,Richard Day,art_direction,N
+65,1966.0,Robert Clatworthy,art_direction,N
+66,1966.0,Boris Leven,art_direction,N
+67,1966.0,Ernest Laszlo,cinematography,W
+68,1966.0,Loyal Griggs,cinematography,N
+69,1966.0,Burnett Guffey,cinematography,N
+70,1966.0,Conrad Hall,cinematography,N
+71,1966.0,Robert Burks,cinematography,N
+72,1966.0,Freddie Young,cinematography,W
+73,1966.0,Leon Shamroy,cinematography,N
+74,1966.0,Russell Harlan,cinematography,N
+75,1966.0,William C. Mellor,cinematography,N
+76,1966.0,Ted D. McCord,cinematography,N
+77,1966.0,Julie Harris,costume,W
+78,1966.0,Moss Mabry,costume,N
+79,1966.0,Howard Shoup,costume,N
+80,1966.0,Jean Louis,costume,N
+81,1966.0,Edith Head,costume,N
+82,1966.0,Phyllis Dalton,costume,W
+83,1966.0,Vittorio Nino Novarese,costume,N
+84,1966.0,Marjorie Best,costume,N
+85,1966.0,Edith Head,costume,N
+86,1966.0,Dorothy Jeakins,costume,N
+87,1966.0,William H. Reynolds,editing,W
+88,1966.0,Charles Nelson,editing,N
+89,1966.0,Norman Savage,editing,N
+90,1966.0,Michael Luciano,editing,N
+91,1966.0,Ralph E. Winters,editing,N
+92,1966.0,John Stears,effects,W
+93,1966.0,J. McMillan Johnson,effects,N
+0,1967.0,Fred Zinnemann,picture,W
+1,1967.0,Lewis Gilbert,picture,N
+2,1967.0,Norman Jewison,picture,N
+3,1967.0,Robert Wise,picture,N
+4,1967.0,Ernest Lehman,picture,N
+5,1967.0,Fred Zinnemann,director,W
+6,1967.0,Michelangelo Antonioni,director,N
+7,1967.0,Claude Lelouch,director,N
+8,1967.0,Richard Brooks,director,N
+9,1967.0,Mike Nichols,director,N
+10,1967.0,Paul Scofield,actor,W
+11,1967.0,Alan Arkin,actor,N
+12,1967.0,Richard Burton,actor,N
+13,1967.0,Michael Caine,actor,N
+14,1967.0,Steve McQueen,actor,N
+15,1967.0,Elizabeth Taylor,actress,W
+16,1967.0,Anouk Aimée,actress,N
+17,1967.0,Ida Kamińska,actress,N
+18,1967.0,Lynn Redgrave,actress,N
+19,1967.0,Vanessa Redgrave,actress,N
+20,1967.0,Walter Matthau,s_actor,W
+21,1967.0,Mako,s_actor,N
+22,1967.0,James Mason,s_actor,N
+23,1967.0,George Segal,s_actor,N
+24,1967.0,Robert Shaw,s_actor,N
+25,1967.0,Sandy Dennis,s_actress,W
+26,1967.0,Wendy Hiller,s_actress,N
+27,1967.0,Jocelyne LaGarde,s_actress,N
+28,1967.0,Vivien Merchant,s_actress,N
+29,1967.0,Geraldine Page,s_actress,N
+30,1967.0,Robert Bolt,screenplay,W
+31,1967.0,Bill Naughton,screenplay,N
+32,1967.0,Richard Brooks,screenplay,N
+33,1967.0,William Rose,screenplay,N
+34,1967.0,Ernest Lehman,screenplay,N
+35,1967.0,Born Free,song,W
+36,1967.0,Alfie,song,N
+37,1967.0,Georgy Girl,song,N
+38,1967.0,Elmer Bernstein,song,N
+39,1967.0,Johnny Mandel,song,N
+40,1967.0,John Barry,music,W
+41,1967.0,Alex North,music,N
+42,1967.0,Toshiro Mayuzumi,music,N
+43,1967.0,Elmer Bernstein,music,N
+44,1967.0,Jerry Goldsmith,music,N
+45,1967.0,Ken Thorne,music,W
+46,1967.0,Luis Bacalov,music,N
+47,1967.0,Elmer Bernstein,music,N
+48,1967.0,Harry Sukman,music,N
+49,1967.0,Al Ham,music,N
+50,1967.0,Gordon Daniel,effects,W
+51,1967.0,Walter Rossi,effects,N
+52,1967.0,Franklin Milton,sound,W
+53,1967.0,Waldon O. Watson,sound,N
+54,1967.0,Gordon E. Sawyer,sound,N
+55,1967.0,James Corcoran,sound,N
+56,1967.0,George Groves,sound,N
+57,1967.0,Richard Sylbert,art_direction,W
+58,1967.0,Robert Luthardt,art_direction,N
+59,1967.0,Luigi Scaccianoce,art_direction,N
+60,1967.0,Willy Holt,art_direction,N
+61,1967.0,George Davis,art_direction,N
+62,1967.0,Jack Martin Smith,art_direction,W
+63,1967.0,Alexander Golitzen,art_direction,N
+64,1967.0,Piero Gherardi,art_direction,N
+65,1967.0,Hal Pereira,art_direction,N
+66,1967.0,Boris Leven,art_direction,N
+67,1967.0,Haskell Wexler,cinematography,W
+68,1967.0,Joseph LaShelle,cinematography,N
+69,1967.0,Kenneth Higgins,cinematography,N
+70,1967.0,Marcel Grignon,cinematography,N
+71,1967.0,James Wong Howe,cinematography,N
+72,1967.0,Ted Moore,cinematography,W
+73,1967.0,Ernest Laszlo,cinematography,N
+74,1967.0,Russell Harlan,cinematography,N
+75,1967.0,Conrad Hall,cinematography,N
+76,1967.0,Joseph MacDonald,cinematography,N
+77,1967.0,Irene Sharaff,costume,W
+78,1967.0,Danilo Donati,costume,N
+79,1967.0,Danilo Donati,costume,N
+80,1967.0,Helen Rose,costume,N
+81,1967.0,Jocelyn Rickards,costume,N
+82,1967.0,Joan Bridge,costume,W
+83,1967.0,Jean Louis,costume,N
+84,1967.0,Dorothy Jeakins,costume,N
+85,1967.0,Piero Gherardi,costume,N
+86,1967.0,Edith Head,costume,N
+87,1967.0,Fredric Steinkamp,editing,W
+88,1967.0,William B. Murphy,editing,N
+89,1967.0,Hal Ashby,editing,N
+90,1967.0,William H. Reynolds,editing,N
+91,1967.0,Sam O'Steen,editing,N
+92,1967.0,Art Cruickshank,effects,W
+93,1967.0,Linwood G. Dunn,effects,N
+0,1968.0,Walter Mirisch,picture,W
+1,1968.0,Warren Beatty,picture,N
+2,1968.0,Arthur P. Jacobs,picture,N
+3,1968.0,Lawrence Turman,picture,N
+4,1968.0,Stanley Kramer,picture,N
+5,1968.0,Mike Nichols,director,W
+6,1968.0,Arthur Penn,director,N
+7,1968.0,Stanley Kramer,director,N
+8,1968.0,Richard Brooks,director,N
+9,1968.0,Norman Jewison,director,N
+10,1968.0,Rod Steiger,actor,W
+11,1968.0,Warren Beatty,actor,N
+12,1968.0,Dustin Hoffman,actor,N
+13,1968.0,Paul Newman,actor,N
+14,1968.0,Spencer Tracy,actor,N
+15,1968.0,Katharine Hepburn,actress,W
+16,1968.0,Anne Bancroft,actress,N
+17,1968.0,Faye Dunaway,actress,N
+18,1968.0,Edith Evans,actress,N
+19,1968.0,Audrey Hepburn,actress,N
+20,1968.0,George Kennedy,s_actor,W
+21,1968.0,John Cassavetes,s_actor,N
+22,1968.0,Gene Hackman,s_actor,N
+23,1968.0,Cecil Kellaway,s_actor,N
+24,1968.0,Michael J. Pollard,s_actor,N
+25,1968.0,Estelle Parsons,s_actress,W
+26,1968.0,Carol Channing,s_actress,N
+27,1968.0,Mildred Natwick,s_actress,N
+28,1968.0,Beah Richards,s_actress,N
+29,1968.0,Katharine Ross,s_actress,N
+30,1968.0,Stirling Silliphant,screenplay,W
+31,1968.0,Donn Pearce,screenplay,N
+32,1968.0,Buck Henry,screenplay,N
+33,1968.0,Richard Brooks,screenplay,N
+34,1968.0,Joseph Strick,screenplay,N
+35,1968.0,Elmer Bernstein,music,W
+36,1968.0,Lalo Schifrin,music,N
+37,1968.0,Leslie Bricusse,music,N
+38,1968.0,Richard Rodney Bennett,music,N
+39,1968.0,Quincy Jones,music,N
+40,1968.0,Alfred Newman,music,W
+41,1968.0,Lionel Newman,music,N
+42,1968.0,Frank De Vol,music,N
+43,1968.0,André Previn,music,N
+44,1968.0,John Williams,music,N
+45,1968.0,Talk to the Animals,song,W
+46,1968.0,The Bare Necessities,song,N
+47,1968.0,Quincy Jones,song,N
+48,1968.0,The Look of Love,song,N
+49,1968.0,Jimmy Van Heusen,song,N
+50,1968.0,John Truscott,costume,W
+51,1968.0,Theadora Van Runkle,costume,N
+52,1968.0,Bill Thomas,costume,N
+53,1968.0,Danilo Donati,costume,N
+54,1968.0,Jean Louis,costume,N
+55,1968.0,John Truscott,art_direction,W
+56,1968.0,Mario Chiari,art_direction,N
+57,1968.0,Robert Clatworthy,art_direction,N
+58,1968.0,Renzo Mongiardino,art_direction,N
+59,1968.0,Alexander Golitzen,art_direction,N
+60,1968.0,Burnett Guffey,cinematography,W
+61,1968.0,Richard H. Kline,cinematography,N
+62,1968.0,Robert L. Surtees,cinematography,N
+63,1968.0,Robert L. Surtees,cinematography,N
+64,1968.0,Conrad L. Hall,cinematography,N
+65,1968.0,Samuel Goldwyn Studio,sound,W
+66,1968.0,Warner Bros.-Seven Arts,sound,N
+67,1968.0,Metro-Goldwyn-Mayer,sound,N
+68,1968.0,20th Century-Fox,sound,N
+69,1968.0,Universal City,sound,N
+70,1968.0,John Poyner,effects,W
+71,1968.0,James Richard,effects,N
+72,1968.0,Hal Ashby,editing,W
+73,1968.0,Frank P. Keller,editing,N
+74,1968.0,Michael Luciano,editing,N
+75,1968.0,Samuel E. Beetley,editing,N
+76,1968.0,Robert C. Jones,editing,N
+77,1968.0,L. B. Abbott,effects,W
+78,1968.0,Albert Whitlock,effects,N
+0,1969.0,John Woolf,picture,W
+1,1969.0,Ray Stark,picture,N
+2,1969.0,Martin Poll,picture,N
+3,1969.0,Paul Newman,picture,N
+4,1969.0,John Brabourne,picture,N
+5,1969.0,Carol Reed,director,W
+6,1969.0,Stanley Kubrick,director,N
+7,1969.0,Gillo Pontecorvo,director,N
+8,1969.0,Anthony Harvey,director,N
+9,1969.0,Franco Zeffirelli,director,N
+10,1969.0,Cliff Robertson,actor,W
+11,1969.0,Alan Arkin,actor,N
+12,1969.0,Alan Bates,actor,N
+13,1969.0,Ron Moody,actor,N
+14,1969.0,Peter O'Toole,actor,N
+15,1969.0,Katharine Hepburn,actress,W
+16,1969.0,Barbra Streisand,actress,W
+17,1969.0,Patricia Neal,actress,N
+18,1969.0,Vanessa Redgrave,actress,N
+19,1969.0,Joanne Woodward,actress,N
+20,1969.0,Jack Albertson,s_actor,W
+21,1969.0,Seymour Cassel,s_actor,N
+22,1969.0,Daniel Massey,s_actor,N
+23,1969.0,Jack Wild,s_actor,N
+24,1969.0,Gene Wilder,s_actor,N
+25,1969.0,Ruth Gordon,s_actress,W
+26,1969.0,Lynn Carlin,s_actress,N
+27,1969.0,Sondra Locke,s_actress,N
+28,1969.0,Kay Medford,s_actress,N
+29,1969.0,Estelle Parsons,s_actress,N
+30,1969.0,James Goldman,screenplay,W
+31,1969.0,Neil Simon,screenplay,N
+32,1969.0,Vernon Harris,screenplay,N
+33,1969.0,Stewart Stern,screenplay,N
+34,1969.0,Roman Polanski,screenplay,N
+35,1969.0,John Barry,music,W
+36,1969.0,Lalo Schifrin,music,N
+37,1969.0,Jerry Goldsmith,music,N
+38,1969.0,Alex North,music,N
+39,1969.0,Michel Legrand,music,N
+40,1969.0,Johnny Green,music,W
+41,1969.0,Ray Heindorf,music,N
+42,1969.0,Walter Scharf,music,N
+43,1969.0,Lennie Hayton,music,N
+44,1969.0,Michel Legrand,music,N
+45,1969.0,The Windmills of Your Mind,song,W
+46,1969.0,Chitty Chitty Bang Bang,song,N
+47,1969.0,For Love of Ivy,song,N
+48,1969.0,Jule Styne,song,N
+49,1969.0,Jimmy Van Heusen,song,N
+50,1969.0,Shepperton Studio,sound,W
+51,1969.0,Warner Bros.-Seven Arts Studio,sound,N
+52,1969.0,Warner Bros.-Seven Arts Studio,sound,N
+53,1969.0,Columbia,sound,N
+54,1969.0,Twentieth Century-Fox,sound,N
+55,1969.0,Danilo Donati,costume,W
+56,1969.0,Margaret Furse,costume,N
+57,1969.0,Phyllis Dalton,costume,N
+58,1969.0,Morton Haack,costume,N
+59,1969.0,Donald Brooks,costume,N
+60,1969.0,John Box,art_direction,W
+61,1969.0,Anthony Masters,art_direction,N
+62,1969.0,George W. Davis,art_direction,N
+63,1969.0,Boris Leven,art_direction,N
+64,1969.0,Mikhail Bogdanov,art_direction,N
+65,1969.0,Pasqualino De Santis,cinematography,W
+66,1969.0,Harry Stradling,cinematography,N
+67,1969.0,Daniel L. Fapp,cinematography,N
+68,1969.0,Oswald Morris,cinematography,N
+69,1969.0,Ernest Laszlo,cinematography,N
+70,1969.0,Frank P. Keller,editing,W
+71,1969.0,Robert Swink,editing,N
+72,1969.0,Frank Bracht,editing,N
+73,1969.0,Ralph Kemplen,editing,N
+74,1969.0,Eve Newman,editing,N
+75,1969.0,Stanley Kubrick,effects,W
+76,1969.0,Joseph McMillan Johnson,effects,N
+0,1970.0,Jerome Hellman,picture,W
+1,1970.0,Hal B. Wallis,picture,N
+2,1970.0,John Foreman,picture,N
+3,1970.0,Ernest Lehman,picture,N
+4,1970.0,Jacques Perrin,picture,N
+5,1970.0,John Schlesinger,director,W
+6,1970.0,Arthur Penn,director,N
+7,1970.0,George Roy Hill,director,N
+8,1970.0,Sydney Pollack,director,N
+9,1970.0,Costa-Gavras,director,N
+10,1970.0,John Wayne,actor,W
+11,1970.0,Richard Burton,actor,N
+12,1970.0,Dustin Hoffman,actor,N
+13,1970.0,Peter O'Toole,actor,N
+14,1970.0,Jon Voight,actor,N
+15,1970.0,Maggie Smith,actress,W
+16,1970.0,Geneviève Bujold,actress,N
+17,1970.0,Jane Fonda,actress,N
+18,1970.0,Liza Minnelli,actress,N
+19,1970.0,Jean Simmons,actress,N
+20,1970.0,Gig Young,s_actor,W
+21,1970.0,Rupert Crosse,s_actor,N
+22,1970.0,Elliott Gould,s_actor,N
+23,1970.0,Jack Nicholson,s_actor,N
+24,1970.0,Anthony Quayle,s_actor,N
+25,1970.0,Goldie Hawn,s_actress,W
+26,1970.0,Catherine Burns,s_actress,N
+27,1970.0,Dyan Cannon,s_actress,N
+28,1970.0,Sylvia Miles,s_actress,N
+29,1970.0,Susannah York,s_actress,N
+30,1970.0,Waldo Salt,screenplay,W
+31,1970.0,Bridget Boland,screenplay,N
+32,1970.0,Arnold Schulman,screenplay,N
+33,1970.0,James Poe,screenplay,N
+34,1970.0,Jorge Semprun,screenplay,N
+35,1970.0,Burt Bacharach,music,W
+36,1970.0,Georges Delerue,music,N
+37,1970.0,John Williams,music,N
+38,1970.0,Ernest Gold,music,N
+39,1970.0,Jerry Fielding,music,N
+40,1970.0,Lennie Hayton,music,W
+41,1970.0,Leslie Bricusse,music,N
+42,1970.0,Nelson Riddle,music,N
+43,1970.0,Cy Coleman,music,N
+44,1970.0,Johnny Green,music,N
+45,1970.0,Burt Bacharach,song,W
+46,1970.0,Come Saturday Morning,song,N
+47,1970.0,Jean,song,N
+48,1970.0,True Grit,song,N
+49,1970.0,What Are You Doing the Rest of Your Life?,song,N
+50,1970.0,Jack Solomon,sound,W
+51,1970.0,John Aldred,sound,N
+52,1970.0,William Edmondson,sound,N
+53,1970.0,Robert Martin,sound,N
+54,1970.0,Les Fresholtz,sound,N
+55,1970.0,Margaret Furse,costume,W
+56,1970.0,Ray Aghayan,costume,N
+57,1970.0,Irene Sharaff,costume,N
+58,1970.0,Edith Head,costume,N
+59,1970.0,Donfeld,costume,N
+60,1970.0,John DeCuir,art_direction,W
+61,1970.0,Maurice Carter,art_direction,N
+62,1970.0,Robert F. Boyle,art_direction,N
+63,1970.0,Alexander Golitzen,art_direction,N
+64,1970.0,Harry Horner,art_direction,N
+65,1970.0,Conrad Hall,cinematography,W
+66,1970.0,Arthur Ibbetson,cinematography,N
+67,1970.0,Charles Lang,cinematography,N
+68,1970.0,Harry Stradling,cinematography,N
+69,1970.0,Daniel L. Fapp,cinematography,N
+70,1970.0,Françoise Bonnot,editing,W
+71,1970.0,William H. Reynolds,editing,N
+72,1970.0,Hugh A. Robertson,editing,N
+73,1970.0,William Lyon,editing,N
+74,1970.0,Fredric Steinkamp,editing,N
+0,1971.0,Frank McCarthy,picture,W
+1,1971.0,Ross Hunter,picture,N
+2,1971.0,Bob Rafelson,picture,N
+3,1971.0,Howard G. Minsky,picture,N
+4,1971.0,Ingo Preminger,picture,N
+5,1971.0,Franklin J. Schaffner,director,W
+6,1971.0,Federico Fellini,director,N
+7,1971.0,Arthur Hiller,director,N
+8,1971.0,Robert Altman,director,N
+9,1971.0,Ken Russell,director,N
+10,1971.0,George C. Scott,actor,W
+11,1971.0,Melvyn Douglas,actor,N
+12,1971.0,James Earl Jones,actor,N
+13,1971.0,Jack Nicholson,actor,N
+14,1971.0,Ryan O'Neal,actor,N
+15,1971.0,Glenda Jackson,actress,W
+16,1971.0,Jane Alexander,actress,N
+17,1971.0,Ali MacGraw,actress,N
+18,1971.0,Sarah Miles,actress,N
+19,1971.0,Carrie Snodgress,actress,N
+20,1971.0,John Mills,s_actor,W
+21,1971.0,Richard S. Castellano,s_actor,N
+22,1971.0,Chief Dan George,s_actor,N
+23,1971.0,Gene Hackman,s_actor,N
+24,1971.0,John Marley,s_actor,N
+25,1971.0,Helen Hayes,s_actress,W
+26,1971.0,Karen Black,s_actress,N
+27,1971.0,Lee Grant,s_actress,N
+28,1971.0,Sally Kellerman,s_actress,N
+29,1971.0,Maureen Stapleton,s_actress,N
+30,1971.0,Ring Lardner Jr.,screenplay,W
+31,1971.0,George Seaton,screenplay,N
+32,1971.0,Robert Woodruff Anderson,screenplay,N
+33,1971.0,Renée Taylor,screenplay,N
+34,1971.0,Larry Kramer,screenplay,N
+35,1971.0,Francis Lai,music,W
+36,1971.0,Alfred Newman,music,N
+37,1971.0,Frank Cordell,music,N
+38,1971.0,Jerry Goldsmith,music,N
+39,1971.0,Henry Mancini,music,N
+40,1971.0,The Beatles,music,W
+41,1971.0,Fred Karlin,music,N
+42,1971.0,Rod McKuen,music,N
+43,1971.0,Henry Mancini,music,N
+44,1971.0,Leslie Bricusse,music,N
+45,1971.0,For All We Know,song,W
+46,1971.0,Henry Mancini,song,N
+47,1971.0,Riz Ortolani,song,N
+48,1971.0,Michel Legrand,song,N
+49,1971.0,Leslie Bricusse,song,N
+50,1971.0,Douglas Williams,sound,W
+51,1971.0,Ronald Pierce,sound,N
+52,1971.0,Gordon McCallum,sound,N
+53,1971.0,Murray Spivack,sound,N
+54,1971.0,Dan Wallin,sound,N
+55,1971.0,Vittorio Nino Novarese,costume,W
+56,1971.0,Edith Head,costume,N
+57,1971.0,Donald Brooks,costume,N
+58,1971.0,Bill Thomas,costume,N
+59,1971.0,Margaret Furse,costume,N
+60,1971.0,Urie McCleary,art_direction,W
+61,1971.0,Alexander Golitzen,art_direction,N
+62,1971.0,Tambi Larsen,art_direction,N
+63,1971.0,Terence Marsh,art_direction,N
+64,1971.0,Jack Martin Smith,art_direction,N
+65,1971.0,Freddie Young,cinematography,W
+66,1971.0,Ernest Laszlo,cinematography,N
+67,1971.0,Fred J. Koenekamp,cinematography,N
+68,1971.0,Charles F. Wheeler,cinematography,N
+69,1971.0,Billy Williams,cinematography,N
+70,1971.0,Hugh S. Fowler,editing,W
+71,1971.0,Stuart Gilmore,editing,N
+72,1971.0,Danford B. Greene,editing,N
+73,1971.0,James E. Newcom,editing,N
+74,1971.0,Thelma Schoonmaker,editing,N
+75,1971.0,A. D. Flowers,effects,W
+76,1971.0,Alex Weldon,effects,N
+0,1972.0,Philip D'Antoni,picture,W
+1,1972.0,Stanley Kubrick,picture,N
+2,1972.0,Norman Jewison,picture,N
+3,1972.0,Stephen J. Friedman,picture,N
+4,1972.0,Sam Spiegel,picture,N
+5,1972.0,William Friedkin,director,W
+6,1972.0,Stanley Kubrick,director,N
+7,1972.0,Norman Jewison,director,N
+8,1972.0,Peter Bogdanovich,director,N
+9,1972.0,John Schlesinger,director,N
+10,1972.0,Gene Hackman,actor,W
+11,1972.0,Peter Finch,actor,N
+12,1972.0,Walter Matthau,actor,N
+13,1972.0,George C. Scott,actor,N
+14,1972.0,Chaim Topol,actor,N
+15,1972.0,Jane Fonda,actress,W
+16,1972.0,Julie Christie,actress,N
+17,1972.0,Glenda Jackson,actress,N
+18,1972.0,Vanessa Redgrave,actress,N
+19,1972.0,Janet Suzman,actress,N
+20,1972.0,Ben Johnson,s_actor,W
+21,1972.0,Jeff Bridges,s_actor,N
+22,1972.0,Leonard Frey,s_actor,N
+23,1972.0,Richard Jaeckel,s_actor,N
+24,1972.0,Roy Scheider,s_actor,N
+25,1972.0,Cloris Leachman,s_actress,W
+26,1972.0,Ann-Margret,s_actress,N
+27,1972.0,Ellen Burstyn,s_actress,N
+28,1972.0,Barbara Harris,s_actress,N
+29,1972.0,Margaret Leighton,s_actress,N
+30,1972.0,Ernest Tidyman,screenplay,W
+31,1972.0,Stanley Kubrick,screenplay,N
+32,1972.0,Bernardo Bertolucci,screenplay,N
+33,1972.0,Ugo Pirro,screenplay,N
+34,1972.0,Peter Bogdanovich,screenplay,N
+35,1972.0,Yvonne Blake,costume,W
+36,1972.0,Bill Thomas,costume,N
+37,1972.0,Piero Tosi,costume,N
+38,1972.0,Margaret Furse,costume,N
+39,1972.0,Morton Haack,costume,N
+40,1972.0,Michel Legrand,music,W
+41,1972.0,John Barry,music,N
+42,1972.0,Richard Rodney Bennett,music,N
+43,1972.0,Isaac Hayes,music,N
+44,1972.0,Jerry Fielding,music,N
+45,1972.0,John Williams,music,W
+46,1972.0,Irwin Kostal,music,N
+47,1972.0,Peter Maxwell Davies,music,N
+48,1972.0,Dimitri Tiomkin,music,N
+49,1972.0,Walter Scharf,music,N
+50,1972.0,Theme from Shaft,song,W
+51,1972.0,The Age of Not Believing,song,N
+52,1972.0,All His Children,song,N
+53,1972.0,Bless the Beasts and Children,song,N
+54,1972.0,Marvin Hamlisch,song,N
+55,1972.0,David Hildyard,sound,W
+56,1972.0,Gordon K. McCallum,sound,N
+57,1972.0,Christopher Newman,sound,N
+58,1972.0,Richard Portman,sound,N
+59,1972.0,John Aldred,sound,N
+60,1972.0,Ernest Archer,art_direction,W
+61,1972.0,Boris Leven,art_direction,N
+62,1972.0,Peter Ellenshaw,art_direction,N
+63,1972.0,Robert F. Boyle,art_direction,N
+64,1972.0,Terence Marsh,art_direction,N
+65,1972.0,Oswald Morris,cinematography,W
+66,1972.0,Owen Roizman,cinematography,N
+67,1972.0,Robert Surtees,cinematography,N
+68,1972.0,Freddie Young,cinematography,N
+69,1972.0,Robert Surtees,cinematography,N
+70,1972.0,Gerald B. Greenberg,editing,W
+71,1972.0,Stuart Gilmore,editing,N
+72,1972.0,Bill Butler,editing,N
+73,1972.0,Ralph E. Winters,editing,N
+0,1973.0,Albert S. Ruddy,picture,W
+1,1973.0,Cy Feuer,picture,N
+2,1973.0,John Boorman,picture,N
+3,1973.0,Bengt Forslund,picture,N
+4,1973.0,Robert B. Radnitz,picture,N
+5,1973.0,Bob Fosse,director,W
+6,1973.0,John Boorman,director,N
+7,1973.0,Jan Troell,director,N
+8,1973.0,Francis Ford Coppola,director,N
+9,1973.0,Joseph L. Mankiewicz,director,N
+10,1973.0,Marlon Brando,actor,W
+11,1973.0,Michael Caine,actor,N
+12,1973.0,Laurence Olivier,actor,N
+13,1973.0,Peter O'Toole,actor,N
+14,1973.0,Paul Winfield,actor,N
+15,1973.0,Liza Minnelli,actress,W
+16,1973.0,Diana Ross,actress,N
+17,1973.0,Maggie Smith,actress,N
+18,1973.0,Cicely Tyson,actress,N
+19,1973.0,Liv Ullmann,actress,N
+20,1973.0,Joel Grey,s_actor,W
+21,1973.0,Eddie Albert,s_actor,N
+22,1973.0,James Caan,s_actor,N
+23,1973.0,Robert Duvall,s_actor,N
+24,1973.0,Al Pacino,s_actor,N
+25,1973.0,Eileen Heckart,s_actress,W
+26,1973.0,Jeannie Berlin,s_actress,N
+27,1973.0,Geraldine Page,s_actress,N
+28,1973.0,Susan Tyrrell,s_actress,N
+29,1973.0,Shelley Winters,s_actress,N
+30,1973.0,Jeremy Larner,screenplay,W
+31,1973.0,Luis Buñuel,screenplay,N
+32,1973.0,Chris Clark,screenplay,N
+33,1973.0,Louis Malle,screenplay,N
+34,1973.0,Carl Foreman,screenplay,N
+35,1973.0,Francis Ford Coppola,screenplay,W
+36,1973.0,Jay Presson Allen,screenplay,N
+37,1973.0,Bengt Forslund,screenplay,N
+38,1973.0,Julius J. Epstein,screenplay,N
+39,1973.0,Lonne Elder III,screenplay,N
+40,1973.0,The Morning After,song,W
+41,1973.0,Ben,song,N
+42,1973.0,Fred Karlin,song,N
+43,1973.0,Maurice Jarre,song,N
+44,1973.0,Sammy Fain,song,N
+45,1973.0,Charlie Chaplin,music,W
+46,1973.0,John Williams,music,N
+47,1973.0,Buddy Baker,music,N
+48,1973.0,John Williams,music,N
+49,1973.0,John Addison,music,N
+50,1973.0,Ralph Burns,music,W
+0,1974.0,Tony Bill,picture,W
+1,1974.0,Francis Ford Coppola,picture,N
+2,1974.0,Ingmar Bergman,picture,N
+3,1974.0,William Peter Blatty,picture,N
+4,1974.0,Melvin Frank,picture,N
+5,1974.0,George Roy Hill,director,W
+6,1974.0,George Lucas,director,N
+7,1974.0,Ingmar Bergman,director,N
+8,1974.0,William Friedkin,director,N
+9,1974.0,Bernardo Bertolucci,director,N
+10,1974.0,Jack Lemmon,actor,W
+11,1974.0,Marlon Brando,actor,N
+12,1974.0,Jack Nicholson,actor,N
+13,1974.0,Al Pacino,actor,N
+14,1974.0,Robert Redford,actor,N
+15,1974.0,Glenda Jackson,actress,W
+16,1974.0,Ellen Burstyn,actress,N
+17,1974.0,Marsha Mason,actress,N
+18,1974.0,Barbra Streisand,actress,N
+19,1974.0,Joanne Woodward,actress,N
+20,1974.0,John Houseman,s_actor,W
+21,1974.0,Vincent Gardenia,s_actor,N
+22,1974.0,Jack Gilford,s_actor,N
+23,1974.0,Jason Miller,s_actor,N
+24,1974.0,Randy Quaid,s_actor,N
+25,1974.0,Tatum O'Neal,s_actress,W
+26,1974.0,Linda Blair,s_actress,N
+27,1974.0,Candy Clark,s_actress,N
+28,1974.0,Madeline Kahn,s_actress,N
+29,1974.0,Sylvia Sidney,s_actress,N
+30,1974.0,William Peter Blatty,screenplay,W
+31,1974.0,Robert Towne,screenplay,N
+32,1974.0,James Bridges,screenplay,N
+33,1974.0,Alvin Sargent,screenplay,N
+34,1974.0,Waldo Salt,screenplay,N
+35,1974.0,Marvin Hamlisch,music,W
+36,1974.0,John Williams,music,N
+37,1974.0,Georges Delerue,music,N
+38,1974.0,Jerry Goldsmith,music,N
+39,1974.0,John Cameron,music,N
+40,1974.0,Marvin Hamlisch,music,W
+41,1974.0,André Previn,music,N
+42,1974.0,Richard M. Sherman,music,N
+43,1974.0,The Way We Were,song,W
+44,1974.0,George Barrie,song,N
+45,1974.0,Live and Let Die,song,N
+46,1974.0,Love,song,N
+47,1974.0,Nice to Be Around,song,N
+48,1974.0,Robert Knudson,sound,W
+49,1974.0,Richard Portman,sound,N
+50,1974.0,Donald O. Mitchell,sound,N
+51,1974.0,Richard Portman,sound,N
+52,1974.0,Ronald Pierce,sound,N
+53,1974.0,Edith Head,costume,W
+54,1974.0,Marik Vos,costume,N
+55,1974.0,Piero Tosi,costume,N
+56,1974.0,Donfeld,costume,N
+57,1974.0,Dorothy Jeakins,costume,N
+58,1974.0,Henry Bumstead,art_direction,W
+59,1974.0,Lorenzo Mongiardino,art_direction,N
+60,1974.0,Bill Malley,art_direction,N
+61,1974.0,Philip Jefferies,art_direction,N
+62,1974.0,Stephen B. Grimes,art_direction,N
+63,1974.0,Sven Nykvist,cinematography,W
+64,1974.0,Owen Roizman,cinematography,N
+65,1974.0,Jack Couffer,cinematography,N
+66,1974.0,Robert Surtees,cinematography,N
+67,1974.0,Harry Stradling Jr.,cinematography,N
+68,1974.0,William H. Reynolds,editing,W
+69,1974.0,Verna Fields,editing,N
+70,1974.0,Ralph Kemplen,editing,N
+71,1974.0,Jordan Leondopoulos,editing,N
+72,1974.0,Frank P. Keller,editing,N
+0,1975.0,Francis Ford Coppola,picture,W
+1,1975.0,Robert Evans,picture,N
+2,1975.0,Francis Ford Coppola,picture,N
+3,1975.0,Marvin Worth,picture,N
+4,1975.0,Irwin Allen,picture,N
+5,1975.0,Francis Ford Coppola,director,W
+6,1975.0,Roman Polanski,director,N
+7,1975.0,François Truffaut,director,N
+8,1975.0,Bob Fosse,director,N
+9,1975.0,John Cassavetes,director,N
+10,1975.0,Art Carney,actor,W
+11,1975.0,Albert Finney,actor,N
+12,1975.0,Dustin Hoffman,actor,N
+13,1975.0,Jack Nicholson,actor,N
+14,1975.0,Al Pacino,actor,N
+15,1975.0,Ellen Burstyn,actress,W
+16,1975.0,Diahann Carroll,actress,N
+17,1975.0,Faye Dunaway,actress,N
+18,1975.0,Valerie Perrine,actress,N
+19,1975.0,Gena Rowlands,actress,N
+20,1975.0,Robert De Niro,s_actor,W
+21,1975.0,Fred Astaire,s_actor,N
+22,1975.0,Jeff Bridges,s_actor,N
+23,1975.0,Michael V. Gazzo,s_actor,N
+24,1975.0,Lee Strasberg,s_actor,N
+25,1975.0,Ingrid Bergman,s_actress,W
+26,1975.0,Valentina Cortese,s_actress,N
+27,1975.0,Madeline Kahn,s_actress,N
+28,1975.0,Diane Ladd,s_actress,N
+29,1975.0,Talia Shire,s_actress,N
+30,1975.0,Robert Towne,screenplay,W
+31,1975.0,Robert Getchell,screenplay,N
+32,1975.0,Francis Ford Coppola,screenplay,N
+33,1975.0,François Truffaut,screenplay,N
+34,1975.0,Paul Mazursky,screenplay,N
+35,1975.0,Francis Ford Coppola,screenplay,W
+36,1975.0,Mordecai Richler,screenplay,N
+37,1975.0,Julian Barry,screenplay,N
+38,1975.0,Paul Dehn,screenplay,N
+39,1975.0,Gene Wilder,screenplay,N
+40,1975.0,Nino Rota,music,W
+41,1975.0,Jerry Goldsmith,music,N
+42,1975.0,Richard Rodney Bennett,music,N
+43,1975.0,Alex North,music,N
+44,1975.0,John Williams,music,N
+45,1975.0,Nelson Riddle,music,W
+46,1975.0,Alan Jay Lerner,music,N
+47,1975.0,Paul Williams,music,N
+48,1975.0,We May Never Love Like This Again,song,W
+49,1975.0,Euel Box,song,N
+50,1975.0,John Morris,song,N
+51,1975.0,Frederick Loewe,song,N
+52,1975.0,Elmer Bernstein,song,N
+53,1975.0,Ronald Pierce,sound,W
+54,1975.0,Bud Grenzbach,sound,N
+55,1975.0,Walter Murch,sound,N
+56,1975.0,Theodore Soderberg,sound,N
+57,1975.0,Richard Portman,sound,N
+58,1975.0,Theoni V. Aldredge,costume,W
+59,1975.0,Anthea Sylbert,costume,N
+60,1975.0,John Furniss,costume,N
+61,1975.0,Theadora Van Runkle,costume,N
+62,1975.0,Tony Walton,costume,N
+63,1975.0,Dean Tavoularis,art_direction,W
+64,1975.0,Richard Sylbert,art_direction,N
+65,1975.0,Alexander Golitzen,art_direction,N
+66,1975.0,Peter Ellenshaw,art_direction,N
+67,1975.0,William J. Creber,art_direction,N
+68,1975.0,Joseph Biroc,cinematography,W
+69,1975.0,John A. Alonzo,cinematography,N
+70,1975.0,Philip H. Lathrop,cinematography,N
+71,1975.0,Bruce Surtees,cinematography,N
+72,1975.0,Geoffrey Unsworth,cinematography,N
+73,1975.0,Harold F. Kress,editing,W
+74,1975.0,John C. Howard,editing,N
+75,1975.0,Sam O'Steen,editing,N
+76,1975.0,Dorothy Spencer,editing,N
+77,1975.0,Michael Luciano,editing,N
+0,1976.0,Michael Douglas,picture,W
+1,1976.0,Stanley Kubrick,picture,N
+2,1976.0,Martin Bregman,picture,N
+3,1976.0,Richard D. Zanuck,picture,N
+4,1976.0,Robert Altman,picture,N
+5,1976.0,Miloš Forman,director,W
+6,1976.0,Federico Fellini,director,N
+7,1976.0,Stanley Kubrick,director,N
+8,1976.0,Sidney Lumet,director,N
+9,1976.0,Robert Altman,director,N
+10,1976.0,Jack Nicholson,actor,W
+11,1976.0,Walter Matthau,actor,N
+12,1976.0,Al Pacino,actor,N
+13,1976.0,Maximilian Schell,actor,N
+14,1976.0,James Whitmore,actor,N
+15,1976.0,Louise Fletcher,actress,W
+16,1976.0,Isabelle Adjani,actress,N
+17,1976.0,Ann-Margret,actress,N
+18,1976.0,Glenda Jackson,actress,N
+19,1976.0,Carol Kane,actress,N
+20,1976.0,George Burns,s_actor,W
+21,1976.0,Brad Dourif,s_actor,N
+22,1976.0,Burgess Meredith,s_actor,N
+23,1976.0,Chris Sarandon,s_actor,N
+24,1976.0,Jack Warden,s_actor,N
+25,1976.0,Lee Grant,s_actress,W
+26,1976.0,Ronee Blakley,s_actress,N
+27,1976.0,Sylvia Miles,s_actress,N
+28,1976.0,Lily Tomlin,s_actress,N
+29,1976.0,Brenda Vaccaro,s_actress,N
+30,1976.0,Frank Pierson,screenplay,W
+31,1976.0,Federico Fellini,screenplay,N
+32,1976.0,Claude Lelouch,screenplay,N
+33,1976.0,Ted Allan,screenplay,N
+34,1976.0,Warren Beatty,screenplay,N
+35,1976.0,Bo Goldman,screenplay,W
+36,1976.0,Stanley Kubrick,screenplay,N
+37,1976.0,John Huston,screenplay,N
+38,1976.0,Ruggero Maccari,screenplay,N
+39,1976.0,Neil Simon,screenplay,N
+40,1976.0,John Williams,music,W
+41,1976.0,Gerald Fried,music,N
+42,1976.0,Alex North,music,N
+43,1976.0,Jack Nitzsche,music,N
+44,1976.0,Jerry Goldsmith,music,N
+45,1976.0,Leonard Rosenman,music,W
+46,1976.0,Peter Matz,music,N
+47,1976.0,Pete Townshend,music,N
+48,1976.0,I'm Easy,song,W
+49,1976.0,Kander and Ebb,song,N
+50,1976.0,George Barrie,song,N
+51,1976.0,Charles Fox,song,N
+52,1976.0,Theme from Mahogany (Do You Know Where You're Going To),song,N
+53,1976.0,Robert L. Hoyt,sound,W
+54,1976.0,Arthur Piantadosi,sound,N
+55,1976.0,Richard Portman,sound,N
+56,1976.0,Leonard Peterson,sound,N
+57,1976.0,Harry W. Tetrick,sound,N
+58,1976.0,Milena Canonero,costume,W
+59,1976.0,Yvonne Blake,costume,N
+60,1976.0,Ray Aghayan,costume,N
+61,1976.0,Karin Erskine,costume,N
+62,1976.0,Edith Head,costume,N
+63,1976.0,Ken Adam,art_direction,W
+64,1976.0,Edward Carfagno,art_direction,N
+65,1976.0,Alexandre Trauner,art_direction,N
+66,1976.0,Richard Sylbert,art_direction,N
+67,1976.0,Albert Brenner,art_direction,N
+68,1976.0,John Alcott,cinematography,W
+69,1976.0,Conrad Hall,cinematography,N
+70,1976.0,James Wong Howe,cinematography,N
+71,1976.0,Robert Surtees,cinematography,N
+72,1976.0,Bill Butler,cinematography,N
+73,1976.0,Verna Fields,editing,W
+74,1976.0,Dede Allen,editing,N
+75,1976.0,Russell Lloyd,editing,N
+76,1976.0,Richard Chew,editing,N
+77,1976.0,Don Guidice,editing,N
+0,1977.0,Robert Chartoff,picture,W
+0,1978.0,Charles H. Joffe,picture,W
+1,1978.0,Ray Stark,picture,N
+0,1979.0,Barry Spikings,picture,W
+1,1979.0,Jerome Hellman,picture,N
+2,1979.0,Warren Beatty,picture,N
+3,1979.0,Alan Marshall,picture,N
+4,1979.0,Paul Mazursky,picture,N
+5,1979.0,Michael Cimino,director,W
+6,1979.0,Hal Ashby,director,N
+7,1979.0,Warren Beatty,director,N
+8,1979.0,Woody Allen,director,N
+9,1979.0,Alan Parker,director,N
+10,1979.0,Jon Voight,actor,W
+11,1979.0,Warren Beatty,actor,N
+12,1979.0,Gary Busey,actor,N
+13,1979.0,Robert De Niro,actor,N
+14,1979.0,Laurence Olivier,actor,N
+15,1979.0,Jane Fonda,actress,W
+16,1979.0,Ingrid Bergman,actress,N
+17,1979.0,Ellen Burstyn,actress,N
+18,1979.0,Jill Clayburgh,actress,N
+19,1979.0,Geraldine Page,actress,N
+20,1979.0,Christopher Walken,s_actor,W
+21,1979.0,Bruce Dern,s_actor,N
+22,1979.0,Richard Farnsworth,s_actor,N
+23,1979.0,John Hurt,s_actor,N
+24,1979.0,Jack Warden,s_actor,N
+25,1979.0,Maggie Smith,s_actress,W
+26,1979.0,Dyan Cannon,s_actress,N
+27,1979.0,Penelope Milford,s_actress,N
+28,1979.0,Maureen Stapleton,s_actress,N
+29,1979.0,Meryl Streep,s_actress,N
+30,1979.0,Nancy Dowd,screenplay,W
+31,1979.0,Ingmar Bergman,screenplay,N
+32,1979.0,Michael Cimino,screenplay,N
+33,1979.0,Woody Allen,screenplay,N
+34,1979.0,Paul Mazursky,screenplay,N
+35,1979.0,Oliver Stone,screenplay,W
+36,1979.0,Walter Newman,screenplay,N
+37,1979.0,Neil Simon,screenplay,N
+38,1979.0,Elaine May,screenplay,N
+39,1979.0,Bernard Slade,screenplay,N
+40,1979.0,Giorgio Moroder,music,W
+41,1979.0,Jerry Goldsmith,music,N
+42,1979.0,Ennio Morricone,music,N
+43,1979.0,Dave Grusin,music,N
+44,1979.0,John Williams,music,N
+45,1979.0,Joe Renzetti,music,W
+46,1979.0,Jerry Wexler,music,N
+47,1979.0,Quincy Jones,music,N
+48,1979.0,Last Dance,song,W
+49,1979.0,Hopelessly Devoted to You,song,N
+50,1979.0,Marvin Hamlisch,song,N
+51,1979.0,Charles Fox,song,N
+52,1979.0,Richard M. Sherman,song,N
+53,1979.0,Richard Portman,sound,W
+54,1979.0,Tex Rudloff,sound,N
+55,1979.0,John Wilkinson,sound,N
+56,1979.0,Robert Knudson,sound,N
+57,1979.0,Gordon McCallum,sound,N
+58,1979.0,Anthony Powell,costume,W
+59,1979.0,Renié,costume,N
+60,1979.0,Patricia Norris,costume,N
+61,1979.0,Paul Zastupnevich,costume,N
+62,1979.0,Tony Walton,costume,N
+63,1979.0,Paul Sylbert,art_direction,W
+64,1979.0,Dean Tavoularis,art_direction,N
+65,1979.0,Albert Brenner,art_direction,N
+66,1979.0,Mel Bourne,art_direction,N
+67,1979.0,Tony Walton,art_direction,N
+68,1979.0,Néstor Almendros,cinematography,W
+69,1979.0,Vilmos Zsigmond,cinematography,N
+70,1979.0,William A. Fraker,cinematography,N
+71,1979.0,Robert Surtees,cinematography,N
+72,1979.0,Oswald Morris,cinematography,N
+73,1979.0,Peter Zinner,editing,W
+74,1979.0,Robert E. Swink,editing,N
+75,1979.0,Don Zimmerman,editing,N
+76,1979.0,Gerry Hambling,editing,N
+77,1979.0,Stuart Baird,editing,N
+0,1980.0,Stanley R. Jaffe,picture,W
+1,1980.0,Robert Alan Aurthur,picture,N
+2,1980.0,Francis Coppola,picture,N
+3,1980.0,Peter Yates,picture,N
+4,1980.0,Tamara Asseyev,picture,N
+5,1980.0,Robert Benton,director,W
+6,1980.0,Bob Fosse,director,N
+7,1980.0,Francis Ford Coppola,director,N
+8,1980.0,Peter Yates,director,N
+9,1980.0,Édouard Molinaro,director,N
+10,1980.0,Dustin Hoffman,actor,W
+11,1980.0,Jack Lemmon,actor,N
+12,1980.0,Al Pacino,actor,N
+13,1980.0,Roy Scheider,actor,N
+14,1980.0,Peter Sellers,actor,N
+15,1980.0,Sally Field,actress,W
+16,1980.0,Jill Clayburgh,actress,N
+17,1980.0,Jane Fonda,actress,N
+18,1980.0,Marsha Mason,actress,N
+19,1980.0,Bette Midler,actress,N
+20,1980.0,Melvyn Douglas,s_actor,W
+21,1980.0,Robert Duvall,s_actor,N
+22,1980.0,Frederic Forrest,s_actor,N
+23,1980.0,Justin Henry,s_actor,N
+24,1980.0,Mickey Rooney,s_actor,N
+25,1980.0,Meryl Streep,s_actress,W
+26,1980.0,Jane Alexander,s_actress,N
+27,1980.0,Barbara Barrie,s_actress,N
+28,1980.0,Candice Bergen,s_actress,N
+29,1980.0,Mariel Hemingway,s_actress,N
+30,1980.0,Steve Tesich,screenplay,W
+31,1980.0,Robert Alan Aurthur,screenplay,N
+32,1980.0,Valerie Curtin,screenplay,N
+33,1980.0,Mike Gray,screenplay,N
+34,1980.0,Woody Allen,screenplay,N
+35,1980.0,Robert Benton,screenplay,W
+36,1980.0,Francis Coppola,screenplay,N
+37,1980.0,Francis Veber,screenplay,N
+38,1980.0,Allan Burns,screenplay,N
+39,1980.0,Irving Ravetch,screenplay,N
+40,1980.0,Georges Delerue,music,W
+41,1980.0,Henry Mancini,music,N
+42,1980.0,Lalo Schifrin,music,N
+43,1980.0,Dave Grusin,music,N
+44,1980.0,Jerry Goldsmith,music,N
+45,1980.0,Ralph Burns,music,W
+46,1980.0,Patrick Williams,music,N
+47,1980.0,Paul Williams,music,N
+48,1980.0,It Goes Like It Goes,song,W
+49,1980.0,David Shire,song,N
+50,1980.0,Henry Mancini,song,N
+51,1980.0,Rainbow Connection,song,N
+52,1980.0,Marvin Hamlisch,song,N
+53,1980.0,Walter Murch,sound,W
+54,1980.0,Robert Knudson,sound,N
+55,1980.0,Arthur Piantadosi,sound,N
+56,1980.0,William McCaughey,sound,N
+57,1980.0,Theodore Soderberg,sound,N
+58,1980.0,Albert Wolsky,costume,W
+59,1980.0,Shirley Russell,costume,N
+60,1980.0,William Ware Theiss,costume,N
+61,1980.0,Judy Moorcroft,costume,N
+62,1980.0,Piero Tosi,costume,N
+63,1980.0,Philip Rosenberg,art_direction,W
+64,1980.0,Michael Seymour,art_direction,N
+65,1980.0,Dean Tavoularis,art_direction,N
+66,1980.0,George Jenkins,art_direction,N
+67,1980.0,Harold Michelson,art_direction,N
+68,1980.0,Vittorio Storaro,cinematography,W
+69,1980.0,William A. Fraker,cinematography,N
+70,1980.0,Giuseppe Rotunno,cinematography,N
+0,1981.0,Ronald L. Schwary,picture,W
+0,1982.0,David Puttnam,picture,W
+1,1982.0,Denis Héroux,picture,N
+0,1983.0,Richard Attenborough,picture,W
+1,1983.0,Steven Spielberg,picture,N
+0,1984.0,James L. Brooks,picture,W
+1,1984.0,Michael Shamberg,picture,N
+2,1984.0,Peter Yates,picture,N
+3,1984.0,Robert Chartoff,picture,N
+0,1985.0,Saul Zaentz,picture,W
+1,1985.0,David Puttnam,picture,N
+2,1985.0,John Brabourne,picture,N
+0,1986.0,Sydney Pollack,picture,W
+1,1986.0,Steven Spielberg,picture,N
+2,1986.0,David Weisman,picture,N
+3,1986.0,John Foreman,picture,N
+4,1986.0,Edward S. Feldman,picture,N
+5,1986.0,Sydney Pollack,director,W
+6,1986.0,Héctor Babenco,director,N
+7,1986.0,John Huston,director,N
+8,1986.0,Akira Kurosawa,director,N
+9,1986.0,Peter Weir,director,N
+10,1986.0,William Hurt,actor,W
+11,1986.0,Harrison Ford,actor,N
+12,1986.0,James Garner,actor,N
+13,1986.0,Jack Nicholson,actor,N
+14,1986.0,Jon Voight,actor,N
+15,1986.0,Geraldine Page,actress,W
+16,1986.0,Anne Bancroft,actress,N
+17,1986.0,Whoopi Goldberg,actress,N
+18,1986.0,Jessica Lange,actress,N
+19,1986.0,Meryl Streep,actress,N
+20,1986.0,Don Ameche,s_actor,W
+21,1986.0,Klaus Maria Brandauer,s_actor,N
+22,1986.0,William Hickey,s_actor,N
+23,1986.0,Robert Loggia,s_actor,N
+24,1986.0,Eric Roberts,s_actor,N
+25,1986.0,Anjelica Huston,s_actress,W
+26,1986.0,Margaret Avery,s_actress,N
+27,1986.0,Amy Madigan,s_actress,N
+28,1986.0,Meg Tilly,s_actress,N
+29,1986.0,Oprah Winfrey,s_actress,N
+30,1986.0,Earl W. Wallace,screenplay,W
+31,1986.0,Robert Zemeckis,screenplay,N
+32,1986.0,Terry Gilliam,screenplay,N
+33,1986.0,Luis Puenzo,screenplay,N
+34,1986.0,Woody Allen,screenplay,N
+35,1986.0,Kurt Luedtke,screenplay,W
+36,1986.0,Menno Meyjes,screenplay,N
+37,1986.0,Leonard Schrader,screenplay,N
+38,1986.0,Richard Condon,screenplay,N
+39,1986.0,Horton Foote,screenplay,N
+40,1986.0,John Barry,music,W
+41,1986.0,Georges Delerue,music,N
+42,1986.0,Quincy Jones,music,N
+43,1986.0,Bruce Broughton,music,N
+44,1986.0,Maurice Jarre,music,N
+45,1986.0,"Say You, Say Me",song,W
+46,1986.0,Miss Celie's Blues,song,N
+47,1986.0,The Power of Love,song,N
+48,1986.0,Separate Lives,song,N
+49,1986.0,Marvin Hamlisch,song,N
+50,1986.0,Charles L. Campbell,editing,W
+51,1986.0,Robert G. Henderson,editing,N
+52,1986.0,Frederick Brown,editing,N
+53,1986.0,Chris Jenkins,sound,W
+54,1986.0,Bill Varney,sound,N
+55,1986.0,Donald O. Mitchell,sound,N
+56,1986.0,Les Fresholtz,sound,N
+57,1986.0,Donald O. Mitchell,sound,N
+58,1986.0,Stephen B. Grimes,art_direction,W
+59,1986.0,Norman Garwood,art_direction,N
+60,1986.0,J. Michael Riva,art_direction,N
+61,1986.0,Yoshirō Muraki,art_direction,N
+62,1986.0,Stan Jolley,art_direction,N
+63,1986.0,David Watkin,cinematography,W
+64,1986.0,Allen Daviau,cinematography,N
+65,1986.0,William A. Fraker,cinematography,N
+66,1986.0,Takao Saito,cinematography,N
+67,1986.0,John Seale,cinematography,N
+68,1986.0,Emi Wada,costume,W
+0,1987.0,Arnold Kopelson,picture,W
+1,1987.0,Burt Sugarman,picture,N
+2,1987.0,Robert Greenhut,picture,N
+3,1987.0,Fernando Ghia,picture,N
+4,1987.0,Ismail Merchant,picture,N
+5,1987.0,Oliver Stone,director,W
+6,1987.0,David Lynch,director,N
+7,1987.0,Woody Allen,director,N
+8,1987.0,Roland Joffé,director,N
+9,1987.0,James Ivory,director,N
+10,1987.0,Paul Newman,actor,W
+11,1987.0,Dexter Gordon,actor,N
+12,1987.0,Bob Hoskins,actor,N
+13,1987.0,William Hurt,actor,N
+14,1987.0,James Woods,actor,N
+15,1987.0,Marlee Matlin,actress,W
+16,1987.0,Jane Fonda,actress,N
+17,1987.0,Sissy Spacek,actress,N
+18,1987.0,Kathleen Turner,actress,N
+19,1987.0,Sigourney Weaver,actress,N
+20,1987.0,Michael Caine,s_actor,W
+21,1987.0,Tom Berenger,s_actor,N
+22,1987.0,Willem Dafoe,s_actor,N
+23,1987.0,Denholm Elliott,s_actor,N
+24,1987.0,Dennis Hopper,s_actor,N
+25,1987.0,Dianne Wiest,s_actress,W
+26,1987.0,Tess Harper,s_actress,N
+27,1987.0,Piper Laurie,s_actress,N
+28,1987.0,Mary Elizabeth Mastrantonio,s_actress,N
+29,1987.0,Maggie Smith,s_actress,N
+30,1987.0,Woody Allen,screenplay,W
+31,1987.0,Paul Hogan,screenplay,N
+32,1987.0,Hanif Kureishi,screenplay,N
+33,1987.0,Oliver Stone,screenplay,N
+34,1987.0,Oliver Stone,screenplay,N
+35,1987.0,Ruth Prawer Jhabvala,screenplay,W
+36,1987.0,Mark Medoff,screenplay,N
+37,1987.0,Richard Price,screenplay,N
+38,1987.0,Beth Henley,screenplay,N
+39,1987.0,Bruce A. Evans,screenplay,N
+40,1987.0,Herbie Hancock,music,W
+41,1987.0,James Horner,music,N
+42,1987.0,Jerry Goldsmith,music,N
+43,1987.0,Ennio Morricone,music,N
+44,1987.0,Leonard Rosenman,music,N
+45,1987.0,Take My Breath Away,song,W
+46,1987.0,Glory of Love,song,N
+47,1987.0,Henry Mancini,song,N
+48,1987.0,Alan Menken,song,N
+49,1987.0,Somewhere Out There,song,N
+50,1987.0,Don Sharpe,editing,W
+51,1987.0,Mark Mangini,editing,N
+52,1987.0,Cecelia Hall,editing,N
+53,1987.0,John K. Wilkinson,sound,W
+54,1987.0,Graham V. Hartstone,sound,N
+55,1987.0,Les Fresholtz,sound,N
+56,1987.0,Terry Porter,sound,N
+57,1987.0,Donald O. Mitchell,sound,N
+58,1987.0,Gianni Quaranta,art_direction,W
+59,1987.0,Peter Lamont,art_direction,N
+60,1987.0,Boris Leven,art_direction,N
+61,1987.0,Stuart Wurtzel,art_direction,N
+62,1987.0,Stuart Craig,art_direction,N
+63,1987.0,Chris Menges,cinematography,W
+64,1987.0,Jordan Cronenweth,cinematography,N
+65,1987.0,Robert Richardson,cinematography,N
+66,1987.0,Tony Pierce-Roberts,cinematography,N
+67,1987.0,Donald Peterman,cinematography,N
+68,1987.0,Jenny Beavan,costume,W
+69,1987.0,Enrico Sabbatini,costume,N
+70,1987.0,Anna Anni,costume,N
+71,1987.0,Theadora Van Runkle,costume,N
+72,1987.0,Anthony Powell,costume,N
+73,1987.0,Claire Simpson,editing,W
+74,1987.0,Ray Lovejoy,editing,N
+75,1987.0,Susan E. Morse,editing,N
+76,1987.0,Jim Clark,editing,N
+77,1987.0,Billy Weber,editing,N
+78,1987.0,Robert Skotak,effects,W
+79,1987.0,Bran Ferren,effects,N
+80,1987.0,Richard Edlund,effects,N
+0,1988.0,Jeremy Thomas,picture,W
+1,1988.0,James L. Brooks,picture,N
+2,1988.0,Stanley R. Jaffe,picture,N
+3,1988.0,John Boorman,picture,N
+4,1988.0,Norman Jewison,picture,N
+5,1988.0,Bernardo Bertolucci,director,W
+6,1988.0,Adrian Lyne,director,N
+7,1988.0,John Boorman,director,N
+8,1988.0,Norman Jewison,director,N
+9,1988.0,Lasse Hallström,director,N
+10,1988.0,Michael Douglas,actor,W
+11,1988.0,William Hurt,actor,N
+12,1988.0,Marcello Mastroianni,actor,N
+13,1988.0,Jack Nicholson,actor,N
+14,1988.0,Robin Williams,actor,N
+15,1988.0,Cher,actress,W
+16,1988.0,Glenn Close,actress,N
+17,1988.0,Holly Hunter,actress,N
+18,1988.0,Sally Kirkland,actress,N
+19,1988.0,Meryl Streep,actress,N
+20,1988.0,Sean Connery,s_actor,W
+21,1988.0,Albert Brooks,s_actor,N
+22,1988.0,Morgan Freeman,s_actor,N
+23,1988.0,Vincent Gardenia,s_actor,N
+24,1988.0,Denzel Washington,s_actor,N
+25,1988.0,Olympia Dukakis,s_actress,W
+26,1988.0,Norma Aleandro,s_actress,N
+27,1988.0,Anne Archer,s_actress,N
+28,1988.0,Anne Ramsey,s_actress,N
+29,1988.0,Ann Sothern,s_actress,N
+30,1988.0,John Patrick Shanley,screenplay,W
+31,1988.0,Louis Malle,screenplay,N
+32,1988.0,James L. Brooks,screenplay,N
+33,1988.0,John Boorman,screenplay,N
+34,1988.0,Woody Allen,screenplay,N
+35,1988.0,Mark Peploe,screenplay,W
+36,1988.0,Tony Huston,screenplay,N
+37,1988.0,James Dearden,screenplay,N
+38,1988.0,Stanley Kubrick,screenplay,N
+39,1988.0,Lasse Hallström,screenplay,N
+40,1988.0,David Byrne,music,W
+41,1988.0,George Fenton,music,N
+42,1988.0,John Williams,music,N
+43,1988.0,Ennio Morricone,music,N
+44,1988.0,John Williams,music,N
+45,1988.0,(I've Had) The Time of My Life,song,W
+46,1988.0,George Fenton,song,N
+47,1988.0,Nothing's Gonna Stop Us Now,song,N
+48,1988.0,Shakedown,song,N
+49,1988.0,Willy DeVille,song,N
+50,1988.0,Bill Rowe,sound,W
+51,1988.0,Robert Knudson,sound,N
+52,1988.0,Les Fresholtz,sound,N
+53,1988.0,Michael J. Kohut,sound,N
+54,1988.0,Wayne Artman,sound,N
+55,1988.0,Ferdinando Scarfiotti,art_direction,W
+56,1988.0,Norman Reynolds,art_direction,N
+57,1988.0,Anthony D. G. Pratt,art_direction,N
+58,1988.0,Santo Loquasto,art_direction,N
+59,1988.0,Patrizia von Brandenstein,art_direction,N
+60,1988.0,Vittorio Storaro,cinematography,W
+61,1988.0,Michael Ballhaus,cinematography,N
+62,1988.0,Allen Daviau,cinematography,N
+63,1988.0,Philippe Rousselot,cinematography,N
+64,1988.0,Haskell Wexler,cinematography,N
+65,1988.0,James Acheson,costume,W
+66,1988.0,Dorothy Jeakins,costume,N
+67,1988.0,Bob Ringwood,costume,N
+68,1988.0,Jenny Beavan,costume,N
+69,1988.0,Marilyn Vance-Straker,costume,N
+70,1988.0,Gabriella Cristiani,editing,W
+71,1988.0,Richard Marks,editing,N
+72,1988.0,Michael Kahn,editing,N
+73,1988.0,Michael Kahn,editing,N
+74,1988.0,Frank J. Urioste,editing,N
+75,1988.0,Dennis Muren,effects,W
+76,1988.0,Joel Hynek,effects,N
+0,1989.0,Mark Johnson,picture,W
+1,1989.0,Lawrence Kasdan,picture,N
+2,1989.0,Norma Heyman,picture,N
+3,1989.0,Frederick Zollo,picture,N
+4,1989.0,Douglas Wick,picture,N
+5,1989.0,Barry Levinson,director,W
+6,1989.0,Charles Crichton,director,N
+7,1989.0,Martin Scorsese,director,N
+8,1989.0,Alan Parker,director,N
+9,1989.0,Mike Nichols,director,N
+10,1989.0,Dustin Hoffman,actor,W
+11,1989.0,Gene Hackman,actor,N
+12,1989.0,Tom Hanks,actor,N
+13,1989.0,Edward James Olmos,actor,N
+14,1989.0,Max von Sydow,actor,N
+15,1989.0,Jodie Foster,actress,W
+16,1989.0,Glenn Close,actress,N
+17,1989.0,Melanie Griffith,actress,N
+18,1989.0,Meryl Streep,actress,N
+19,1989.0,Sigourney Weaver,actress,N
+20,1989.0,Kevin Kline,s_actor,W
+21,1989.0,Alec Guinness,s_actor,N
+22,1989.0,Martin Landau,s_actor,N
+23,1989.0,River Phoenix,s_actor,N
+24,1989.0,Dean Stockwell,s_actor,N
+25,1989.0,Geena Davis,s_actress,W
+26,1989.0,Joan Cusack,s_actress,N
+27,1989.0,Frances McDormand,s_actress,N
+28,1989.0,Michelle Pfeiffer,s_actress,N
+29,1989.0,Sigourney Weaver,s_actress,N
+30,1989.0,Ronald Bass,screenplay,W
+31,1989.0,Gary Ross,screenplay,N
+32,1989.0,Ron Shelton,screenplay,N
+33,1989.0,John Cleese,screenplay,N
+34,1989.0,Naomi Foner,screenplay,N
+35,1989.0,Christopher Hampton,screenplay,W
+36,1989.0,Frank Galati,screenplay,N
+37,1989.0,Anna Hamilton Phelan,screenplay,N
+38,1989.0,Christine Edzard,screenplay,N
+39,1989.0,Jean-Claude Carrière,screenplay,N
+40,1989.0,Dave Grusin,music,W
+41,1989.0,John Williams,music,N
+42,1989.0,George Fenton,music,N
+43,1989.0,Maurice Jarre,music,N
+44,1989.0,Hans Zimmer,music,N
+45,1989.0,Let the River Run,song,W
+46,1989.0,Calling You,song,N
+47,1989.0,Two Hearts,song,N
+48,1989.0,Les Fresholtz,sound,W
+49,1989.0,Don Bassman,sound,N
+50,1989.0,Andy Nelson,sound,N
+51,1989.0,Robert J. Litt,sound,N
+52,1989.0,Robert Knudson,sound,N
+53,1989.0,Charles L. Campbell,editing,W
+54,1989.0,Stephen Hunter Flick,editing,N
+55,1989.0,Ben Burtt,editing,N
+56,1989.0,Stuart Craig,art_direction,W
+57,1989.0,Albert Brenner,art_direction,N
+58,1989.0,Ida Random,art_direction,N
+59,1989.0,Dean Tavoularis,art_direction,N
+60,1989.0,Elliot Scott,art_direction,N
+61,1989.0,James Acheson,costume,W
+62,1989.0,Deborah Nadoolman Landis,costume,N
+63,1989.0,Jane Robinson,costume,N
+64,1989.0,Patricia Norris,costume,N
+65,1989.0,Milena Canonero,costume,N
+66,1989.0,Peter Biziou,cinematography,W
+67,1989.0,John Seale,cinematography,N
+68,1989.0,Conrad Hall,cinematography,N
+69,1989.0,Sven Nykvist,cinematography,N
+70,1989.0,Dean Cundey,cinematography,N
+71,1989.0,Arthur Schmidt,editing,W
+72,1989.0,Frank J. Urioste,editing,N
+73,1989.0,Stuart Baird,editing,N
+74,1989.0,Gerry Hambling,editing,N
+75,1989.0,Stu Linder,editing,N
+76,1989.0,Ken Ralston,effects,W
+77,1989.0,Richard Edlund,effects,N
+78,1989.0,Dennis Muren,effects,N
+0,1990.0,Richard D. Zanuck,picture,W
+1,1990.0,A. Kitman Ho,picture,N
+2,1990.0,Steven Haft,picture,N
+3,1990.0,Lawrence Gordon,picture,N
+4,1990.0,Noel Pearson,picture,N
+5,1990.0,Oliver Stone,director,W
+6,1990.0,Woody Allen,director,N
+7,1990.0,Peter Weir,director,N
+8,1990.0,Kenneth Branagh,director,N
+9,1990.0,Jim Sheridan,director,N
+10,1990.0,Daniel Day-Lewis,actor,W
+11,1990.0,Kenneth Branagh,actor,N
+12,1990.0,Tom Cruise,actor,N
+13,1990.0,Morgan Freeman,actor,N
+14,1990.0,Robin Williams,actor,N
+15,1990.0,Jessica Tandy,actress,W
+16,1990.0,Isabelle Adjani,actress,N
+17,1990.0,Pauline Collins,actress,N
+18,1990.0,Jessica Lange,actress,N
+19,1990.0,Michelle Pfeiffer,actress,N
+20,1990.0,Denzel Washington,s_actor,W
+21,1990.0,Danny Aiello,s_actor,N
+22,1990.0,Dan Aykroyd,s_actor,N
+23,1990.0,Marlon Brando,s_actor,N
+24,1990.0,Martin Landau,s_actor,N
+25,1990.0,Brenda Fricker,s_actress,W
+26,1990.0,Anjelica Huston,s_actress,N
+27,1990.0,Lena Olin,s_actress,N
+28,1990.0,Julia Roberts,s_actress,N
+29,1990.0,Dianne Wiest,s_actress,N
+30,1990.0,Tom Schulman,screenplay,W
+31,1990.0,Woody Allen,screenplay,N
+32,1990.0,Spike Lee,screenplay,N
+33,1990.0,Steven Soderbergh,screenplay,N
+34,1990.0,Nora Ephron,screenplay,N
+35,1990.0,Alfred Uhry,screenplay,W
+36,1990.0,Oliver Stone,screenplay,N
+37,1990.0,Roger L. Simon,screenplay,N
+38,1990.0,Phil Alden Robinson,screenplay,N
+39,1990.0,Jim Sheridan,screenplay,N
+40,1990.0,Alan Menken,music,W
+41,1990.0,John Williams,music,N
+42,1990.0,Dave Grusin,music,N
+43,1990.0,James Horner,music,N
+44,1990.0,John Williams,music,N
+45,1990.0,Under the Sea,song,W
+46,1990.0,After All,song,N
+47,1990.0,Marvin Hamlisch,song,N
+48,1990.0,Randy Newman,song,N
+49,1990.0,Kiss the Girl,song,N
+50,1990.0,Richard Hymns,editing,W
+51,1990.0,Milton Burrow,editing,N
+52,1990.0,Robert G. Henderson,editing,N
+53,1990.0,Donald O. Mitchell,sound,W
+54,1990.0,Don Bassman,sound,N
+55,1990.0,Donald O. Mitchell,sound,N
+56,1990.0,Michael Minkler,sound,N
+57,1990.0,Ben Burtt,sound,N
+58,1990.0,Art Direction,art_direction,W
+59,1990.0,Leslie Dilley,art_direction,N
+60,1990.0,Dante Ferretti,art_direction,N
+61,1990.0,Bruno Rubeo,art_direction,N
+62,1990.0,Norman Garwood,art_direction,N
+63,1990.0,Freddie Francis,cinematography,W
+64,1990.0,Mikael Salomon,cinematography,N
+65,1990.0,Haskell Wexler,cinematography,N
+66,1990.0,Robert Richardson,cinematography,N
+67,1990.0,Michael Ballhaus,cinematography,N
+68,1990.0,Phyllis Dalton,costume,W
+69,1990.0,Gabriella Pescucci,costume,N
+70,1990.0,Elizabeth McBride,costume,N
+0,1991.0,Jim Wilson,picture,W
+1,1991.0,Walter Parkes,picture,N
+0,1992.0,Edward Saxon,picture,W
+1,1992.0,Don Hahn,picture,N
+2,1992.0,Mark Johnson,picture,N
+3,1992.0,A. Kitman Ho,picture,N
+4,1992.0,Barbra Streisand,picture,N
+5,1992.0,Jonathan Demme,director,W
+6,1992.0,John Singleton,director,N
+7,1992.0,Barry Levinson,director,N
+8,1992.0,Oliver Stone,director,N
+9,1992.0,Ridley Scott,director,N
+10,1992.0,Anthony Hopkins,actor,W
+11,1992.0,Warren Beatty,actor,N
+12,1992.0,Robert De Niro,actor,N
+13,1992.0,Nick Nolte,actor,N
+14,1992.0,Robin Williams,actor,N
+15,1992.0,Jodie Foster,actress,W
+16,1992.0,Geena Davis,actress,N
+17,1992.0,Laura Dern,actress,N
+18,1992.0,Bette Midler,actress,N
+19,1992.0,Susan Sarandon,actress,N
+20,1992.0,Jack Palance,s_actor,W
+21,1992.0,Tommy Lee Jones,s_actor,N
+22,1992.0,Harvey Keitel,s_actor,N
+23,1992.0,Ben Kingsley,s_actor,N
+24,1992.0,Michael Lerner,s_actor,N
+25,1992.0,Mercedes Ruehl,s_actress,W
+26,1992.0,Diane Ladd,s_actress,N
+27,1992.0,Juliette Lewis,s_actress,N
+28,1992.0,Kate Nelligan,s_actress,N
+29,1992.0,Jessica Tandy,s_actress,N
+30,1992.0,Callie Khouri,screenplay,W
+31,1992.0,John Singleton,screenplay,N
+32,1992.0,James Toback,screenplay,N
+33,1992.0,Richard LaGravenese,screenplay,N
+34,1992.0,Lawrence Kasdan,screenplay,N
+35,1992.0,Ted Tally,screenplay,W
+36,1992.0,Agnieszka Holland,screenplay,N
+37,1992.0,Fannie Flagg,screenplay,N
+38,1992.0,Oliver Stone,screenplay,N
+39,1992.0,Pat Conroy,screenplay,N
+40,1992.0,Alan Menken,music,W
+41,1992.0,Ennio Morricone,music,N
+42,1992.0,George Fenton,music,N
+43,1992.0,John Williams,music,N
+44,1992.0,James Newton Howard,music,N
+45,1992.0,Beauty and the Beast,song,W
+46,1992.0,Be Our Guest,song,N
+47,1992.0,Belle,song,N
+48,1992.0,(Everything I Do) I Do It for You,song,N
+49,1992.0,John Williams,song,N
+50,1992.0,Tom Johnson,sound,W
+51,1992.0,Gary Summers,sound,N
+52,1992.0,Terry Porter,sound,N
+53,1992.0,Michael Minkler,sound,N
+54,1992.0,Tom Fleischman,sound,N
+55,1992.0,Gary Rydstrom,editing,W
+56,1992.0,Gary Rydstrom,editing,N
+57,1992.0,George Watters II,editing,N
+58,1992.0,Art Direction,art_direction,W
+59,1992.0,Dennis Gassner,art_direction,N
+60,1992.0,Mel Bourne,art_direction,N
+61,1992.0,Norman Garwood,art_direction,N
+62,1992.0,Paul Sylbert,art_direction,N
+63,1992.0,Albert Wolsky,costume,W
+64,1992.0,Ruth Myers,costume,N
+65,1992.0,Richard Hornung,costume,N
+66,1992.0,Anthony Powell,costume,N
+67,1992.0,Corinne Jorry,costume,N
+68,1992.0,Robert Richardson,cinematography,W
+69,1992.0,Allen Daviau,cinematography,N
+70,1992.0,Stephen Goldblatt,cinematography,N
+71,1992.0,Adam Greenberg,cinematography,N
+72,1992.0,Adrian Biddle,cinematography,N
+73,1992.0,Pietro Scalia,editing,W
+74,1992.0,Gerry Hambling,editing,N
+75,1992.0,Craig McKay,editing,N
+76,1992.0,Conrad Buff,editing,N
+77,1992.0,Thom Noble,editing,N
+78,1992.0,Dennis Muren,effects,W
+79,1992.0,Mikael Salomon,effects,N
+80,1992.0,Eric Brevig,effects,N
+0,1993.0,Clint Eastwood,picture,W
+1,1993.0,Stephen Woolley,picture,N
+2,1993.0,David Brown,picture,N
+3,1993.0,Ismail Merchant,picture,N
+4,1993.0,Martin Brest,picture,N
+5,1993.0,Clint Eastwood,director,W
+6,1993.0,Neil Jordan,director,N
+7,1993.0,James Ivory,director,N
+8,1993.0,Robert Altman,director,N
+9,1993.0,Martin Brest,director,N
+10,1993.0,Al Pacino,actor,W
+11,1993.0,Robert Downey Jr.,actor,N
+12,1993.0,Clint Eastwood,actor,N
+13,1993.0,Stephen Rea,actor,N
+14,1993.0,Denzel Washington,actor,N
+15,1993.0,Emma Thompson,actress,W
+16,1993.0,Catherine Deneuve,actress,N
+17,1993.0,Mary McDonnell,actress,N
+18,1993.0,Michelle Pfeiffer,actress,N
+19,1993.0,Susan Sarandon,actress,N
+20,1993.0,Gene Hackman,s_actor,W
+21,1993.0,Jaye Davidson,s_actor,N
+22,1993.0,Jack Nicholson,s_actor,N
+23,1993.0,Al Pacino,s_actor,N
+24,1993.0,David Paymer,s_actor,N
+25,1993.0,Marisa Tomei,s_actress,W
+26,1993.0,Judy Davis,s_actress,N
+27,1993.0,Joan Plowright,s_actress,N
+28,1993.0,Vanessa Redgrave,s_actress,N
+29,1993.0,Miranda Richardson,s_actress,N
+30,1993.0,Neil Jordan,screenplay,W
+31,1993.0,Woody Allen,screenplay,N
+32,1993.0,George Miller,screenplay,N
+33,1993.0,John Sayles,screenplay,N
+34,1993.0,David Webb Peoples,screenplay,N
+35,1993.0,Ruth Prawer Jhabvala,screenplay,W
+36,1993.0,Peter Barnes,screenplay,N
+37,1993.0,Michael Tolkin,screenplay,N
+38,1993.0,Richard Friedenberg,screenplay,N
+39,1993.0,Bo Goldman,screenplay,N
+40,1993.0,Alan Menken,music,W
+41,1993.0,Jerry Goldsmith,music,N
+42,1993.0,John Barry,music,N
+43,1993.0,Richard Robbins,music,N
+44,1993.0,Mark Isham,music,N
+45,1993.0,A Whole New World,song,W
+46,1993.0,Friend Like Me,song,N
+47,1993.0,I Have Nothing,song,N
+48,1993.0,Run to You,song,N
+49,1993.0,Beautiful Maria of My Soul,song,N
+50,1993.0,David E. Stone,editing,W
+51,1993.0,Mark Mangini,editing,N
+52,1993.0,John Leveque,editing,N
+53,1993.0,Chris Jenkins,sound,W
+54,1993.0,Terry Porter,sound,N
+55,1993.0,Kevin O'Connell,sound,N
+56,1993.0,Donald O. Mitchell,sound,N
+57,1993.0,Les Fresholtz,sound,N
+58,1993.0,Art Direction,art_direction,W
+59,1993.0,Thomas E. Sanders,art_direction,N
+60,1993.0,Stuart Craig,art_direction,N
+61,1993.0,Ferdinando Scarfiotti,art_direction,N
+62,1993.0,Henry Bumstead,art_direction,N
+63,1993.0,Philippe Rousselot,cinematography,W
+64,1993.0,Stephen H. Burum,cinematography,N
+65,1993.0,Tony Pierce-Roberts,cinematography,N
+66,1993.0,Robert Fraisse,cinematography,N
+67,1993.0,Jack N. Green,cinematography,N
+68,1993.0,Eiko Ishioka,costume,W
+69,1993.0,Sheena Napier,costume,N
+70,1993.0,Jenny Beavan,costume,N
+71,1993.0,Ruth E. Carter,costume,N
+72,1993.0,Albert Wolsky,costume,N
+73,1993.0,Joel Cox,editing,W
+74,1993.0,Frank J. Urioste,editing,N
+75,1993.0,Kant Pan,editing,N
+76,1993.0,Robert Leighton,editing,N
+77,1993.0,Geraldine Peroni,editing,N
+78,1993.0,Ken Ralston,effects,W
+79,1993.0,Richard Edlund,effects,N
+80,1993.0,Craig Barron,effects,N
+0,1994.0,Steven Spielberg,picture,W
+1,1994.0,Arnold Kopelson,picture,N
+2,1994.0,Jim Sheridan,picture,N
+3,1994.0,Jan Chapman,picture,N
+4,1994.0,John Calley,picture,N
+5,1994.0,Steven Spielberg,director,W
+6,1994.0,Jim Sheridan,director,N
+7,1994.0,Jane Campion,director,N
+8,1994.0,James Ivory,director,N
+9,1994.0,Robert Altman,director,N
+10,1994.0,Tom Hanks,actor,W
+11,1994.0,Daniel Day-Lewis,actor,N
+12,1994.0,Laurence Fishburne,actor,N
+13,1994.0,Anthony Hopkins,actor,N
+14,1994.0,Liam Neeson,actor,N
+15,1994.0,Holly Hunter,actress,W
+16,1994.0,Angela Bassett,actress,N
+17,1994.0,Stockard Channing,actress,N
+18,1994.0,Emma Thompson,actress,N
+19,1994.0,Debra Winger,actress,N
+20,1994.0,Tommy Lee Jones,s_actor,W
+21,1994.0,Leonardo DiCaprio,s_actor,N
+22,1994.0,Ralph Fiennes,s_actor,N
+23,1994.0,John Malkovich,s_actor,N
+24,1994.0,Pete Postlethwaite,s_actor,N
+25,1994.0,Anna Paquin,s_actress,W
+26,1994.0,Holly Hunter,s_actress,N
+27,1994.0,Rosie Perez,s_actress,N
+28,1994.0,Winona Ryder,s_actress,N
+29,1994.0,Emma Thompson,s_actress,N
+30,1994.0,Jane Campion,screenplay,W
+31,1994.0,Gary Ross,screenplay,N
+32,1994.0,Jeff Maguire,screenplay,N
+33,1994.0,Ron Nyswaner,screenplay,N
+34,1994.0,Nora Ephron,screenplay,N
+35,1994.0,Steven Zaillian,screenplay,W
+36,1994.0,Martin Scorsese,screenplay,N
+37,1994.0,Jim Sheridan,screenplay,N
+38,1994.0,Ruth Prawer Jhabvala,screenplay,N
+39,1994.0,William Nicholson,screenplay,N
+40,1994.0,John Williams,music,W
+41,1994.0,Elmer Bernstein,music,N
+42,1994.0,Dave Grusin,music,N
+43,1994.0,James Newton Howard,music,N
+44,1994.0,Richard Robbins,music,N
+45,1994.0,Streets of Philadelphia,song,W
+46,1994.0,Again,song,N
+47,1994.0,Carole Bayer Sager,song,N
+48,1994.0,Neil Young,song,N
+49,1994.0,Marc Shaiman,song,N
+50,1994.0,Gary Rydstrom,sound,W
+51,1994.0,Michael Minkler,sound,N
+52,1994.0,Donald O. Mitchell,sound,N
+53,1994.0,Chris Carpenter,sound,N
+54,1994.0,Andy Nelson,sound,N
+55,1994.0,Gary Rydstrom,editing,W
+56,1994.0,Wylie Stateman,editing,N
+57,1994.0,John Leveque,editing,N
+58,1994.0,Art Direction,art_direction,W
+59,1994.0,Ken Adam,art_direction,N
+60,1994.0,Dante Ferretti,art_direction,N
+61,1994.0,Ben Van Os,art_direction,N
+62,1994.0,Luciana Arrighi,art_direction,N
+63,1994.0,Gabriella Pescucci,costume,W
+64,1994.0,Sandy Powell,costume,N
+65,1994.0,Janet Patterson,costume,N
+66,1994.0,Jenny Beavan,costume,N
+67,1994.0,Anna B. Sheppard,costume,N
+68,1994.0,Janusz Kamiński,cinematography,W
+69,1994.0,Gu Changwei,cinematography,N
+70,1994.0,Michael Chapman,cinematography,N
+71,1994.0,Stuart Dryburgh,cinematography,N
+72,1994.0,Conrad Hall,cinematography,N
+73,1994.0,Michael Kahn,editing,W
+74,1994.0,Dennis Virkler,editing,N
+75,1994.0,Gerry Hambling,editing,N
+76,1994.0,Anne V. Coates,editing,N
+77,1994.0,Veronika Jenet,editing,N
+78,1994.0,Dennis Muren,effects,W
+79,1994.0,John Richardson,effects,N
+0,1995.0,Wendy Finerman,picture,W
+1,1995.0,Duncan Kenworthy,picture,N
+2,1995.0,Lawrence Bender,picture,N
+3,1995.0,Robert Redford,picture,N
+4,1995.0,Niki Marvin,picture,N
+5,1995.0,Robert Zemeckis,director,W
+6,1995.0,Woody Allen,director,N
+7,1995.0,Quentin Tarantino,director,N
+8,1995.0,Robert Redford,director,N
+9,1995.0,Krzysztof Kieślowski,director,N
+10,1995.0,Tom Hanks,actor,W
+11,1995.0,Morgan Freeman,actor,N
+12,1995.0,Nigel Hawthorne,actor,N
+13,1995.0,Paul Newman,actor,N
+14,1995.0,John Travolta,actor,N
+15,1995.0,Jessica Lange,actress,W
+16,1995.0,Jodie Foster,actress,N
+17,1995.0,Miranda Richardson,actress,N
+18,1995.0,Winona Ryder,actress,N
+19,1995.0,Susan Sarandon,actress,N
+20,1995.0,Martin Landau,s_actor,W
+21,1995.0,Samuel L. Jackson,s_actor,N
+22,1995.0,Chazz Palminteri,s_actor,N
+23,1995.0,Paul Scofield,s_actor,N
+24,1995.0,Gary Sinise,s_actor,N
+25,1995.0,Dianne Wiest,s_actress,W
+26,1995.0,Rosemary Harris,s_actress,N
+27,1995.0,Helen Mirren,s_actress,N
+28,1995.0,Uma Thurman,s_actress,N
+29,1995.0,Jennifer Tilly,s_actress,N
+30,1995.0,Quentin Tarantino,screenplay,W
+31,1995.0,Woody Allen,screenplay,N
+32,1995.0,Richard Curtis,screenplay,N
+33,1995.0,Peter Jackson,screenplay,N
+34,1995.0,Krzysztof Kieślowski,screenplay,N
+35,1995.0,Eric Roth,screenplay,W
+36,1995.0,Alan Bennett,screenplay,N
+37,1995.0,Robert Benton,screenplay,N
+38,1995.0,Paul Attanasio,screenplay,N
+39,1995.0,Frank Darabont,screenplay,N
+40,1995.0,Hans Zimmer,music,W
+41,1995.0,Alan Silvestri,music,N
+42,1995.0,Elliot Goldenthal,music,N
+43,1995.0,Thomas Newman,music,N
+44,1995.0,Thomas Newman,music,N
+45,1995.0,Can You Feel the Love Tonight,song,W
+46,1995.0,Circle of Life,song,N
+47,1995.0,Hakuna Matata,song,N
+48,1995.0,Carole Bayer Sager,song,N
+49,1995.0,Randy Newman,song,N
+50,1995.0,Stephen Hunter Flick,editing,W
+51,1995.0,Bruce Stambler,editing,N
+52,1995.0,Gloria Borders,editing,N
+53,1995.0,Gregg Landaker,sound,W
+54,1995.0,Donald O. Mitchell,sound,N
+55,1995.0,Randy Thom,sound,N
+56,1995.0,Paul Massey,sound,N
+57,1995.0,Robert J. Litt,sound,N
+58,1995.0,Art Direction,art_direction,W
+59,1995.0,Santo Loquasto,art_direction,N
+60,1995.0,Rick Carter,art_direction,N
+61,1995.0,Dante Ferretti,art_direction,N
+62,1995.0,Lilly Kilvert,art_direction,N
+63,1995.0,John Toll,cinematography,W
+64,1995.0,Don Burgess,cinematography,N
+65,1995.0,Roger Deakins,cinematography,N
+66,1995.0,Piotr Sobociński,cinematography,N
+67,1995.0,Owen Roizman,cinematography,N
+68,1995.0,Lizzy Gardiner,costume,W
+0,1996.0,Mel Gibson,picture,W
+1,1996.0,Brian Grazer,picture,N
+2,1996.0,George Miller,picture,N
+3,1996.0,Mario Cecchi Gori,picture,N
+4,1996.0,Lindsay Doran,picture,N
+5,1996.0,Mel Gibson,director,W
+6,1996.0,Chris Noonan,director,N
+7,1996.0,Tim Robbins,director,N
+8,1996.0,Mike Figgis,director,N
+9,1996.0,Michael Radford,director,N
+10,1996.0,Nicolas Cage,actor,W
+11,1996.0,Richard Dreyfuss,actor,N
+12,1996.0,Anthony Hopkins,actor,N
+13,1996.0,Sean Penn,actor,N
+14,1996.0,Massimo Troisi,actor,N
+15,1996.0,Susan Sarandon,actress,W
+16,1996.0,Elisabeth Shue,actress,N
+17,1996.0,Sharon Stone,actress,N
+18,1996.0,Meryl Streep,actress,N
+19,1996.0,Emma Thompson,actress,N
+20,1996.0,Kevin Spacey,s_actor,W
+21,1996.0,James Cromwell,s_actor,N
+22,1996.0,Ed Harris,s_actor,N
+23,1996.0,Brad Pitt,s_actor,N
+24,1996.0,Tim Roth,s_actor,N
+25,1996.0,Mira Sorvino,s_actress,W
+26,1996.0,Joan Allen,s_actress,N
+27,1996.0,Kathleen Quinlan,s_actress,N
+28,1996.0,Mare Winningham,s_actress,N
+29,1996.0,Kate Winslet,s_actress,N
+30,1996.0,Christopher McQuarrie,screenplay,W
+31,1996.0,Randall Wallace,screenplay,N
+32,1996.0,Woody Allen,screenplay,N
+33,1996.0,Oliver Stone,screenplay,N
+34,1996.0,Joss Whedon,screenplay,N
+35,1996.0,Emma Thompson,screenplay,W
+36,1996.0,Al Reinert,screenplay,N
+37,1996.0,George Miller,screenplay,N
+38,1996.0,Mike Figgis,screenplay,N
+39,1996.0,Michael Radford,screenplay,N
+40,1996.0,Luis Bacalov,music,W
+41,1996.0,James Horner,music,N
+42,1996.0,James Horner,music,N
+43,1996.0,John Williams,music,N
+44,1996.0,Patrick Doyle,music,N
+45,1996.0,Alan Menken,music,W
+46,1996.0,Marc Shaiman,music,N
+47,1996.0,John Williams,music,N
+48,1996.0,Randy Newman,music,N
+49,1996.0,Thomas Newman,music,N
+50,1996.0,Colors of the Wind,song,W
+51,1996.0,Bruce Springsteen,song,N
+52,1996.0,Have You Ever Really Loved a Woman,song,N
+53,1996.0,John Williams,song,N
+54,1996.0,You've Got a Friend in Me,song,N
+55,1996.0,Lon Bender,editing,W
+56,1996.0,John Leveque,editing,N
+57,1996.0,George Watters II,editing,N
+58,1996.0,Rick Dior,sound,W
+59,1996.0,Donald O. Mitchell,sound,N
+60,1996.0,Andy Nelson,sound,N
+61,1996.0,Kevin O'Connell,sound,N
+62,1996.0,Steve Maslow,sound,N
+63,1996.0,Art Direction,art_direction,W
+64,1996.0,Michael Corenblith,art_direction,N
+65,1996.0,Roger Ford,art_direction,N
+66,1996.0,Bo Welch,art_direction,N
+67,1996.0,Tony Burrough,art_direction,N
+68,1996.0,John Toll,cinematography,W
+69,1996.0,Stephen Goldblatt,cinematography,N
+70,1996.0,Emmanuel Lubezki,cinematography,N
+71,1996.0,Michael Coulter,cinematography,N
+72,1996.0,Lü Yue,cinematography,N
+73,1996.0,James Acheson,costume,W
+74,1996.0,Julie Weiss,costume,N
+75,1996.0,Charles Knode,costume,N
+76,1996.0,Shuna Harwood,costume,N
+77,1996.0,Jenny Beavan,costume,N
+78,1996.0,Mike Hill,editing,W
+79,1996.0,Marcus D'Arcy,editing,N
+80,1996.0,Steven Rosenblum,editing,N
+81,1996.0,Chris Lebenzon,editing,N
+82,1996.0,Richard Francis-Bruce,editing,N
+83,1996.0,Scott E. Anderson,effects,W
+84,1996.0,Robert Legato,effects,N
+0,1997.0,Saul Zaentz,picture,W
+1,1997.0,Ethan Coen,picture,N
+2,1997.0,James L. Brooks,picture,N
+3,1997.0,Simon Channing Williams,picture,N
+4,1997.0,Jane Scott,picture,N
+5,1997.0,Anthony Minghella,director,W
+6,1997.0,Joel Coen,director,N
+7,1997.0,Miloš Forman,director,N
+8,1997.0,Mike Leigh,director,N
+9,1997.0,Scott Hicks,director,N
+10,1997.0,Geoffrey Rush,actor,W
+11,1997.0,Tom Cruise,actor,N
+12,1997.0,Ralph Fiennes,actor,N
+13,1997.0,Woody Harrelson,actor,N
+14,1997.0,Billy Bob Thornton,actor,N
+15,1997.0,Frances McDormand,actress,W
+16,1997.0,Brenda Blethyn,actress,N
+17,1997.0,Diane Keaton,actress,N
+18,1997.0,Kristin Scott Thomas,actress,N
+19,1997.0,Emily Watson,actress,N
+20,1997.0,Cuba Gooding Jr.,s_actor,W
+21,1997.0,William H. Macy,s_actor,N
+22,1997.0,Armin Mueller-Stahl,s_actor,N
+23,1997.0,Edward Norton,s_actor,N
+24,1997.0,James Woods,s_actor,N
+25,1997.0,Juliette Binoche,s_actress,W
+26,1997.0,Joan Allen,s_actress,N
+27,1997.0,Lauren Bacall,s_actress,N
+28,1997.0,Barbara Hershey,s_actress,N
+29,1997.0,Marianne Jean-Baptiste,s_actress,N
+30,1997.0,Ethan Coen and Joel Coen,screenplay,W
+31,1997.0,Cameron Crowe,screenplay,N
+32,1997.0,John Sayles,screenplay,N
+33,1997.0,Mike Leigh,screenplay,N
+34,1997.0,Jan Sardi,screenplay,N
+35,1997.0,Billy Bob Thornton,screenplay,W
+36,1997.0,Arthur Miller,screenplay,N
+37,1997.0,Anthony Minghella,screenplay,N
+38,1997.0,Kenneth Branagh,screenplay,N
+39,1997.0,John Hodge,screenplay,N
+40,1997.0,Gabriel Yared,music,W
+41,1997.0,Patrick Doyle,music,N
+42,1997.0,Elliot Goldenthal,music,N
+43,1997.0,David Hirschfelder,music,N
+44,1997.0,John Williams,music,N
+45,1997.0,Rachel Portman,music,W
+46,1997.0,Marc Shaiman,music,N
+47,1997.0,Alan Menken,music,N
+48,1997.0,Randy Newman,music,N
+49,1997.0,Hans Zimmer,music,N
+50,1997.0,You Must Love Me,song,W
+51,1997.0,I Finally Found Someone,song,N
+52,1997.0,For the First Time,song,N
+53,1997.0,That Thing You Do!,song,N
+54,1997.0,Because You Loved Me,song,N
+55,1997.0,Bruce Stambler,editing,W
+56,1997.0,Richard L. Anderson,editing,N
+57,1997.0,Alan Robert Murray,editing,N
+58,1997.0,Walter Murch,sound,W
+59,1997.0,Andy Nelson,sound,N
+60,1997.0,Chris Carpenter,sound,N
+61,1997.0,Kevin O'Connell,sound,N
+62,1997.0,Steve Maslow,sound,N
+63,1997.0,Art Direction,art_direction,W
+64,1997.0,Bo Welch,art_direction,N
+65,1997.0,Brian Morris,art_direction,N
+66,1997.0,Tim Harvey,art_direction,N
+67,1997.0,Catherine Martin,art_direction,N
+68,1997.0,John Seale,cinematography,W
+69,1997.0,Darius Khondji,cinematography,N
+70,1997.0,Roger Deakins,cinematography,N
+71,1997.0,Caleb Deschanel,cinematography,N
+72,1997.0,Chris Menges,cinematography,N
+73,1997.0,Ann Roth,costume,W
+0,1998.0,James Cameron,picture,W
+1,1998.0,James L. Brooks,picture,N
+2,1998.0,Uberto Pasolini,picture,N
+3,1998.0,Lawrence Bender,picture,N
+4,1998.0,Arnon Milchan,picture,N
+5,1998.0,James Cameron,director,W
+6,1998.0,Peter Cattaneo,director,N
+7,1998.0,Gus Van Sant,director,N
+8,1998.0,Curtis Hanson,director,N
+9,1998.0,Atom Egoyan,director,N
+10,1998.0,Jack Nicholson,actor,W
+11,1998.0,Matt Damon,actor,N
+12,1998.0,Robert Duvall,actor,N
+13,1998.0,Peter Fonda,actor,N
+14,1998.0,Dustin Hoffman,actor,N
+15,1998.0,Helen Hunt,actress,W
+16,1998.0,Helena Bonham Carter,actress,N
+17,1998.0,Julie Christie,actress,N
+18,1998.0,Judi Dench,actress,N
+19,1998.0,Kate Winslet,actress,N
+20,1998.0,Robin Williams,s_actor,W
+21,1998.0,Robert Forster,s_actor,N
+22,1998.0,Anthony Hopkins,s_actor,N
+23,1998.0,Greg Kinnear,s_actor,N
+24,1998.0,Burt Reynolds,s_actor,N
+25,1998.0,Kim Basinger,s_actress,W
+26,1998.0,Joan Cusack,s_actress,N
+27,1998.0,Minnie Driver,s_actress,N
+28,1998.0,Julianne Moore,s_actress,N
+29,1998.0,Gloria Stuart,s_actress,N
+30,1998.0,Matt Damon,screenplay,W
+31,1998.0,Mark Andrus,screenplay,N
+32,1998.0,Paul Thomas Anderson,screenplay,N
+33,1998.0,Woody Allen,screenplay,N
+34,1998.0,Simon Beaufoy,screenplay,N
+35,1998.0,Brian Helgeland,screenplay,W
+36,1998.0,Paul Attanasio,screenplay,N
+37,1998.0,Atom Egoyan,screenplay,N
+38,1998.0,David Mamet,screenplay,N
+39,1998.0,Hossein Amini,screenplay,N
+40,1998.0,James Horner,music,W
+41,1998.0,John Williams,music,N
+42,1998.0,Danny Elfman,music,N
+43,1998.0,Philip Glass,music,N
+44,1998.0,Jerry Goldsmith,music,N
+45,1998.0,Anne Dudley,music,W
+46,1998.0,Stephen Flaherty,music,N
+47,1998.0,Hans Zimmer,music,N
+48,1998.0,Danny Elfman,music,N
+49,1998.0,James Newton Howard,music,N
+50,1998.0,My Heart Will Go On,song,W
+51,1998.0,Go the Distance,song,N
+52,1998.0,Journey to the Past,song,N
+53,1998.0,How Do I Live,song,N
+54,1998.0,Miss Misery,song,N
+55,1998.0,Tom Bellfort,editing,W
+56,1998.0,Mark Stoeckinger,editing,N
+57,1998.0,Mark Mangini,editing,N
+58,1998.0,Gary Rydstrom,sound,W
+59,1998.0,Paul Massey,sound,N
+60,1998.0,Kevin O'Connell,sound,N
+61,1998.0,Randy Thom,sound,N
+62,1998.0,Andy Nelson,sound,N
+63,1998.0,Peter Lamont,art_direction,W
+64,1998.0,Jan Roelfs,art_direction,N
+65,1998.0,Dante Ferretti,art_direction,N
+66,1998.0,Jeannine Oppewall,art_direction,N
+67,1998.0,Bo Welch,art_direction,N
+68,1998.0,Russell Carpenter,cinematography,W
+69,1998.0,Janusz Kamiński,cinematography,N
+70,1998.0,Roger Deakins,cinematography,N
+71,1998.0,Dante Spinotti,cinematography,N
+72,1998.0,Eduardo Serra,cinematography,N
+73,1998.0,Deborah Lynn Scott,costume,W
+74,1998.0,Ruth E. Carter,costume,N
+75,1998.0,Dante Ferretti,costume,N
+76,1998.0,Janet Patterson,costume,N
+77,1998.0,Sandy Powell,costume,N
+78,1998.0,Conrad Buff,editing,W
+79,1998.0,Richard Francis-Bruce,editing,N
+80,1998.0,Richard Marks,editing,N
+81,1998.0,Pietro Scalia,editing,N
+82,1998.0,Peter Honess,editing,N
+83,1998.0,Robert Legato,effects,W
+84,1998.0,Dennis Muren,effects,N
+85,1998.0,Phil Tippett,effects,N
+0,1999.0,Donna Gigliotti,picture,W
+1,1999.0,Alison Owen,picture,N
+2,1999.0,Elda Ferri,picture,N
+3,1999.0,Steven Spielberg,picture,N
+4,1999.0,Grant Hill,picture,N
+5,1999.0,Steven Spielberg,director,W
+6,1999.0,Roberto Benigni,director,N
+7,1999.0,John Madden,director,N
+8,1999.0,Terrence Malick,director,N
+9,1999.0,Peter Weir,director,N
+10,1999.0,Roberto Benigni,actor,W
+11,1999.0,Tom Hanks,actor,N
+12,1999.0,Ian McKellen,actor,N
+13,1999.0,Nick Nolte,actor,N
+14,1999.0,Edward Norton,actor,N
+15,1999.0,Gwyneth Paltrow,actress,W
+16,1999.0,Cate Blanchett,actress,N
+17,1999.0,Fernanda Montenegro,actress,N
+18,1999.0,Meryl Streep,actress,N
+19,1999.0,Emily Watson,actress,N
+20,1999.0,James Coburn,s_actor,W
+21,1999.0,Robert Duvall,s_actor,N
+22,1999.0,Ed Harris,s_actor,N
+23,1999.0,Geoffrey Rush,s_actor,N
+24,1999.0,Billy Bob Thornton,s_actor,N
+25,1999.0,Judi Dench,s_actress,W
+26,1999.0,Kathy Bates,s_actress,N
+27,1999.0,Brenda Blethyn,s_actress,N
+28,1999.0,Rachel Griffiths,s_actress,N
+29,1999.0,Lynn Redgrave,s_actress,N
+30,1999.0,Marc Norman,screenplay,W
+31,1999.0,Warren Beatty,screenplay,N
+32,1999.0,Vincenzo Cerami,screenplay,N
+33,1999.0,Robert Rodat,screenplay,N
+34,1999.0,Andrew Niccol,screenplay,N
+35,1999.0,Bill Condon,screenplay,W
+36,1999.0,Scott Frank,screenplay,N
+37,1999.0,Elaine May,screenplay,N
+38,1999.0,Scott B. Smith,screenplay,N
+39,1999.0,Terrence Malick,screenplay,N
+40,1999.0,When You Believe,song,W
+41,1999.0,I Don't Want to Miss a Thing,song,N
+42,1999.0,Randy Newman,song,N
+43,1999.0,Allison Moorer,song,N
+44,1999.0,The Prayer,song,N
+45,1999.0,Nicola Piovani,music,W
+46,1999.0,David Hirschfelder,music,N
+47,1999.0,Randy Newman,music,N
+48,1999.0,John Williams,music,N
+49,1999.0,Hans Zimmer,music,N
+50,1999.0,Stephen Warbeck,music,W
+51,1999.0,Randy Newman,music,N
+52,1999.0,Matthew Wilder,music,N
+53,1999.0,Marc Shaiman,music,N
+54,1999.0,Stephen Schwartz,music,N
+55,1999.0,Gary Rydstrom,editing,W
+56,1999.0,George Watters II,editing,N
+57,1999.0,David McMoyler,editing,N
+58,1999.0,Gary Rydstrom,sound,W
+59,1999.0,Kevin O'Connell,sound,N
+60,1999.0,Kevin O'Connell,sound,N
+61,1999.0,Robin O'Donoghue,sound,N
+62,1999.0,Andy Nelson,sound,N
+63,1999.0,Art Direction,art_direction,W
+64,1999.0,John Myhre,art_direction,N
+65,1999.0,Jeannine Oppewall,art_direction,N
+66,1999.0,Tom Sanders,art_direction,N
+67,1999.0,Eugenio Zanetti,art_direction,N
+68,1999.0,Janusz Kamiński,cinematography,W
+69,1999.0,Conrad Hall,cinematography,N
+70,1999.0,Remi Adefarasin,cinematography,N
+71,1999.0,Richard Greatrex,cinematography,N
+72,1999.0,John Toll,cinematography,N
+73,1999.0,Sandy Powell,costume,W
+74,1999.0,Colleen Atwood,costume,N
+75,1999.0,Alexandra Byrne,costume,N
+76,1999.0,Judianna Makovsky,costume,N
+77,1999.0,Sandy Powell,costume,N
+78,1999.0,Michael Kahn,editing,W
+79,1999.0,Simona Paggi,editing,N
+80,1999.0,Anne V. Coates,editing,N
+81,1999.0,David Gamble,editing,N
+82,1999.0,Billy Weber,editing,N
+83,1999.0,Joel Hynek,effects,W
+84,1999.0,Richard R. Hoover,effects,N
+85,1999.0,Rick Baker,effects,N
+0,2000.0,Bruce Cohen,picture,W
+1,2000.0,Richard N. Gladstein,picture,N
+2,2000.0,Frank Darabont,picture,N
+3,2000.0,Pieter Jan Brugge,picture,N
+4,2000.0,Frank Marshall,picture,N
+5,2000.0,Sam Mendes,director,W
+6,2000.0,Spike Jonze,director,N
+7,2000.0,Lasse Hallström,director,N
+8,2000.0,Michael Mann,director,N
+9,2000.0,M. Night Shyamalan,director,N
+10,2000.0,Kevin Spacey,actor,W
+11,2000.0,Russell Crowe,actor,N
+12,2000.0,Richard Farnsworth,actor,N
+13,2000.0,Sean Penn,actor,N
+14,2000.0,Denzel Washington,actor,N
+15,2000.0,Hilary Swank,actress,W
+16,2000.0,Annette Bening,actress,N
+17,2000.0,Janet McTeer,actress,N
+18,2000.0,Julianne Moore,actress,N
+19,2000.0,Meryl Streep,actress,N
+20,2000.0,Michael Caine,s_actor,W
+21,2000.0,Tom Cruise,s_actor,N
+22,2000.0,Michael Clarke Duncan,s_actor,N
+23,2000.0,Jude Law,s_actor,N
+24,2000.0,Haley Joel Osment,s_actor,N
+25,2000.0,Angelina Jolie,s_actress,W
+26,2000.0,Toni Collette,s_actress,N
+27,2000.0,Catherine Keener,s_actress,N
+28,2000.0,Samantha Morton,s_actress,N
+29,2000.0,Chloë Sevigny,s_actress,N
+30,2000.0,Alan Ball,screenplay,W
+31,2000.0,Charlie Kaufman,screenplay,N
+32,2000.0,Paul Thomas Anderson,screenplay,N
+33,2000.0,M. Night Shyamalan,screenplay,N
+34,2000.0,Mike Leigh,screenplay,N
+35,2000.0,John Irving,screenplay,W
+36,2000.0,Alexander Payne,screenplay,N
+37,2000.0,Frank Darabont,screenplay,N
+38,2000.0,Eric Roth,screenplay,N
+39,2000.0,Anthony Minghella,screenplay,N
+40,2000.0,John Corigliano,music,W
+41,2000.0,Thomas Newman,music,N
+42,2000.0,John Williams,music,N
+43,2000.0,Rachel Portman,music,N
+44,2000.0,Gabriel Yared,music,N
+45,2000.0,You'll Be in My Heart,song,W
+46,2000.0,Blame Canada,song,N
+47,2000.0,Music of My Heart,song,N
+48,2000.0,Save Me,song,N
+49,2000.0,When She Loved Me,song,N
+50,2000.0,Dane Davis,editing,W
+51,2000.0,Ren Klyce,editing,N
+52,2000.0,Ben Burtt,editing,N
+53,2000.0,John T. Reitz,sound,W
+54,2000.0,Robert J. Litt,sound,N
+55,2000.0,Andy Nelson,sound,N
+56,2000.0,Leslie Shatz,sound,N
+57,2000.0,Gary Rydstrom,sound,N
+58,2000.0,Art Direction,art_direction,W
+59,2000.0,Luciana Arrighi,art_direction,N
+60,2000.0,Beth Rubino,art_direction,N
+61,2000.0,Roy Walker,art_direction,N
+62,2000.0,Eve Stewart,art_direction,N
+63,2000.0,Conrad Hall,cinematography,W
+64,2000.0,Roger Pratt,cinematography,N
+65,2000.0,Dante Spinotti,cinematography,N
+66,2000.0,Emmanuel Lubezki,cinematography,N
+67,2000.0,Robert Richardson,cinematography,N
+68,2000.0,Lindy Hemming,costume,W
+69,2000.0,Jenny Beavan,costume,N
+70,2000.0,Colleen Atwood,costume,N
+71,2000.0,Ann Roth,costume,N
+72,2000.0,Milena Canonero,costume,N
+73,2000.0,Zach Staenberg,editing,W
+74,2000.0,Tariq Anwar,editing,N
+75,2000.0,Lisa Zeno Churgin,editing,N
+76,2000.0,William Goldenberg,editing,N
+77,2000.0,Andrew Mondshein,editing,N
+78,2000.0,John Gaeta,effects,W
+79,2000.0,John Knoll,effects,N
+80,2000.0,John Dykstra,effects,N
+0,2001.0,Douglas Wick,picture,W
+1,2001.0,David Brown,picture,N
+2,2001.0,Bill Kong,picture,N
+3,2001.0,Danny DeVito,picture,N
+4,2001.0,Marshall Herskovitz,picture,N
+5,2001.0,Steven Soderbergh,director,W
+6,2001.0,Stephen Daldry,director,N
+7,2001.0,Ang Lee,director,N
+8,2001.0,Steven Soderbergh,director,N
+9,2001.0,Ridley Scott,director,N
+10,2001.0,Russell Crowe,actor,W
+11,2001.0,Javier Bardem,actor,N
+12,2001.0,Tom Hanks,actor,N
+13,2001.0,Ed Harris,actor,N
+14,2001.0,Geoffrey Rush,actor,N
+15,2001.0,Julia Roberts,actress,W
+16,2001.0,Joan Allen,actress,N
+17,2001.0,Juliette Binoche,actress,N
+18,2001.0,Ellen Burstyn,actress,N
+19,2001.0,Laura Linney,actress,N
+20,2001.0,Benicio del Toro,s_actor,W
+21,2001.0,Jeff Bridges,s_actor,N
+22,2001.0,Willem Dafoe,s_actor,N
+23,2001.0,Albert Finney,s_actor,N
+24,2001.0,Joaquin Phoenix,s_actor,N
+25,2001.0,Marcia Gay Harden,s_actress,W
+26,2001.0,Judi Dench,s_actress,N
+27,2001.0,Kate Hudson,s_actress,N
+28,2001.0,Frances McDormand,s_actress,N
+29,2001.0,Julie Walters,s_actress,N
+30,2001.0,Cameron Crowe,screenplay,W
+31,2001.0,Lee Hall,screenplay,N
+32,2001.0,Susannah Grant,screenplay,N
+33,2001.0,David Franzoni,screenplay,N
+34,2001.0,Kenneth Lonergan,screenplay,N
+35,2001.0,Stephen Gaghan,screenplay,W
+36,2001.0,Robert Nelson Jacobs,screenplay,N
+37,2001.0,James Schamus,screenplay,N
+38,2001.0,Joel Coen,screenplay,N
+39,2001.0,Steve Kloves,screenplay,N
+40,2001.0,Tan Dun,music,W
+41,2001.0,Rachel Portman,music,N
+42,2001.0,Hans Zimmer,music,N
+43,2001.0,Ennio Morricone,music,N
+44,2001.0,John Williams,music,N
+45,2001.0,Things Have Changed,song,W
+46,2001.0,Randy Newman,song,N
+47,2001.0,I've Seen It All,song,N
+48,2001.0,A Love Before Time,song,N
+49,2001.0,My Funny Friend and Me,song,N
+50,2001.0,Jon Johnson,editing,W
+51,2001.0,Alan Robert Murray,editing,N
+52,2001.0,Scott Millan,sound,W
+53,2001.0,Randy Thom,sound,N
+54,2001.0,Kevin O'Connell,sound,N
+55,2001.0,John Reitz,sound,N
+56,2001.0,Steve Maslow,sound,N
+57,2001.0,Art Direction,art_direction,W
+58,2001.0,Arthur Max,art_direction,N
+59,2001.0,Michael Corenblith,art_direction,N
+60,2001.0,Martin Childs,art_direction,N
+61,2001.0,Jean Rabasse,art_direction,N
+62,2001.0,Peter Pau,cinematography,W
+63,2001.0,John Mathieson,cinematography,N
+64,2001.0,Lajos Koltai,cinematography,N
+65,2001.0,Roger Deakins,cinematography,N
+66,2001.0,Caleb Deschanel,cinematography,N
+67,2001.0,Janty Yates,costume,W
+68,2001.0,Anthony Powell,costume,N
+69,2001.0,Timmy Yip,costume,N
+70,2001.0,Rita Ryack,costume,N
+71,2001.0,Jacqueline West,costume,N
+72,2001.0,Stephen Mirrione,editing,W
+73,2001.0,Joe Hutshing,editing,N
+74,2001.0,Tim Squyres,editing,N
+75,2001.0,Pietro Scalia,editing,N
+76,2001.0,Dede Allen,editing,N
+77,2001.0,John Nelson,effects,W
+78,2001.0,Scott E. Anderson,effects,N
+79,2001.0,Stefen Fangmeier,effects,N
+0,2002.0,Brian Grazer,picture,W
+1,2002.0,Robert Altman,picture,N
+2,2002.0,Ross Katz,picture,N
+3,2002.0,Peter Jackson,picture,N
+4,2002.0,Baz Luhrmann,picture,N
+5,2002.0,Ron Howard,director,W
+6,2002.0,Ridley Scott,director,N
+7,2002.0,Robert Altman,director,N
+8,2002.0,Peter Jackson,director,N
+9,2002.0,David Lynch,director,N
+10,2002.0,Denzel Washington,actor,W
+11,2002.0,Russell Crowe,actor,N
+12,2002.0,Sean Penn,actor,N
+13,2002.0,Will Smith,actor,N
+14,2002.0,Tom Wilkinson,actor,N
+15,2002.0,Halle Berry,actress,W
+16,2002.0,Judi Dench,actress,N
+17,2002.0,Nicole Kidman,actress,N
+18,2002.0,Sissy Spacek,actress,N
+19,2002.0,Renée Zellweger,actress,N
+20,2002.0,Jim Broadbent,s_actor,W
+21,2002.0,Ethan Hawke,s_actor,N
+22,2002.0,Ben Kingsley,s_actor,N
+23,2002.0,Ian McKellen,s_actor,N
+24,2002.0,Jon Voight,s_actor,N
+25,2002.0,Jennifer Connelly,s_actress,W
+26,2002.0,Helen Mirren,s_actress,N
+27,2002.0,Maggie Smith,s_actress,N
+28,2002.0,Marisa Tomei,s_actress,N
+29,2002.0,Kate Winslet,s_actress,N
+30,2002.0,Julian Fellowes,screenplay,W
+31,2002.0,Jean-Pierre Jeunet,screenplay,N
+32,2002.0,Christopher Nolan,screenplay,N
+0,2003.0,Martin Richards,picture,W
+1,2003.0,Alberto Grimaldi,picture,N
+2,2003.0,Scott Rudin,picture,N
+3,2003.0,Barrie M. Osborne,picture,N
+4,2003.0,Roman Polanski,picture,N
+5,2003.0,Roman Polanski,director,W
+6,2003.0,Rob Marshall,director,N
+7,2003.0,Martin Scorsese,director,N
+8,2003.0,Stephen Daldry,director,N
+9,2003.0,Pedro Almodóvar,director,N
+10,2003.0,Adrien Brody,actor,W
+11,2003.0,Nicolas Cage,actor,N
+12,2003.0,Michael Caine,actor,N
+13,2003.0,Daniel Day-Lewis,actor,N
+14,2003.0,Jack Nicholson,actor,N
+15,2003.0,Nicole Kidman,actress,W
+16,2003.0,Salma Hayek,actress,N
+17,2003.0,Diane Lane,actress,N
+18,2003.0,Julianne Moore,actress,N
+19,2003.0,Renée Zellweger,actress,N
+20,2003.0,Chris Cooper,s_actor,W
+21,2003.0,Ed Harris,s_actor,N
+22,2003.0,Paul Newman,s_actor,N
+23,2003.0,John C. Reilly,s_actor,N
+24,2003.0,Christopher Walken,s_actor,N
+25,2003.0,Catherine Zeta-Jones,s_actress,W
+26,2003.0,Kathy Bates,s_actress,N
+27,2003.0,Queen Latifah,s_actress,N
+28,2003.0,Julianne Moore,s_actress,N
+29,2003.0,Meryl Streep,s_actress,N
+30,2003.0,Pedro Almodóvar,screenplay,W
+31,2003.0,Todd Haynes,screenplay,N
+32,2003.0,Jay Cocks,screenplay,N
+33,2003.0,Nia Vardalos,screenplay,N
+34,2003.0,Carlos Cuarón,screenplay,N
+35,2003.0,Ronald Harwood,screenplay,W
+36,2003.0,Peter Hedges,screenplay,N
+37,2003.0,Charlie Kaufman,screenplay,N
+38,2003.0,Bill Condon,screenplay,N
+39,2003.0,David Hare,screenplay,N
+40,2003.0,Elliot Goldenthal,music,W
+41,2003.0,John Williams,music,N
+42,2003.0,Elmer Bernstein,music,N
+43,2003.0,Philip Glass,music,N
+44,2003.0,Thomas Newman,music,N
+45,2003.0,Lose Yourself,song,W
+46,2003.0,John Kander,song,N
+47,2003.0,Elliot Goldenthal,song,N
+48,2003.0,The Hands That Built America,song,N
+49,2003.0,Father and Daughter,song,N
+50,2003.0,Mike Hopkins,editing,W
+51,2003.0,Richard Hymns,editing,N
+52,2003.0,Scott Hecker,editing,N
+53,2003.0,Michael Minkler,sound,W
+54,2003.0,Tom Fleischman,sound,N
+55,2003.0,Christopher Boyes,sound,N
+56,2003.0,Scott Millan,sound,N
+57,2003.0,Kevin O'Connell,sound,N
+58,2003.0,Art Direction,art_direction,W
+59,2003.0,Hania Robledo,art_direction,N
+60,2003.0,Dante Ferretti,art_direction,N
+61,2003.0,Grant Major,art_direction,N
+62,2003.0,Dennis Gassner,art_direction,N
+63,2003.0,Conrad Hall,cinematography,W
+64,2003.0,Dion Beebe,cinematography,N
+65,2003.0,Edward Lachman,cinematography,N
+66,2003.0,Michael Ballhaus,cinematography,N
+67,2003.0,Paweł Edelman,cinematography,N
+68,2003.0,Colleen Atwood,costume,W
+69,2003.0,Julie Weiss,costume,N
+70,2003.0,Sandy Powell,costume,N
+71,2003.0,Ann Roth,costume,N
+72,2003.0,Anna B. Sheppard,costume,N
+73,2003.0,Martin Walsh,editing,W
+74,2003.0,Thelma Schoonmaker,editing,N
+75,2003.0,Peter Boyle,editing,N
+76,2003.0,Michael Horton,editing,N
+77,2003.0,Hervé de Luze,editing,N
+78,2003.0,Jim Rygiel,effects,W
+79,2003.0,John Dykstra,effects,N
+80,2003.0,Rob Coleman,effects,N
+0,2004.0,Barrie M. Osborne,picture,W
+1,2004.0,Ross Katz,picture,N
+2,2004.0,Samuel Goldwyn Jr.,picture,N
+3,2004.0,Robert Lorenz,picture,N
+4,2004.0,Kathleen Kennedy,picture,N
+5,2004.0,Peter Jackson,director,W
+6,2004.0,Fernando Meirelles,director,N
+7,2004.0,Sofia Coppola,director,N
+8,2004.0,Peter Weir,director,N
+9,2004.0,Clint Eastwood,director,N
+10,2004.0,Sean Penn,actor,W
+11,2004.0,Johnny Depp,actor,N
+12,2004.0,Ben Kingsley,actor,N
+13,2004.0,Jude Law,actor,N
+14,2004.0,Bill Murray,actor,N
+15,2004.0,Charlize Theron,actress,W
+16,2004.0,Keisha Castle-Hughes,actress,N
+17,2004.0,Diane Keaton,actress,N
+18,2004.0,Samantha Morton,actress,N
+19,2004.0,Naomi Watts,actress,N
+20,2004.0,Tim Robbins,s_actor,W
+21,2004.0,Alec Baldwin,s_actor,N
+22,2004.0,Benicio del Toro,s_actor,N
+23,2004.0,Djimon Hounsou,s_actor,N
+24,2004.0,Ken Watanabe,s_actor,N
+25,2004.0,Renée Zellweger,s_actress,W
+26,2004.0,Shohreh Aghdashloo,s_actress,N
+27,2004.0,Patricia Clarkson,s_actress,N
+28,2004.0,Marcia Gay Harden,s_actress,N
+29,2004.0,Holly Hunter,s_actress,N
+30,2004.0,Sofia Coppola,screenplay,W
+31,2004.0,Denys Arcand,screenplay,N
+32,2004.0,Steven Knight,screenplay,N
+33,2004.0,Andrew Stanton,screenplay,N
+34,2004.0,Jim Sheridan,screenplay,N
+35,2004.0,Fran Walsh,screenplay,W
+36,2004.0,Shari Springer Berman and Robert Pulcini,screenplay,N
+37,2004.0,Bráulio Mantovani,screenplay,N
+38,2004.0,Brian Helgeland,screenplay,N
+39,2004.0,Gary Ross,screenplay,N
+40,2004.0,Howard Shore,music,W
+41,2004.0,Danny Elfman,music,N
+42,2004.0,Gabriel Yared,music,N
+43,2004.0,Thomas Newman,music,N
+44,2004.0,James Horner,music,N
+45,2004.0,Into the West,song,W
+46,2004.0,Belleville Rendez-vous,song,N
+47,2004.0,Michael McKean,song,N
+48,2004.0,Scarlet Tide,song,N
+49,2004.0,You Will Be My Ain True Love,song,N
+50,2004.0,Richard King,editing,W
+51,2004.0,Gary Rydstrom,editing,N
+52,2004.0,Christopher Boyes,editing,N
+53,2004.0,Christopher Boyes,sound,W
+54,2004.0,Andy Nelson,sound,N
+55,2004.0,Paul Massey,sound,N
+56,2004.0,Christopher Boyes,sound,N
+57,2004.0,Andy Nelson,sound,N
+58,2004.0,Art Direction,art_direction,W
+59,2004.0,Ben Van Os,art_direction,N
+60,2004.0,Lilly Kilvert,art_direction,N
+61,2004.0,William Sandell,art_direction,N
+62,2004.0,Jeannine Oppewall,art_direction,N
+63,2004.0,Russell Boyd,cinematography,W
+64,2004.0,Cesar Charlone,cinematography,N
+65,2004.0,John Seale,cinematography,N
+66,2004.0,Eduardo Serra,cinematography,N
+67,2004.0,John Schwartzman,cinematography,N
+68,2004.0,Ngila Dickson,costume,W
+0,2005.0,Clint Eastwood,picture,W
+1,2005.0,Michael Mann,picture,N
+2,2005.0,Richard N. Gladstein,picture,N
+3,2005.0,Taylor Hackford,picture,N
+4,2005.0,Michael London,picture,N
+5,2005.0,Clint Eastwood,director,W
+6,2005.0,Martin Scorsese,director,N
+7,2005.0,Taylor Hackford,director,N
+8,2005.0,Alexander Payne,director,N
+9,2005.0,Mike Leigh,director,N
+10,2005.0,Jamie Foxx,actor,W
+11,2005.0,Don Cheadle,actor,N
+12,2005.0,Johnny Depp,actor,N
+13,2005.0,Leonardo DiCaprio,actor,N
+14,2005.0,Clint Eastwood,actor,N
+15,2005.0,Hilary Swank,actress,W
+16,2005.0,Annette Bening,actress,N
+17,2005.0,Catalina Sandino Moreno,actress,N
+18,2005.0,Imelda Staunton,actress,N
+19,2005.0,Kate Winslet,actress,N
+20,2005.0,Morgan Freeman,s_actor,W
+21,2005.0,Alan Alda,s_actor,N
+22,2005.0,Thomas Haden Church,s_actor,N
+23,2005.0,Jamie Foxx,s_actor,N
+24,2005.0,Clive Owen,s_actor,N
+25,2005.0,Cate Blanchett,s_actress,W
+26,2005.0,Laura Linney,s_actress,N
+27,2005.0,Virginia Madsen,s_actress,N
+28,2005.0,Sophie Okonedo,s_actress,N
+29,2005.0,Natalie Portman,s_actress,N
+30,2005.0,Charlie Kaufman,screenplay,W
+31,2005.0,John Logan,screenplay,N
+32,2005.0,Terry George,screenplay,N
+33,2005.0,Brad Bird,screenplay,N
+34,2005.0,Mike Leigh,screenplay,N
+35,2005.0,Alexander Payne,screenplay,W
+36,2005.0,Richard Linklater,screenplay,N
+37,2005.0,David Magee,screenplay,N
+38,2005.0,Paul Haggis,screenplay,N
+39,2005.0,José Rivera,screenplay,N
+0,2006.0,Paul Haggis,picture,W
+1,2006.0,Diana Ossana,picture,N
+2,2006.0,Caroline Baron,picture,N
+3,2006.0,Grant Heslov,picture,N
+4,2006.0,Kathleen Kennedy,picture,N
+5,2006.0,Ang Lee,director,W
+6,2006.0,Bennett Miller,director,N
+7,2006.0,Paul Haggis,director,N
+8,2006.0,George Clooney,director,N
+9,2006.0,Steven Spielberg,director,N
+10,2006.0,Philip Seymour Hoffman,actor,W
+11,2006.0,Terrence Howard,actor,N
+12,2006.0,Heath Ledger,actor,N
+13,2006.0,Joaquin Phoenix,actor,N
+14,2006.0,David Strathairn,actor,N
+15,2006.0,Reese Witherspoon,actress,W
+16,2006.0,Judi Dench,actress,N
+17,2006.0,Felicity Huffman,actress,N
+18,2006.0,Keira Knightley,actress,N
+19,2006.0,Charlize Theron,actress,N
+20,2006.0,George Clooney,s_actor,W
+21,2006.0,Matt Dillon,s_actor,N
+22,2006.0,Paul Giamatti,s_actor,N
+23,2006.0,Jake Gyllenhaal,s_actor,N
+24,2006.0,William Hurt,s_actor,N
+25,2006.0,Rachel Weisz,s_actress,W
+26,2006.0,Amy Adams,s_actress,N
+27,2006.0,Catherine Keener,s_actress,N
+28,2006.0,Frances McDormand,s_actress,N
+29,2006.0,Michelle Williams,s_actress,N
+30,2006.0,Paul Haggis,screenplay,W
+31,2006.0,George Clooney,screenplay,N
+32,2006.0,Woody Allen,screenplay,N
+33,2006.0,Noah Baumbach,screenplay,N
+34,2006.0,Stephen Gaghan,screenplay,N
+35,2006.0,Larry McMurtry,screenplay,W
+36,2006.0,Dan Futterman,screenplay,N
+37,2006.0,Jeffrey Caine,screenplay,N
+38,2006.0,Josh Olson,screenplay,N
+39,2006.0,Tony Kushner,screenplay,N
+40,2006.0,Gustavo Santaolalla,music,W
+41,2006.0,Alberto Iglesias,music,N
+42,2006.0,John Williams,music,N
+43,2006.0,John Williams,music,N
+44,2006.0,Dario Marianelli,music,N
+45,2006.0,It's Hard out Here for a Pimp,song,W
+46,2006.0,In the Deep,song,N
+47,2006.0,Travelin’ Thru,song,N
+48,2006.0,Mike Hopkins,editing,W
+49,2006.0,Wylie Stateman,editing,N
+50,2006.0,Richard King,editing,N
+51,2006.0,Christopher Boyes,sound,W
+52,2006.0,Terry Porter,sound,N
+53,2006.0,Kevin O'Connell,sound,N
+54,2006.0,Paul Massey,sound,N
+55,2006.0,Andy Nelson,sound,N
+56,2006.0,Art Direction,art_direction,W
+57,2006.0,Jim Bissell,art_direction,N
+58,2006.0,Stuart Craig,art_direction,N
+59,2006.0,Grant Major,art_direction,N
+60,2006.0,Sarah Greenwood,art_direction,N
+61,2006.0,Dion Beebe,cinematography,W
+62,2006.0,Wally Pfister,cinematography,N
+63,2006.0,Rodrigo Prieto,cinematography,N
+64,2006.0,Robert Elswit,cinematography,N
+65,2006.0,Emmanuel Lubezki,cinematography,N
+66,2006.0,Colleen Atwood,costume,W
+67,2006.0,Gabriella Pescucci,costume,N
+68,2006.0,Sandy Powell,costume,N
+69,2006.0,Jacqueline Durran,costume,N
+70,2006.0,Arianne Phillips,costume,N
+71,2006.0,Hughes Winborne,editing,W
+72,2006.0,Mike Hill,editing,N
+73,2006.0,Claire Simpson,editing,N
+74,2006.0,Michael Kahn,editing,N
+75,2006.0,Michael McCusker,editing,N
+76,2006.0,Joe Letteri,effects,W
+77,2006.0,Dean Wright,effects,N
+78,2006.0,Dennis Muren,effects,N
+0,2007.0,Graham King,picture,W
+1,2007.0,Alejandro González Iñárritu,picture,N
+2,2007.0,Clint Eastwood,picture,N
+3,2007.0,David T. Friendly,picture,N
+4,2007.0,Andy Harries,picture,N
+5,2007.0,Martin Scorsese,director,W
+6,2007.0,Alejandro González Iñárritu,director,N
+7,2007.0,Clint Eastwood,director,N
+8,2007.0,Stephen Frears,director,N
+9,2007.0,Paul Greengrass,director,N
+10,2007.0,Forest Whitaker,actor,W
+11,2007.0,Leonardo DiCaprio,actor,N
+12,2007.0,Ryan Gosling,actor,N
+13,2007.0,Peter O'Toole,actor,N
+14,2007.0,Will Smith,actor,N
+15,2007.0,Helen Mirren,actress,W
+16,2007.0,Penélope Cruz,actress,N
+17,2007.0,Judi Dench,actress,N
+18,2007.0,Meryl Streep,actress,N
+19,2007.0,Kate Winslet,actress,N
+20,2007.0,Alan Arkin,s_actor,W
+21,2007.0,Jackie Earle Haley,s_actor,N
+22,2007.0,Djimon Hounsou,s_actor,N
+23,2007.0,Eddie Murphy,s_actor,N
+24,2007.0,Mark Wahlberg,s_actor,N
+25,2007.0,Jennifer Hudson,s_actress,W
+26,2007.0,Adriana Barraza,s_actress,N
+27,2007.0,Cate Blanchett,s_actress,N
+28,2007.0,Abigail Breslin,s_actress,N
+29,2007.0,Rinko Kikuchi,s_actress,N
+30,2007.0,Michael Arndt,screenplay,W
+31,2007.0,Guillermo Arriaga,screenplay,N
+32,2007.0,Iris Yamashita,screenplay,N
+33,2007.0,Guillermo del Toro,screenplay,N
+34,2007.0,Peter Morgan,screenplay,N
+35,2007.0,William Monahan,screenplay,W
+36,2007.0,Sacha Baron Cohen,screenplay,N
+37,2007.0,Alfonso Cuarón,screenplay,N
+38,2007.0,Todd Field,screenplay,N
+39,2007.0,Patrick Marber,screenplay,N
+0,2008.0,Scott Rudin,picture,W
+1,2008.0,Tim Bevan,picture,N
+2,2008.0,Lianne Halfon,picture,N
+3,2008.0,Jennifer Fox,picture,N
+4,2008.0,Paul Thomas Anderson,picture,N
+5,2008.0,Joel Coen,director,W
+6,2008.0,Julian Schnabel,director,N
+7,2008.0,Jason Reitman,director,N
+8,2008.0,Tony Gilroy,director,N
+9,2008.0,Paul Thomas Anderson,director,N
+10,2008.0,Daniel Day-Lewis,actor,W
+11,2008.0,George Clooney,actor,N
+12,2008.0,Johnny Depp,actor,N
+13,2008.0,Tommy Lee Jones,actor,N
+14,2008.0,Viggo Mortensen,actor,N
+15,2008.0,Marion Cotillard,actress,W
+16,2008.0,Cate Blanchett,actress,N
+17,2008.0,Julie Christie,actress,N
+18,2008.0,Laura Linney,actress,N
+19,2008.0,Ellen Page,actress,N
+20,2008.0,Javier Bardem,s_actor,W
+21,2008.0,Casey Affleck,s_actor,N
+22,2008.0,Philip Seymour Hoffman,s_actor,N
+23,2008.0,Hal Holbrook,s_actor,N
+24,2008.0,Tom Wilkinson,s_actor,N
+25,2008.0,Tilda Swinton,s_actress,W
+26,2008.0,Cate Blanchett,s_actress,N
+27,2008.0,Ruby Dee,s_actress,N
+28,2008.0,Saoirse Ronan,s_actress,N
+29,2008.0,Amy Ryan,s_actress,N
+30,2008.0,Diablo Cody,screenplay,W
+31,2008.0,Nancy Oliver,screenplay,N
+32,2008.0,Tony Gilroy,screenplay,N
+33,2008.0,Brad Bird,screenplay,N
+34,2008.0,Tamara Jenkins,screenplay,N
+35,2008.0,Joel Coen,screenplay,W
+36,2008.0,Christopher Hampton,screenplay,N
+37,2008.0,Sarah Polley,screenplay,N
+38,2008.0,Ronald Harwood,screenplay,N
+39,2008.0,Paul Thomas Anderson,screenplay,N
+40,2008.0,Dario Marianelli,music,W
+41,2008.0,Marco Beltrami,music,N
+42,2008.0,Alberto Iglesias,music,N
+43,2008.0,James Newton Howard,music,N
+44,2008.0,Michael Giacchino,music,N
+45,2008.0,Falling Slowly,song,W
+46,2008.0,Happy Working Song,song,N
+47,2008.0,Raise It Up,song,N
+48,2008.0,So Close,song,N
+49,2008.0,That's How You Know,song,N
+50,2008.0,Karen Baker Landers,editing,W
+51,2008.0,Skip Lievsay,editing,N
+52,2008.0,Randy Thom,editing,N
+53,2008.0,Christopher Scarabosio,editing,N
+54,2008.0,Ethan Van der Ryn,editing,N
+55,2008.0,Scott Millan,sound,W
+56,2008.0,Paul Massey,sound,N
+57,2008.0,Skip Lievsay,sound,N
+58,2008.0,Randy Thom,sound,N
+59,2008.0,Kevin O'Connell,sound,N
+60,2008.0,Art Direction,art_direction,W
+61,2008.0,Arthur Max,art_direction,N
+62,2008.0,Sarah Greenwood,art_direction,N
+63,2008.0,Dennis Gassner,art_direction,N
+64,2008.0,Jack Fisk,art_direction,N
+65,2008.0,Robert Elswit,cinematography,W
+66,2008.0,Roger Deakins,cinematography,N
+67,2008.0,Seamus McGarvey,cinematography,N
+68,2008.0,Janusz Kamiński,cinematography,N
+69,2008.0,Roger Deakins,cinematography,N
+70,2008.0,Alexandra Byrne,costume,W
+71,2008.0,Albert Wolsky,costume,N
+72,2008.0,Jacqueline Durran,costume,N
+73,2008.0,Marit Allen,costume,N
+74,2008.0,Colleen Atwood,costume,N
+75,2008.0,Christopher Rouse,editing,W
+76,2008.0,Juliette Welfling,editing,N
+77,2008.0,Jay Cassidy,editing,N
+78,2008.0,Roderick Jaynes,editing,N
+79,2008.0,Dylan Tichenor,editing,N
+80,2008.0,Bill Westenhofer,effects,W
+81,2008.0,John Knoll,effects,N
+82,2008.0,Scott Farrar,effects,N
+0,2009.0,Christian Colson,picture,W
+1,2009.0,Kathleen Kennedy,picture,N
+2,2009.0,Brian Grazer,picture,N
+3,2009.0,Dan Jinks,picture,N
+4,2009.0,Anthony Minghella,picture,N
+5,2009.0,Danny Boyle,director,W
+6,2009.0,David Fincher,director,N
+7,2009.0,Ron Howard,director,N
+8,2009.0,Gus Van Sant,director,N
+9,2009.0,Stephen Daldry,director,N
+10,2009.0,Sean Penn,actor,W
+11,2009.0,Richard Jenkins,actor,N
+12,2009.0,Frank Langella,actor,N
+13,2009.0,Brad Pitt,actor,N
+14,2009.0,Mickey Rourke,actor,N
+15,2009.0,Kate Winslet,actress,W
+16,2009.0,Anne Hathaway,actress,N
+17,2009.0,Angelina Jolie,actress,N
+18,2009.0,Melissa Leo,actress,N
+19,2009.0,Meryl Streep,actress,N
+20,2009.0,Heath Ledger,s_actor,W
+21,2009.0,Josh Brolin,s_actor,N
+22,2009.0,Robert Downey Jr.,s_actor,N
+23,2009.0,Philip Seymour Hoffman,s_actor,N
+24,2009.0,Michael Shannon,s_actor,N
+25,2009.0,Penélope Cruz,s_actress,W
+26,2009.0,Amy Adams,s_actress,N
+27,2009.0,Viola Davis,s_actress,N
+28,2009.0,Taraji P. Henson,s_actress,N
+29,2009.0,Marisa Tomei,s_actress,N
+30,2009.0,Dustin Lance Black,screenplay,W
+31,2009.0,Courtney Hunt,screenplay,N
+32,2009.0,Mike Leigh,screenplay,N
+33,2009.0,Martin McDonagh,screenplay,N
+34,2009.0,Andrew Stanton,screenplay,N
+35,2009.0,Simon Beaufoy,screenplay,W
+36,2009.0,Eric Roth,screenplay,N
+37,2009.0,John Patrick Shanley,screenplay,N
+38,2009.0,Peter Morgan,screenplay,N
+39,2009.0,David Hare,screenplay,N
+40,2009.0,A. R. Rahman,music,W
+41,2009.0,Alexandre Desplat,music,N
+42,2009.0,James Newton Howard,music,N
+43,2009.0,Danny Elfman,music,N
+44,2009.0,Thomas Newman,music,N
+45,2009.0,Jai Ho,song,W
+46,2009.0,Down to Earth,song,N
+47,2009.0,O Saya,song,N
+48,2009.0,Richard King,editing,W
+49,2009.0,Frank Eulner,editing,N
+50,2009.0,Glenn Freemantle,editing,N
+51,2009.0,Ben Burtt,editing,N
+52,2009.0,Wylie Stateman,editing,N
+53,2009.0,Resul Pookutty,sound,W
+54,2009.0,David Parker,sound,N
+55,2009.0,Lora Hirschberg,sound,N
+56,2009.0,Tom Myers,sound,N
+57,2009.0,Chris Jenkins,sound,N
+58,2009.0,Donald Graham Burt,art_direction,W
+59,2009.0,James J. Murakami,art_direction,N
+60,2009.0,Nathan Crowley,art_direction,N
+61,2009.0,Michael Carlin,art_direction,N
+62,2009.0,Debra Schutt,art_direction,N
+63,2009.0,Anthony Dod Mantle,cinematography,W
+64,2009.0,Tom Stern,cinematography,N
+65,2009.0,Claudio Miranda,cinematography,N
+66,2009.0,Wally Pfister,cinematography,N
+67,2009.0,Chris Menges,cinematography,N
+68,2009.0,Michael O'Connor,costume,W
+69,2009.0,Catherine Martin,costume,N
+70,2009.0,Jacqueline West,costume,N
+0,2010.0,Kathryn Bigelow,picture,W
+1,2010.0,James Cameron,picture,N
+2,2010.0,Andrew A. Kosove,picture,N
+3,2010.0,Peter Jackson,picture,N
+4,2010.0,Finola Dwyer,picture,N
+5,2010.0,Lawrence Bender,picture,N
+6,2010.0,Lee Daniels,picture,N
+7,2010.0,Joel Coen and Ethan Coen,picture,N
+8,2010.0,Jonas Rivera,picture,N
+9,2010.0,Daniel Dubiecki,picture,N
+10,2010.0,Kathryn Bigelow,director,W
+11,2010.0,James Cameron,director,N
+12,2010.0,Quentin Tarantino,director,N
+13,2010.0,Lee Daniels,director,N
+14,2010.0,Jason Reitman,director,N
+15,2010.0,Jeff Bridges,actor,W
+16,2010.0,George Clooney,actor,N
+17,2010.0,Colin Firth,actor,N
+18,2010.0,Morgan Freeman,actor,N
+19,2010.0,Jeremy Renner,actor,N
+20,2010.0,Sandra Bullock,actress,W
+21,2010.0,Helen Mirren,actress,N
+22,2010.0,Carey Mulligan,actress,N
+23,2010.0,Gabourey Sidibe,actress,N
+24,2010.0,Meryl Streep,actress,N
+25,2010.0,Christoph Waltz,s_actor,W
+26,2010.0,Matt Damon,s_actor,N
+27,2010.0,Woody Harrelson,s_actor,N
+28,2010.0,Christopher Plummer,s_actor,N
+29,2010.0,Stanley Tucci,s_actor,N
+30,2010.0,Mo'Nique,s_actress,W
+31,2010.0,Penélope Cruz,s_actress,N
+32,2010.0,Vera Farmiga,s_actress,N
+33,2010.0,Maggie Gyllenhaal,s_actress,N
+34,2010.0,Anna Kendrick,s_actress,N
+35,2010.0,Mark Boal,screenplay,W
+36,2010.0,Quentin Tarantino,screenplay,N
+37,2010.0,Alessandro Camon,screenplay,N
+38,2010.0,Joel Coen and Ethan Coen,screenplay,N
+39,2010.0,Bob Peterson,screenplay,N
+40,2010.0,Geoffrey Fletcher,screenplay,W
+41,2010.0,Neill Blomkamp,screenplay,N
+42,2010.0,Nick Hornby,screenplay,N
+43,2010.0,Jesse Armstrong,screenplay,N
+44,2010.0,Sheldon Turner,screenplay,N
+45,2010.0,Michael Giacchino,music,W
+46,2010.0,James Horner,music,N
+47,2010.0,Alexandre Desplat,music,N
+48,2010.0,Marco Beltrami,music,N
+49,2010.0,Hans Zimmer,music,N
+50,2010.0,The Weary Kind,song,W
+51,2010.0,Almost There,song,N
+52,2010.0,Down in New Orleans,song,N
+0,2011.0,Iain Canning,picture,W
+1,2011.0,Christian Colson,picture,N
+2,2011.0,Mike Medavoy,picture,N
+3,2011.0,David Hoberman,picture,N
+4,2011.0,Emma Thomas,picture,N
+5,2011.0,Gary Gilbert,picture,N
+6,2011.0,Scott Rudin,picture,N
+7,2011.0,Darla K. Anderson,picture,N
+8,2011.0,Scott Rudin,picture,N
+9,2011.0,Anne Rosellini,picture,N
+10,2011.0,Tom Hooper,director,W
+11,2011.0,Darren Aronofsky,director,N
+12,2011.0,David O. Russell,director,N
+13,2011.0,David Fincher,director,N
+14,2011.0,Joel Coen and Ethan Coen,director,N
+15,2011.0,Colin Firth,actor,W
+16,2011.0,Javier Bardem,actor,N
+17,2011.0,Jeff Bridges,actor,N
+18,2011.0,Jesse Eisenberg,actor,N
+19,2011.0,James Franco,actor,N
+20,2011.0,Natalie Portman,actress,W
+21,2011.0,Annette Bening,actress,N
+22,2011.0,Nicole Kidman,actress,N
+23,2011.0,Jennifer Lawrence,actress,N
+24,2011.0,Michelle Williams,actress,N
+25,2011.0,Christian Bale,s_actor,W
+26,2011.0,John Hawkes,s_actor,N
+27,2011.0,Jeremy Renner,s_actor,N
+28,2011.0,Mark Ruffalo,s_actor,N
+29,2011.0,Geoffrey Rush,s_actor,N
+30,2011.0,Melissa Leo,s_actress,W
+31,2011.0,Amy Adams,s_actress,N
+32,2011.0,Helena Bonham Carter,s_actress,N
+33,2011.0,Hailee Steinfeld,s_actress,N
+34,2011.0,Jacki Weaver,s_actress,N
+35,2011.0,David Seidler,screenplay,W
+36,2011.0,Mike Leigh,screenplay,N
+37,2011.0,Scott Silver,screenplay,N
+38,2011.0,Christopher Nolan,screenplay,N
+39,2011.0,Lisa Cholodenko,screenplay,N
+40,2011.0,Aaron Sorkin,screenplay,W
+41,2011.0,Danny Boyle,screenplay,N
+42,2011.0,Michael Arndt,screenplay,N
+43,2011.0,Joel Coen,screenplay,N
+44,2011.0,Debra Granik,screenplay,N
+45,2011.0,Trent Reznor,music,W
+46,2011.0,A. R. Rahman,music,N
+47,2011.0,John Powell,music,N
+48,2011.0,Hans Zimmer,music,N
+49,2011.0,Alexandre Desplat,music,N
+50,2011.0,We Belong Together,song,W
+51,2011.0,Tom Douglas,song,N
+52,2011.0,If I Rise,song,N
+53,2011.0,I See the Light,song,N
+54,2011.0,Richard King,editing,W
+55,2011.0,Tom Myers,editing,N
+56,2011.0,Gwendolyn Yates Whittle,editing,N
+57,2011.0,Skip Lievsay,editing,N
+58,2011.0,Mark Stoeckinger,editing,N
+59,2011.0,Lora Hirschberg,sound,W
+60,2011.0,Paul Hamblin,sound,N
+61,2011.0,Jeffrey J. Haboush,sound,N
+62,2011.0,Ren Klyce,sound,N
+63,2011.0,Skip Lievsay,sound,N
+64,2011.0,Art Direction,art_direction,W
+65,2011.0,Stuart Craig,art_direction,N
+66,2011.0,Guy Hendrix Dyas,art_direction,N
+67,2011.0,Eve Stewart,art_direction,N
+68,2011.0,Jess Gonchor,art_direction,N
+69,2011.0,Wally Pfister,cinematography,W
+70,2011.0,Matthew Libatique,cinematography,N
+71,2011.0,Danny Cohen,cinematography,N
+72,2011.0,Jeff Cronenweth,cinematography,N
+73,2011.0,Roger Deakins,cinematography,N
+74,2011.0,Colleen Atwood,costume,W
+75,2011.0,Antonella Cannarozzi,costume,N
+76,2011.0,Jenny Beavan,costume,N
+77,2011.0,Sandy Powell,costume,N
+78,2011.0,Mary Zophres,costume,N
+79,2011.0,Angus Wall,editing,W
+80,2011.0,Jon Harris,editing,N
+81,2011.0,Andrew Weisblum,editing,N
+82,2011.0,Pamela Martin,editing,N
+83,2011.0,Tariq Anwar,editing,N
+84,2011.0,Paul Franklin,effects,W
+85,2011.0,Ken Ralston,effects,N
+86,2011.0,Tim Burke,effects,N
+87,2011.0,Bryan Grill,effects,N
+88,2011.0,Janek Sirrs,effects,N
+0,2012.0,Thomas Langmann,picture,W
+1,2012.0,Jim Burke,picture,N
+2,2012.0,Scott Rudin,picture,N
+3,2012.0,Brunson Green,picture,N
+4,2012.0,Graham King,picture,N
+5,2012.0,Letty Aronson,picture,N
+6,2012.0,Michael De Luca,picture,N
+7,2012.0,Dede Gardner,picture,N
+8,2012.0,Steven Spielberg,picture,N
+9,2012.0,Michel Hazanavicius,director,W
+10,2012.0,Alexander Payne,director,N
+11,2012.0,Martin Scorsese,director,N
+12,2012.0,Woody Allen,director,N
+13,2012.0,Terrence Malick,director,N
+14,2012.0,Jean Dujardin,actor,W
+15,2012.0,Demián Bichir,actor,N
+16,2012.0,George Clooney,actor,N
+17,2012.0,Gary Oldman,actor,N
+18,2012.0,Brad Pitt,actor,N
+19,2012.0,Meryl Streep,actress,W
+20,2012.0,Glenn Close,actress,N
+21,2012.0,Viola Davis,actress,N
+22,2012.0,Rooney Mara,actress,N
+23,2012.0,Michelle Williams,actress,N
+24,2012.0,Christopher Plummer,s_actor,W
+25,2012.0,Kenneth Branagh,s_actor,N
+26,2012.0,Jonah Hill,s_actor,N
+27,2012.0,Nick Nolte,s_actor,N
+28,2012.0,Max von Sydow,s_actor,N
+29,2012.0,Octavia Spencer,s_actress,W
+30,2012.0,Bérénice Bejo,s_actress,N
+31,2012.0,Jessica Chastain,s_actress,N
+32,2012.0,Melissa McCarthy,s_actress,N
+33,2012.0,Janet McTeer,s_actress,N
+34,2012.0,Woody Allen,screenplay,W
+35,2012.0,Michel Hazanavicius,screenplay,N
+36,2012.0,Kristen Wiig,screenplay,N
+37,2012.0,J. C. Chandor,screenplay,N
+38,2012.0,Asghar Farhadi,screenplay,N
+39,2012.0,Alexander Payne,screenplay,W
+40,2012.0,John Logan,screenplay,N
+41,2012.0,George Clooney,screenplay,N
+42,2012.0,Steven Zaillian,screenplay,N
+43,2012.0,Bridget O'Connor,screenplay,N
+44,2012.0,Ludovic Bource,music,W
+45,2012.0,John Williams,music,N
+46,2012.0,Howard Shore,music,N
+47,2012.0,Alberto Iglesias,music,N
+48,2012.0,John Williams,music,N
+49,2012.0,Man or Muppet,song,W
+50,2012.0,Sérgio Mendes,song,N
+51,2012.0,Philip Stockton,editing,W
+52,2012.0,Lon Bender,editing,N
+53,2012.0,Ren Klyce,editing,N
+54,2012.0,Ethan Van der Ryn,editing,N
+55,2012.0,Richard Hymns,editing,N
+56,2012.0,Tom Fleischman,sound,W
+57,2012.0,David Parker,sound,N
+58,2012.0,Deb Adair,sound,N
+59,2012.0,Greg P. Russell,sound,N
+60,2012.0,Gary Rydstrom,sound,N
+61,2012.0,Art Direction,art_direction,W
+62,2012.0,Robert Gould,art_direction,N
+63,2012.0,Stuart Craig,art_direction,N
+64,2012.0,Anne Seibel,art_direction,N
+65,2012.0,Rick Carter,art_direction,N
+66,2012.0,Robert Richardson,cinematography,W
+67,2012.0,Guillaume Schiffman,cinematography,N
+68,2012.0,Jeff Cronenweth,cinematography,N
+69,2012.0,Emmanuel Lubezki,cinematography,N
+70,2012.0,Janusz Kamiński,cinematography,N
+71,2012.0,Mark Bridges,costume,W
+72,2012.0,Lisy Christl,costume,N
+73,2012.0,Sandy Powell,costume,N
+74,2012.0,Michael O'Connor,costume,N
+75,2012.0,Arianne Phillips,costume,N
+76,2012.0,Angus Wall,editing,W
+77,2012.0,Anne-Sophie Bion,editing,N
+78,2012.0,Kevin Tent,editing,N
+79,2012.0,Thelma Schoonmaker,editing,N
+80,2012.0,Christopher Tellefsen,editing,N
+81,2012.0,Rob Legato,effects,W
+82,2012.0,Tim Burke,effects,N
+83,2012.0,Erik Nash,effects,N
+84,2012.0,Joe Letteri,effects,N
+85,2012.0,Scott Farrar,effects,N
+0,2013.0,Grant Heslov,picture,W
+1,2013.0,Margaret Ménégoz,picture,N
+0,2014.0,Brad Pitt,picture,W
+1,2014.0,Charles Roven,picture,N
+2,2014.0,Scott Rudin,picture,N
+3,2014.0,Robbie Brenner,picture,N
+4,2014.0,Alfonso Cuarón,picture,N
+5,2014.0,Megan Ellison,picture,N
+6,2014.0,Albert Berger,picture,N
+7,2014.0,Gabrielle Tana,picture,N
+8,2014.0,Martin Scorsese,picture,N
+9,2014.0,Alfonso Cuarón,director,W
+10,2014.0,Steve McQueen,director,N
+11,2014.0,David O. Russell,director,N
+12,2014.0,Alexander Payne,director,N
+13,2014.0,Martin Scorsese,director,N
+14,2014.0,Matthew McConaughey,actor,W
+15,2014.0,Christian Bale,actor,N
+16,2014.0,Bruce Dern,actor,N
+17,2014.0,Leonardo DiCaprio,actor,N
+18,2014.0,Chiwetel Ejiofor,actor,N
+19,2014.0,Cate Blanchett,actress,W
+20,2014.0,Amy Adams,actress,N
+21,2014.0,Sandra Bullock,actress,N
+22,2014.0,Judi Dench,actress,N
+23,2014.0,Meryl Streep,actress,N
+24,2014.0,Jared Leto,s_actor,W
+25,2014.0,Barkhad Abdi,s_actor,N
+26,2014.0,Bradley Cooper,s_actor,N
+27,2014.0,Michael Fassbender,s_actor,N
+28,2014.0,Jonah Hill,s_actor,N
+29,2014.0,Lupita Nyong'o,s_actress,W
+30,2014.0,Sally Hawkins,s_actress,N
+31,2014.0,Jennifer Lawrence,s_actress,N
+32,2014.0,Julia Roberts,s_actress,N
+33,2014.0,June Squibb,s_actress,N
+34,2014.0,Spike Jonze,screenplay,W
+35,2014.0,Eric Warren Singer,screenplay,N
+36,2014.0,Woody Allen,screenplay,N
+37,2014.0,Craig Borten,screenplay,N
+38,2014.0,Bob Nelson,screenplay,N
+39,2014.0,John Ridley,screenplay,W
+40,2014.0,Richard Linklater,screenplay,N
+41,2014.0,Billy Ray,screenplay,N
+42,2014.0,Steve Coogan,screenplay,N
+43,2014.0,Terence Winter,screenplay,N
+44,2014.0,Steven Price,music,W
+45,2014.0,John Williams,music,N
+46,2014.0,William Butler,music,N
+47,2014.0,Alexandre Desplat,music,N
+48,2014.0,Thomas Newman,music,N
+49,2014.0,Let It Go,song,W
+50,2014.0,Happy,song,N
+51,2014.0,The Moon Song,song,N
+52,2014.0,Ordinary Love,song,N
+53,2014.0,Bruce Broughton,song,N
+54,2014.0,Glenn Freemantle,editing,W
+55,2014.0,Steve Boeddeker,editing,N
+56,2014.0,Oliver Tarney,editing,N
+57,2014.0,Brent Burge,editing,N
+58,2014.0,Wylie Stateman,editing,N
+59,2014.0,Skip Lievsay,sound,W
+60,2014.0,Chris Burdon,sound,N
+61,2014.0,Christopher Boyes,sound,N
+62,2014.0,Skip Lievsay,sound,N
+63,2014.0,Andy Koyama,sound,N
+64,2014.0,Emmanuel Lubezki,cinematography,W
+65,2014.0,Philippe Le Sourd,cinematography,N
+66,2014.0,Bruno Delbonnel,cinematography,N
+67,2014.0,Phedon Papamichael,cinematography,N
+68,2014.0,Roger Deakins,cinematography,N
+69,2014.0,Catherine Martin,costume,W
+70,2014.0,Patricia Norris,costume,N
+71,2014.0,Michael Wilkinson,costume,N
+72,2014.0,William Chang Suk Ping,costume,N
+73,2014.0,Michael O'Connor,costume,N
+74,2014.0,Alfonso Cuarón,editing,W
+75,2014.0,Joe Walker,editing,N
+76,2014.0,Jay Cassidy,editing,N
+77,2014.0,Christopher Rouse,editing,N
+78,2014.0,John Mac McMurphy,editing,N
+79,2014.0,Tim Webber,effects,W
+80,2014.0,Joe Letteri,effects,N
+81,2014.0,Christopher Townsend,effects,N
+82,2014.0,Tim Alexander,effects,N
+83,2014.0,Roger Guyett,effects,N
+0,2015.0,Alejandro G. Iñárritu,picture,W
+1,2015.0,Clint Eastwood,picture,N
+2,2015.0,Richard Linklater,picture,N
+3,2015.0,Wes Anderson,picture,N
+4,2015.0,Nora Grossman,picture,N
+5,2015.0,Christian Colson,picture,N
+6,2015.0,Tim Bevan,picture,N
+7,2015.0,Jason Blum,picture,N
+8,2015.0,Alejandro G. Iñárritu,director,W
+9,2015.0,Richard Linklater,director,N
+10,2015.0,Bennett Miller,director,N
+11,2015.0,Wes Anderson,director,N
+12,2015.0,Morten Tyldum,director,N
+13,2015.0,Eddie Redmayne,actor,W
+14,2015.0,Steve Carell,actor,N
+15,2015.0,Bradley Cooper,actor,N
+16,2015.0,Benedict Cumberbatch,actor,N
+17,2015.0,Michael Keaton,actor,N
+18,2015.0,Julianne Moore,actress,W
+19,2015.0,Marion Cotillard,actress,N
+20,2015.0,Felicity Jones,actress,N
+21,2015.0,Rosamund Pike,actress,N
+22,2015.0,Reese Witherspoon,actress,N
+23,2015.0,J. K. Simmons,s_actor,W
+24,2015.0,Robert Duvall,s_actor,N
+25,2015.0,Ethan Hawke,s_actor,N
+26,2015.0,Edward Norton,s_actor,N
+27,2015.0,Mark Ruffalo,s_actor,N
+28,2015.0,Patricia Arquette,s_actress,W
+29,2015.0,Laura Dern,s_actress,N
+30,2015.0,Keira Knightley,s_actress,N
+31,2015.0,Emma Stone,s_actress,N
+32,2015.0,Meryl Streep,s_actress,N
+33,2015.0,Alejandro G. Iñárritu,screenplay,W
+34,2015.0,Richard Linklater,screenplay,N
+35,2015.0,E. Max Frye,screenplay,N
+36,2015.0,Wes Anderson,screenplay,N
+37,2015.0,Dan Gilroy,screenplay,N
+38,2015.0,Graham Moore,screenplay,W
+39,2015.0,Jason Hall,screenplay,N
+40,2015.0,Paul Thomas Anderson,screenplay,N
+41,2015.0,Anthony McCarten,screenplay,N
+42,2015.0,Damien Chazelle,screenplay,N
+43,2015.0,Alexandre Desplat,music,W
+44,2015.0,Alexandre Desplat,music,N
+45,2015.0,Hans Zimmer,music,N
+46,2015.0,Gary Yershon,music,N
+47,2015.0,Jóhann Jóhannsson,music,N
+48,2015.0,Glory,song,W
+49,2015.0,Everything Is Awesome,song,N
+50,2015.0,Grateful,song,N
+51,2015.0,I'm Not Gonna Miss You,song,N
+52,2015.0,Lost Stars,song,N
+53,2015.0,Alan Robert Murray,editing,W
+54,2015.0,Martin Hernández,editing,N
+55,2015.0,Brent Burge,editing,N
+56,2015.0,Richard King,editing,N
+57,2015.0,Becky Sullivan,editing,N
+58,2015.0,Craig Mann,sound,W
+59,2015.0,John T. Reitz,sound,N
+60,2015.0,Jon Taylor,sound,N
+61,2015.0,Gary A. Rizzo,sound,N
+62,2015.0,Jon Taylor,sound,N
+63,2015.0,Emmanuel Lubezki,cinematography,W
+64,2015.0,Robert Yeoman,cinematography,N
+65,2015.0,Łukasz Żal,cinematography,N
+66,2015.0,Dick Pope,cinematography,N
+67,2015.0,Roger Deakins,cinematography,N
+68,2015.0,Milena Canonero,costume,W
+69,2015.0,Mark Bridges,costume,N
+70,2015.0,Colleen Atwood,costume,N
+71,2015.0,Anna B. Sheppard,costume,N
+72,2015.0,Jacqueline Durran,costume,N
+73,2015.0,Tom Cross,editing,W
+74,2015.0,Joel Cox,editing,N
+75,2015.0,Sandra Adair,editing,N
+76,2015.0,Barney Pilling,editing,N
+77,2015.0,William Goldenberg,editing,N
+78,2015.0,Paul Franklin,effects,W
+79,2015.0,Dan DeLeeuw,effects,N
+80,2015.0,Joe Letteri,effects,N
+81,2015.0,Stephane Ceretti,effects,N
+82,2015.0,Richard Stammers,effects,N
+0,2016.0,Michael Sugar,picture,W
+1,2016.0,Brad Pitt,picture,N
+2,2016.0,Steven Spielberg,picture,N
+3,2016.0,Finola Dwyer,picture,N
+4,2016.0,Doug Mitchell,picture,N
+5,2016.0,Simon Kinberg,picture,N
+6,2016.0,Arnon Milchan,picture,N
+7,2016.0,Ed Guiney,picture,N
+8,2016.0,Alejandro G. Iñárritu,director,W
+9,2016.0,Adam McKay,director,N
+10,2016.0,George Miller,director,N
+11,2016.0,Lenny Abrahamson,director,N
+12,2016.0,Tom McCarthy,director,N
+13,2016.0,Leonardo DiCaprio,actor,W
+14,2016.0,Bryan Cranston,actor,N
+15,2016.0,Matt Damon,actor,N
+16,2016.0,Michael Fassbender,actor,N
+17,2016.0,Eddie Redmayne,actor,N
+18,2016.0,Brie Larson,actress,W
+19,2016.0,Cate Blanchett,actress,N
+20,2016.0,Jennifer Lawrence,actress,N
+21,2016.0,Charlotte Rampling,actress,N
+22,2016.0,Saoirse Ronan,actress,N
+23,2016.0,Mark Rylance,s_actor,W
+24,2016.0,Christian Bale,s_actor,N
+25,2016.0,Tom Hardy,s_actor,N
+26,2016.0,Mark Ruffalo,s_actor,N
+27,2016.0,Sylvester Stallone,s_actor,N
+28,2016.0,Alicia Vikander,s_actress,W
+29,2016.0,Jennifer Jason Leigh,s_actress,N
+30,2016.0,Rooney Mara,s_actress,N
+31,2016.0,Rachel McAdams,s_actress,N
+32,2016.0,Kate Winslet,s_actress,N
+33,2016.0,Tom McCarthy,screenplay,W
+34,2016.0,Matt Charman,screenplay,N
+35,2016.0,Alex Garland,screenplay,N
+36,2016.0,Pete Docter,screenplay,N
+37,2016.0,Jonathan Herman,screenplay,N
+38,2016.0,Adam McKay,screenplay,W
+39,2016.0,Nick Hornby,screenplay,N
+40,2016.0,Phyllis Nagy,screenplay,N
+41,2016.0,Drew Goddard,screenplay,N
+42,2016.0,Emma Donoghue,screenplay,N
+43,2016.0,Ennio Morricone,music,W
+44,2016.0,Thomas Newman,music,N
+45,2016.0,Carter Burwell,music,N
+46,2016.0,Jóhann Jóhannsson,music,N
+47,2016.0,John Williams,music,N
+48,2016.0,Writing's on the Wall,song,W
+49,2016.0,Earned It,song,N
+50,2016.0,Manta Ray,song,N
+51,2016.0,Simple Song #3,song,N
+52,2016.0,Til It Happens to You,song,N
+53,2016.0,Mark A. Mangini,editing,W
+54,2016.0,Oliver Tarney,editing,N
+55,2016.0,Martin Hernández,editing,N
+56,2016.0,Alan Robert Murray,editing,N
+57,2016.0,Matthew Wood,editing,N
+58,2016.0,Chris Jenkins,sound,W
+59,2016.0,Andy Nelson,sound,N
+60,2016.0,Paul Massey,sound,N
+61,2016.0,Jon Taylor,sound,N
+62,2016.0,Andy Nelson,sound,N
+63,2016.0,Emmanuel Lubezki,cinematography,W
+64,2016.0,Edward Lachman,cinematography,N
+65,2016.0,Robert Richardson,cinematography,N
+66,2016.0,John Seale,cinematography,N
+67,2016.0,Roger Deakins,cinematography,N
+68,2016.0,Jenny Beavan,costume,W
+69,2016.0,Sandy Powell,costume,N
+70,2016.0,Sandy Powell,costume,N
+71,2016.0,Paco Delgado,costume,N
+72,2016.0,Jacqueline West,costume,N
+73,2016.0,Margaret Sixel,editing,W
+74,2016.0,Hank Corwin,editing,N
+75,2016.0,Stephen Mirrione,editing,N
+76,2016.0,Tom McArdle,editing,N
+77,2016.0,Maryann Brandon,editing,N
+78,2016.0,Mark Ardington,effects,W
+79,2016.0,Andrew Jackson,effects,N
+80,2016.0,Anders Langlands,effects,N
+81,2016.0,Rich McBride,effects,N
+82,2016.0,Chris Corbould,effects,N
+0,2017.0,Adele Romanski,picture,W
+1,2017.0,Shawn Levy,picture,N
+2,2017.0,Scott Rudin,picture,N
+3,2017.0,Bill Mechanic,picture,N
+4,2017.0,Carla Hacken,picture,N
+5,2017.0,Donna Gigliotti,picture,N
+6,2017.0,Fred Berger,picture,N
+7,2017.0,Emile Sherman,picture,N
+8,2017.0,Matt Damon,picture,N
+9,2017.0,Damien Chazelle,director,W
+10,2017.0,Denis Villeneuve,director,N
+11,2017.0,Mel Gibson,director,N
+12,2017.0,Kenneth Lonergan,director,N
+13,2017.0,Barry Jenkins,director,N
+14,2017.0,Casey Affleck,actor,W
+15,2017.0,Andrew Garfield,actor,N
+16,2017.0,Ryan Gosling,actor,N
+17,2017.0,Viggo Mortensen,actor,N
+18,2017.0,Denzel Washington,actor,N
+19,2017.0,Emma Stone,actress,W
+20,2017.0,Isabelle Huppert,actress,N
+21,2017.0,Ruth Negga,actress,N
+22,2017.0,Natalie Portman,actress,N
+23,2017.0,Meryl Streep,actress,N
+24,2017.0,Mahershala Ali,s_actor,W
+25,2017.0,Jeff Bridges,s_actor,N
+26,2017.0,Lucas Hedges,s_actor,N
+27,2017.0,Dev Patel,s_actor,N
+28,2017.0,Michael Shannon,s_actor,N
+29,2017.0,Viola Davis,s_actress,W
+30,2017.0,Naomie Harris,s_actress,N
+31,2017.0,Nicole Kidman,s_actress,N
+32,2017.0,Octavia Spencer,s_actress,N
+33,2017.0,Michelle Williams,s_actress,N
+34,2017.0,Kenneth Lonergan,screenplay,W
+35,2017.0,Mike Mills,screenplay,N
+36,2017.0,Taylor Sheridan,screenplay,N
+37,2017.0,Damien Chazelle,screenplay,N
+38,2017.0,Yorgos Lanthimos,screenplay,N
+39,2017.0,Barry Jenkins,screenplay,W
+40,2017.0,Eric Heisserer,screenplay,N
+41,2017.0,August Wilson,screenplay,N
+42,2017.0,Allison Schroeder,screenplay,N
+43,2017.0,Luke Davies,screenplay,N
+44,2017.0,Justin Hurwitz,music,W
+45,2017.0,Mica Levi,music,N
+46,2017.0,Dustin O'Halloran,music,N
+47,2017.0,Nicholas Britell,music,N
+48,2017.0,Thomas Newman,music,N
+49,2017.0,City of Stars,song,W
+50,2017.0,Audition (The Fools Who Dream),song,N
+51,2017.0,Can't Stop the Feeling!,song,N
+52,2017.0,The Empty Chair,song,N
+53,2017.0,How Far I'll Go,song,N
+54,2017.0,Sylvain Bellemare,editing,W
+55,2017.0,Wylie Stateman,editing,N
+56,2017.0,Robert Mackenzie,editing,N
+57,2017.0,Ai-Ling Lee,editing,N
+58,2017.0,Alan Robert Murray,editing,N
+59,2017.0,Kevin O'Connell,sound,W
+60,2017.0,Greg P. Russell,sound,N
+61,2017.0,Bernard Gariépy Strobl,sound,N
+62,2017.0,Andy Nelson,sound,N
+63,2017.0,David Parker,sound,N
+64,2017.0,Linus Sandgren,cinematography,W
+65,2017.0,Bradford Young,cinematography,N
+66,2017.0,Greig Fraser,cinematography,N
+67,2017.0,James Laxton,cinematography,N
+68,2017.0,Rodrigo Prieto,cinematography,N
+69,2017.0,Colleen Atwood,costume,W
+70,2017.0,Joanna Johnston,costume,N
+71,2017.0,Consolata Boyle,costume,N
+72,2017.0,Madeline Fontaine,costume,N
+73,2017.0,Mary Zophres,costume,N
+74,2017.0,John Gilbert,editing,W
+75,2017.0,Joe Walker,editing,N
+76,2017.0,Jake Roberts,editing,N
+77,2017.0,Tom Cross,editing,N
+78,2017.0,Nat Sanders,editing,N
+79,2017.0,Robert Legato,effects,W
+80,2017.0,Craig Hammack,effects,N
+81,2017.0,Stephane Ceretti,effects,N
+82,2017.0,Steve Emerson,effects,N
+83,2017.0,John Knoll,effects,N
+0,2018.0,Guillermo del Toro,picture,W
+1,2018.0,Peter Spears,picture,N
+2,2018.0,Tim Bevan,picture,N
+3,2018.0,Emma Thomas,picture,N
+4,2018.0,Sean McKittrick,picture,N
+5,2018.0,Scott Rudin,picture,N
+6,2018.0,JoAnne Sellar,picture,N
+7,2018.0,Amy Pascal,picture,N
+8,2018.0,Graham Broadbent,picture,N
+9,2018.0,Guillermo del Toro,director,W
+10,2018.0,Christopher Nolan,director,N
+11,2018.0,Jordan Peele,director,N
+12,2018.0,Greta Gerwig,director,N
+13,2018.0,Paul Thomas Anderson,director,N
+14,2018.0,Gary Oldman,actor,W
+15,2018.0,Timothée Chalamet,actor,N
+16,2018.0,Daniel Day-Lewis,actor,N
+17,2018.0,Daniel Kaluuya,actor,N
+18,2018.0,Denzel Washington,actor,N
+19,2018.0,Frances McDormand,actress,W
+20,2018.0,Sally Hawkins,actress,N
+21,2018.0,Margot Robbie,actress,N
+22,2018.0,Saoirse Ronan,actress,N
+23,2018.0,Meryl Streep,actress,N
+24,2018.0,Sam Rockwell,s_actor,W
+25,2018.0,Willem Dafoe,s_actor,N
+26,2018.0,Woody Harrelson,s_actor,N
+27,2018.0,Richard Jenkins,s_actor,N
+28,2018.0,Christopher Plummer,s_actor,N
+29,2018.0,Allison Janney,s_actress,W
+30,2018.0,Mary J. Blige,s_actress,N
+31,2018.0,Lesley Manville,s_actress,N
+32,2018.0,Laurie Metcalf,s_actress,N
+33,2018.0,Octavia Spencer,s_actress,N
+34,2018.0,Jordan Peele,screenplay,W
+35,2018.0,Emily V. Gordon,screenplay,N
+36,2018.0,Greta Gerwig,screenplay,N
+37,2018.0,Guillermo del Toro,screenplay,N
+38,2018.0,Martin McDonagh,screenplay,N
+39,2018.0,James Ivory,screenplay,W
+40,2018.0,Scott Neustadter,screenplay,N
+41,2018.0,Scott Frank,screenplay,N
+42,2018.0,Aaron Sorkin,screenplay,N
+43,2018.0,Virgil Williams,screenplay,N
+44,2018.0,Alexandre Desplat,music,W
+45,2018.0,Hans Zimmer,music,N
+46,2018.0,Jonny Greenwood,music,N
+47,2018.0,John Williams,music,N
+48,2018.0,Carter Burwell,music,N
+49,2018.0,Remember Me,song,W
+50,2018.0,Mighty River,song,N
+51,2018.0,Mystery of Love,song,N
+52,2018.0,Stand Up for Something,song,N
+53,2018.0,This Is Me,song,N
+54,2018.0,Richard King,editing,W
+55,2018.0,Julian Slater,editing,N
+56,2018.0,Mark Mangini,editing,N
+57,2018.0,Nathan Robitaille,editing,N
+58,2018.0,Matthew Wood,editing,N
+59,2018.0,Mark Weingarten,sound,W
+60,2018.0,Julian Slater,sound,N
+61,2018.0,Ron Bartlett,sound,N
+62,2018.0,Christian Cooke,sound,N
+63,2018.0,David Parker,sound,N
+64,2018.0,Roger Deakins,cinematography,W
+65,2018.0,Bruno Delbonnel,cinematography,N
+66,2018.0,Hoyte van Hoytema,cinematography,N
+67,2018.0,Rachel Morrison,cinematography,N
+68,2018.0,Dan Laustsen,cinematography,N
+69,2018.0,Mark Bridges,costume,W
+70,2018.0,Jacqueline Durran,costume,N
+71,2018.0,Jacqueline Durran,costume,N
+72,2018.0,Luis Sequeira,costume,N
+73,2018.0,Consolata Boyle,costume,N
+74,2018.0,Lee Smith,editing,W
+75,2018.0,Paul Machliss,editing,N
+76,2018.0,Tatiana S. Riegel,editing,N
+77,2018.0,Sidney Wolinsky,editing,N
+78,2018.0,Jon Gregory,editing,N
+79,2018.0,John Nelson,effects,W
+80,2018.0,Christopher Townsend,effects,N
+81,2018.0,Stephen Rosenbaum,effects,N
+82,2018.0,Ben Morris,effects,N
+83,2018.0,Joe Letteri,effects,N
