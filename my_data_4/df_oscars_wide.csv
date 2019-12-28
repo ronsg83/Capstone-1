@@ -1,0 +1,2552 @@
+,film,actor,actress,art_direction,cinematography,costume,director,editing,effects,music,picture,s_actor,s_actress,screenplay,song,sound,year
+0,gone with the wind,N,W,W,W,,W,W,N,N,W,O,WN,W,O,N,1939
+1,dark victory,O,N,O,O,,O,O,O,N,N,O,O,O,O,O,1939
+2,"goodbye, mr. chips",W,N,O,O,,N,N,O,O,N,O,O,N,O,N,1939
+3,love affair,O,N,N,O,,O,O,O,O,N,O,N,O,N,O,1939
+4,mr. smith goes to washington,N,O,N,O,,N,N,O,N,N,N,O,N,O,N,1939
+5,ninotchka,O,N,O,O,,O,O,O,O,N,O,O,N,O,O,1939
+6,of mice and men,O,O,O,N,,O,O,O,N,N,O,O,O,O,N,1939
+7,stagecoach,O,O,N,N,,N,N,O,W,N,W,O,O,O,O,1939
+8,the wizard of oz,O,O,N,N,,O,O,N,W,N,O,O,O,W,O,1939
+9,wuthering heights,N,O,N,W,,N,O,O,N,N,O,N,N,O,O,1939
+10,babes in arms,N,O,O,O,,O,O,O,N,O,O,O,O,O,O,1939
+11,juarez,O,O,O,N,,O,O,O,O,O,N,O,O,O,O,1939
+12,beau geste,O,O,N,O,,O,O,O,O,O,N,O,O,O,O,1939
+13,drums along the mohawk,O,O,O,N,,O,O,O,O,O,O,N,O,O,O,1939
+14,first love,O,O,N,N,,O,O,O,N,O,O,O,O,O,O,1939
+15,the great victor herbert,O,O,O,N,,O,O,O,N,O,O,O,O,O,N,1939
+16,the hunchback of notre dame,O,O,O,O,,O,O,O,N,O,O,O,O,O,N,1939
+17,intermezzo,O,O,O,N,,O,O,O,N,O,O,O,O,O,O,1939
+18,the private lives of elizabeth and essex,O,O,N,N,,O,O,N,N,O,O,O,O,O,N,1939
+19,she married a cop,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1939
+20,swanee river,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1939
+21,they shall have music,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1939
+22,way down south,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1939
+23,eternally yours,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1939
+24,golden boy,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1939
+25,gulliver's travels,O,O,O,O,,O,O,O,N,O,O,O,O,N,O,1939
+26,the man in the iron mask,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1939
+27,man of conquest,O,O,N,O,,O,O,O,N,O,O,O,O,O,N,1939
+28,nurse edith cavell,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1939
+29,the rains came,O,O,N,N,,O,N,W,N,O,O,O,O,O,N,1939
+30,second fiddle,O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1939
+31,when tomorrow comes,O,O,O,O,,O,O,O,O,O,O,O,O,O,W,1939
+32,balalaika,O,O,O,O,,O,O,O,O,O,O,O,O,O,N,1939
+33,captain fury,O,O,N,O,,O,O,O,O,O,O,O,O,O,O,1939
+34,gunga din,O,O,O,N,,O,O,O,O,O,O,O,O,O,O,1939
+35,lady of the tropics,O,O,O,N,,O,O,O,O,O,O,O,O,O,O,1939
+36,only angels have wings,O,O,O,N,,O,O,N,O,O,O,O,O,O,O,1939
+37,the four feathers,O,O,O,N,,O,O,O,O,O,O,O,O,O,O,1939
+38,the mikado,O,O,O,N,,O,O,O,O,O,O,O,O,O,O,1939
+39,topper takes a trip,O,O,O,O,,O,O,N,O,O,O,O,O,O,O,1939
+40,union pacific,O,O,O,O,,O,O,N,O,O,O,O,O,O,O,1939
+41,rebecca,N,N,N,W,,N,N,N,N,W,O,N,N,O,O,1940
+42,"all this, and heaven too",O,O,O,N,,O,O,O,O,N,O,N,O,O,O,1940
+43,foreign correspondent,O,O,N,N,,O,O,N,O,N,N,O,N,O,O,1940
+44,the grapes of wrath,N,O,O,O,,W,N,O,O,N,O,W,N,O,N,1940
+45,the great dictator,N,O,O,O,,O,O,O,N,N,N,O,N,O,O,1940
+46,kitty foyle,O,W,O,O,,N,O,O,O,N,O,O,N,O,N,1940
+47,the letter,O,N,O,N,,N,N,O,N,N,N,O,O,O,O,1940
+48,the long voyage home,O,O,O,N,,O,N,N,N,N,O,O,N,O,O,1940
+49,our town,O,N,N,O,,O,O,O,N,N,O,O,O,O,N,1940
+50,the philadelphia story,W,N,O,O,,N,O,O,O,N,O,N,W,O,O,1940
+51,abe lincoln in illinois,N,O,O,N,,O,O,O,O,O,O,O,O,O,O,1940
+52,the westerner,O,O,N,O,,O,O,O,O,O,W,O,O,O,O,1940
+53,they knew what they wanted,O,O,O,O,,O,O,O,O,O,N,O,O,O,O,1940
+54,primrose path,O,O,O,O,,O,O,O,O,O,O,N,O,O,O,1940
+55,the great mcginty,O,O,O,O,,O,O,O,O,O,O,O,W,O,O,1940
+56,angels over broadway,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1940
+57,dr. ehrlich's magic bullet,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1940
+58,pinocchio,O,O,O,O,,O,O,O,W,O,O,O,O,W,O,1940
+59,arizona,O,O,N,O,,O,O,O,N,O,O,O,O,O,O,1940
+60,dark command,O,O,N,O,,O,O,O,N,O,O,O,O,O,O,1940
+61,the fight for life,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1940
+62,the house of the seven gables,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1940
+63,the howards of virginia,O,O,O,O,,O,O,O,N,O,O,O,O,O,N,1940
+64,the mark of zorro,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1940
+65,my favorite wife,O,O,N,O,,O,O,O,N,O,O,O,O,O,O,1940
+66,north west mounted police,O,O,N,N,,O,W,O,N,O,O,O,O,O,N,1940
+67,one million b.c.,O,O,O,O,,O,O,N,N,O,O,O,O,O,O,1940
+68,the thief of bagdad,O,O,W,W,,O,O,W,N,O,O,O,O,O,O,1940
+69,waterloo bridge,O,O,O,N,,O,O,O,N,O,O,O,O,O,O,1940
+70,tin pan alley,O,O,O,O,,O,O,O,W,O,O,O,O,O,O,1940
+71,"arise, my love",O,O,N,N,,O,O,O,N,O,O,O,O,O,O,1940
+72,hit parade of 1941,O,O,O,O,,O,O,O,N,O,O,O,O,N,O,1940
+73,irene,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1940
+74,the sea hawk,O,O,N,O,,O,O,N,N,O,O,O,O,O,N,1940
+75,second chorus,O,O,O,O,,O,O,O,N,O,O,O,O,N,O,1940
+76,spring parade,O,O,O,N,,O,O,O,N,O,O,O,O,N,N,1940
+77,strike up the band,O,O,O,O,,O,O,O,N,O,O,O,O,N,W,1940
+78,down argentine way,O,O,N,N,,O,O,O,O,O,O,O,O,N,O,1940
+79,you'll find out,O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1940
+80,music in my heart,O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1940
+81,rhythm on the river,O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1940
+82,behind the news,O,O,O,O,,O,O,O,O,O,O,O,O,O,N,1940
+83,captain caution,O,O,O,O,,O,O,O,O,O,O,O,O,O,N,1940
+84,too many husbands,O,O,O,O,,O,O,O,O,O,O,O,O,O,N,1940
+85,pride and prejudice,O,O,W,O,,O,O,O,O,O,O,O,O,O,O,1940
+86,the boys from syracuse,O,O,N,O,,O,O,N,O,O,O,O,O,O,O,1940
+87,lillian russell,O,O,N,O,,O,O,O,O,O,O,O,O,O,O,1940
+88,"my son, my son!",O,O,N,O,,O,O,O,O,O,O,O,O,O,O,1940
+89,bitter sweet,O,O,N,N,,O,O,O,O,O,O,O,O,O,O,1940
+90,boom town,O,O,O,N,,O,O,N,O,O,O,O,O,O,O,1940
+91,the blue bird,O,O,O,N,,O,O,N,O,O,O,O,O,O,O,1940
+92,northwest passage,O,O,O,N,,O,O,O,O,O,O,O,O,O,O,1940
+93,dr. cyclops,O,O,O,O,,O,O,N,O,O,O,O,O,O,O,1940
+94,the invisible man returns,O,O,O,O,,O,O,N,O,O,O,O,O,O,O,1940
+95,swiss family robinson,O,O,O,O,,O,O,N,O,O,O,O,O,O,O,1940
+96,typhoon,O,O,O,O,,O,O,N,O,O,O,O,O,O,O,1940
+97,women in war,O,O,O,O,,O,O,N,O,O,O,O,O,O,O,1940
+98,how green was my valley,O,O,W,W,,W,N,O,N,,W,N,N,O,N,1941
+99,citizen kane,N,O,N,N,,N,N,O,N,,O,O,W,O,N,1941
+100,here comes mr. jordan,N,O,O,N,,N,O,O,O,,N,O,W,O,O,1941
+101,the little foxes,O,N,N,O,,N,N,O,N,,O,N,N,O,O,1941
+102,sergeant york,W,O,N,N,,N,W,O,N,,N,N,N,O,N,1941
+103,penny serenade,N,O,O,O,,O,O,O,O,,O,O,O,O,O,1941
+104,all that money can buy,N,O,O,O,,O,O,O,W,,O,O,O,O,O,1941
+105,suspicion,O,W,O,O,,O,O,O,N,,O,O,O,O,O,1941
+106,hold back the dawn,O,N,N,N,,O,O,O,N,,O,O,N,O,O,1941
+107,blossoms in the dust,O,N,W,N,,O,O,O,O,,O,O,O,O,O,1941
+108,ball of fire,O,N,O,O,,O,O,O,N,,O,O,O,O,N,1941
+109,the devil and miss jones,O,O,O,O,,O,O,O,O,,N,O,N,O,O,1941
+110,the maltese falcon,O,O,O,O,,O,O,O,O,,N,O,N,O,O,1941
+111,the great lie,O,O,O,O,,O,O,O,O,,O,W,O,O,O,1941
+112,"tall, dark and handsome",O,O,O,O,,O,O,O,O,,O,O,N,O,O,1941
+113,"tom, dick and harry",O,O,O,O,,O,O,O,O,,O,O,N,O,O,1941
+114,back street,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1941
+115,cheers for miss bishop,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1941
+116,dr. jekyll and mr. hyde,O,O,O,N,,O,N,O,N,,O,O,O,O,O,1941
+117,king of the zombies,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1941
+118,ladies in retirement,O,O,N,O,,O,O,O,N,,O,O,O,O,O,1941
+119,lydia,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1941
+120,mercy island,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1941
+121,so ends our night,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1941
+122,sundown,O,O,N,N,,O,O,O,N,,O,O,O,O,O,1941
+123,tanks a million,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1941
+124,that uncertain feeling,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1941
+125,this woman is mine,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1941
+126,dumbo,O,O,O,O,,O,O,O,W,,O,O,O,N,O,1941
+127,all-american co-ed,O,O,O,O,,O,O,O,N,,O,O,O,N,O,1941
+128,birth of the blues,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1941
+129,buck privates,O,O,O,O,,O,O,O,N,,O,O,O,N,O,1941
+130,the chocolate soldier,O,O,O,N,,O,O,O,N,,O,O,O,O,N,1941
+131,ice-capades,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1941
+132,the strawberry blonde,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1941
+133,sun valley serenade,O,O,O,N,,O,O,O,N,,O,O,O,N,O,1941
+134,sunny,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1941
+135,you'll never get rich,O,O,O,O,,O,O,O,N,,O,O,O,N,O,1941
+136,lady be good,O,O,O,O,,O,O,O,O,,O,O,O,W,O,1941
+137,ridin' on a rainbow,O,O,O,O,,O,O,O,O,,O,O,O,N,O,1941
+138,blues in the night,O,O,O,O,,O,O,O,O,,O,O,O,N,O,1941
+139,las vegas nights,O,O,O,O,,O,O,O,O,,O,O,O,N,O,1941
+140,that hamilton woman,O,O,N,N,,O,O,N,O,,O,O,O,O,W,1941
+141,appointment for love,O,O,O,O,,O,O,O,O,,O,O,O,O,N,1941
+142,the devil pays off,O,O,O,O,,O,O,O,O,,O,O,O,O,N,1941
+143,the men in her life,O,O,O,O,,O,O,O,O,,O,O,O,O,N,1941
+144,skylark,O,O,O,O,,O,O,O,O,,O,O,O,O,N,1941
+145,topper returns,O,O,O,O,,O,O,N,O,,O,O,O,O,N,1941
+146,the flame of new orleans,O,O,N,O,,O,O,O,O,,O,O,O,O,O,1941
+147,the son of monte cristo,O,O,N,O,,O,O,O,O,,O,O,O,O,O,1941
+148,when ladies meet,O,O,N,O,,O,O,O,O,,O,O,O,O,O,1941
+149,sis hopkins,O,O,N,O,,O,O,O,O,,O,O,O,O,O,1941
+150,blood and sand,O,O,N,W,,O,O,O,O,,O,O,O,O,O,1941
+151,louisiana purchase,O,O,N,N,,O,O,O,O,,O,O,O,O,O,1941
+152,aloma of the south seas,O,O,O,N,,O,O,N,O,,O,O,O,O,O,1941
+153,billy the kid,O,O,O,N,,O,O,O,O,,O,O,O,O,O,1941
+154,dive bomber,O,O,O,N,,O,O,N,O,,O,O,O,O,O,1941
+155,i wanted wings,O,O,O,O,,O,O,W,O,,O,O,O,O,O,1941
+156,flight command,O,O,O,O,,O,O,N,O,,O,O,O,O,O,1941
+157,the invisible woman,O,O,O,O,,O,O,N,O,,O,O,O,O,O,1941
+158,the sea wolf,O,O,O,O,,O,O,N,O,,O,O,O,O,O,1941
+159,a yank in the r.a.f.,O,O,O,O,,O,O,N,O,,O,O,O,O,O,1941
+160,mrs. miniver,N,W,O,W,,W,N,N,O,,N,WN,W,O,N,1942
+161,kings row,O,O,O,N,,N,O,O,O,,O,O,O,O,O,1942
+162,random harvest,N,O,N,O,,N,O,O,N,,O,N,N,O,O,1942
+163,wake island,O,O,O,O,,N,O,O,O,,N,O,N,O,O,1942
+164,yankee doodle dandy,W,O,O,O,,N,N,O,W,,N,O,O,O,W,1942
+165,the pride of the yankees,N,N,N,N,,O,W,N,N,,O,O,N,O,N,1942
+166,the pied piper,N,O,O,N,,O,O,O,O,,O,O,O,O,O,1942
+167,"now, voyager",O,N,O,O,,O,O,O,W,,O,N,O,O,O,1942
+168,woman of the year,O,N,O,O,,O,O,O,O,,O,O,W,O,O,1942
+169,my sister eileen,O,N,O,O,,O,O,O,O,,O,O,O,O,O,1942
+170,johnny eager,O,O,O,O,,O,O,O,O,,W,O,O,O,O,1942
+171,tortilla flat,O,O,O,O,,O,O,O,O,,N,O,O,O,O,1942
+172,the magnificent ambersons,O,O,N,N,,O,O,O,O,,O,N,O,O,O,1942
+173,one of our aircraft is missing,O,O,O,O,,O,O,N,O,,O,O,N,O,O,1942
+174,road to morocco,O,O,O,O,,O,O,O,O,,O,O,N,O,N,1942
+175,the war against mrs. hadley,O,O,O,O,,O,O,O,O,,O,O,N,O,O,1942
+176,49th parallel,O,O,O,O,,O,O,O,O,,O,O,N,O,O,1942
+177,the talk of the town,O,O,N,N,,O,N,O,N,,O,O,N,O,O,1942
+178,arabian nights,O,O,N,N,,O,O,O,N,,O,O,O,O,N,1942
+179,bambi,O,O,O,O,,O,O,O,N,,O,O,O,N,N,1942
+180,the black swan,O,O,O,W,,O,O,N,N,,O,O,O,O,O,1942
+181,the corsican brothers,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1942
+182,flying tigers,O,O,O,O,,O,O,N,N,,O,O,O,O,N,1942
+183,the gold rush,O,O,O,O,,O,O,O,N,,O,O,O,O,N,1942
+184,i married a witch,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1942
+185,joan of paris,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1942
+186,jungle book,O,O,N,N,,O,O,N,N,,O,O,O,O,O,1942
+187,klondike fury,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1942
+188,the shanghai gesture,O,O,N,O,,O,O,O,N,,O,O,O,O,O,1942
+189,silver queen,O,O,N,O,,O,O,O,N,,O,O,O,O,O,1942
+190,"take a letter, darling",O,O,N,N,,O,O,O,N,,O,O,O,O,O,1942
+191,to be or not to be,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1942
+192,flying with music,O,O,O,O,,O,O,O,N,,O,O,O,N,O,1942
+193,for me and my gal,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1942
+194,holiday inn,O,O,O,O,,O,O,O,N,,O,O,O,W,O,1942
+195,it started with eve,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1942
+196,johnny doughboy,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1942
+197,my gal sal,O,O,W,O,,O,O,O,N,,O,O,O,O,O,1942
+198,you were never lovelier,O,O,O,O,,O,O,O,N,,O,O,O,N,N,1942
+199,always in my heart,O,O,O,O,,O,O,O,O,,O,O,O,N,O,1942
+200,babes on broadway,O,O,O,O,,O,O,O,O,,O,O,O,N,O,1942
+201,orchestra wives,O,O,O,O,,O,O,O,O,,O,O,O,N,O,1942
+202,youth on parade,O,O,O,O,,O,O,O,O,,O,O,O,N,O,1942
+203,hellzapoppin',O,O,O,O,,O,O,O,O,,O,O,O,N,O,1942
+204,the mayor of 44th street,O,O,O,O,,O,O,O,O,,O,O,O,N,O,1942
+205,friendly enemies,O,O,O,O,,O,O,O,O,,O,O,O,O,N,1942
+206,once upon a honeymoon,O,O,O,O,,O,O,O,O,,O,O,O,O,N,1942
+207,this above all,O,O,W,N,,O,N,O,O,,O,O,O,O,N,1942
+208,george washington slept here,O,O,N,O,,O,O,O,O,,O,O,O,O,O,1942
+209,the spoilers,O,O,N,O,,O,O,O,O,,O,O,O,O,O,1942
+210,captains of the clouds,O,O,N,N,,O,O,O,O,,O,O,O,O,O,1942
+211,reap the wild wind,O,O,N,N,,O,O,W,O,,O,O,O,O,O,1942
+212,moontide,O,O,O,N,,O,O,O,O,,O,O,O,O,O,1942
+213,ten gentlemen from west point,O,O,O,N,,O,O,O,O,,O,O,O,O,O,1942
+214,to the shores of tripoli,O,O,O,N,,O,O,O,O,,O,O,O,O,O,1942
+215,desperate journey,O,O,O,O,,O,O,N,O,,O,O,O,O,O,1942
+216,invisible agent,O,O,O,O,,O,O,N,O,,O,O,O,O,O,1942
+217,the navy comes through,O,O,O,O,,O,O,N,O,,O,O,O,O,O,1942
+218,casablanca,N,O,O,N,,W,N,O,N,,N,O,W,O,O,1943
+219,heaven can wait,O,O,O,N,,N,O,O,O,,O,O,O,O,O,1943
+220,the human comedy,N,O,O,N,,N,O,O,O,,O,O,O,O,O,1943
+221,the more the merrier,O,N,O,O,,N,O,O,O,,W,O,N,O,O,1943
+222,the song of bernadette,O,W,W,W,,N,N,O,W,,N,N,N,O,N,1943
+223,watch on the rhine,W,O,O,O,,O,O,O,O,,O,N,N,O,O,1943
+224,for whom the bell tolls,N,N,N,N,,O,N,O,N,,N,W,O,O,O,1943
+225,madame curie,N,N,N,N,,O,O,O,N,,O,O,O,O,N,1943
+226,the constant nymph,O,N,O,O,,O,O,O,O,,O,O,O,O,O,1943
+227,sahara,O,O,O,N,,O,O,O,O,,N,O,O,O,N,1943
+228,so proudly we hail!,O,O,O,N,,O,O,N,O,,O,N,N,O,O,1943
+229,princess o'rourke,O,O,O,O,,O,O,O,O,,O,O,W,O,O,1943
+230,air force,O,O,O,N,,O,W,N,O,,O,O,N,O,O,1943
+231,in which we serve,O,O,O,O,,O,O,O,O,,O,O,N,O,O,1943
+232,the north star,O,O,N,N,,O,O,N,N,,O,O,N,O,N,1943
+233,holy matrimony,O,O,O,O,,O,O,O,O,,O,O,N,O,O,1943
+234,the amazing mrs. holliday,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1943
+235,commandos strike at dawn,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1943
+236,the fallen sparrow,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1943
+237,hangmen also die!,O,O,O,O,,O,O,O,N,,O,O,O,O,N,1943
+238,hi diddle diddle,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1943
+239,in old oklahoma,O,O,O,O,,O,O,O,N,,O,O,O,O,N,1943
+240,johnny come lately,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1943
+241,the kansan,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1943
+242,lady of burlesque,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1943
+243,the moon and sixpence,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1943
+244,victory through air power,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1943
+245,this is the army,O,O,N,O,,O,O,O,W,,O,O,O,O,N,1943
+246,coney island,O,O,O,O,,O,O,O,N,,O,O,O,O,O,1943
+247,hit parade of 1943,O,O,O,O,,O,O,O,N,,O,O,O,N,O,1943
+248,phantom of the opera,O,O,W,W,,O,O,O,N,,O,O,O,O,N,1943
+249,saludos amigos,O,O,O,O,,O,O,O,N,,O,O,O,N,N,1943
+250,the sky's the limit,O,O,O,O,,O,O,O,N,,O,O,O,N,O,1943
+251,something to shout about,O,O,O,O,,O,O,O,N,,O,O,O,N,O,1943
+252,stage door canteen,O,O,O,O,,O,O,O,N,,O,O,O,N,O,1943
+253,star spangled rhythm,O,O,O,O,,O,O,O,N,,O,O,O,N,O,1943
+254,thousands cheer,O,O,N,N,,O,O,O,N,,O,O,O,O,O,1943
+255,"hello, frisco, hello",O,O,O,N,,O,O,O,O,,O,O,O,W,O,1943
+256,cabin in the sky,O,O,O,O,,O,O,O,O,,O,O,O,N,O,1943
+257,hers to hold,O,O,O,O,,O,O,O,O,,O,O,O,N,O,1943
+258,thank your lucky stars,O,O,O,O,,O,O,O,O,,O,O,O,N,O,1943
+259,this land is mine,O,O,O,O,,O,O,O,O,,O,O,O,O,W,1943
+260,riding high,O,O,O,O,,O,O,O,O,,O,O,O,O,N,1943
+261,so this is washington,O,O,O,O,,O,O,O,O,,O,O,O,O,N,1943
+262,five graves to cairo,O,O,N,N,,O,N,O,O,,O,O,O,O,O,1943
+263,flight for freedom,O,O,N,O,,O,O,O,O,,O,O,O,O,O,1943
+264,mission to moscow,O,O,N,O,,O,O,O,O,,O,O,O,O,O,1943
+265,the gang's all here,O,O,N,O,,O,O,O,O,,O,O,O,O,O,1943
+266,corvette k-225,O,O,O,N,,O,O,O,O,,O,O,O,O,O,1943
+267,lassie come home,O,O,O,N,,O,O,O,O,,O,O,O,O,O,1943
+268,crash dive,O,O,O,O,,O,O,W,O,,O,O,O,O,O,1943
+269,bombardier,O,O,O,O,,O,O,N,O,,O,O,O,O,O,1943
+270,stand by for action,O,O,O,O,,O,O,N,O,,O,O,O,O,O,1943
+271,going my way,WN,O,O,N,,W,N,O,O,W,W,O,W,W,O,1944
+272,double indemnity,O,N,O,N,,N,O,O,N,N,O,O,N,O,N,1944
+273,gaslight,N,W,W,N,,O,O,O,O,N,O,N,N,O,O,1944
+274,since you went away,O,N,N,N,,O,N,N,W,N,N,N,O,O,O,1944
+275,wilson,N,O,W,W,,N,W,N,N,N,O,O,W,O,W,1944
+276,laura,O,O,N,W,,N,O,O,O,O,N,O,N,O,O,1944
+277,lifeboat,O,O,O,N,,N,O,O,O,O,O,O,O,O,O,1944
+278,none but the lonely heart,N,O,O,O,,O,N,O,N,O,O,W,O,O,O,1944
+279,mr. skeffington,O,N,O,O,,O,O,O,O,O,N,O,O,O,O,1944
+280,mrs. parkington,O,N,O,O,,O,O,O,O,O,O,N,O,O,O,1944
+281,the seventh cross,O,O,O,O,,O,O,O,O,O,N,O,O,O,O,1944
+282,dragon seed,O,O,O,N,,O,O,O,O,O,O,N,O,O,O,1944
+283,hail the conquering hero,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1944
+284,the miracle of morgan's creek,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1944
+285,two girls and a sailor,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1944
+286,wing and a prayer,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1944
+287,meet me in st. louis,O,O,O,N,,O,O,O,N,O,O,O,N,N,O,1944
+288,address unknown,O,O,N,O,,O,O,O,N,O,O,O,O,O,O,1944
+289,the adventures of mark twain,O,O,N,O,,O,O,N,N,O,O,O,O,O,O,1944
+290,the bridge of san luis rey,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1944
+291,casanova brown,O,O,N,O,,O,O,O,N,O,O,O,O,O,N,1944
+292,christmas holiday,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1944
+293,the fighting seabees,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1944
+294,the hairy ape,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1944
+295,it happened tomorrow,O,O,O,O,,O,O,O,N,O,O,O,O,O,N,1944
+296,jack london,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1944
+297,kismet,O,O,N,N,,O,O,O,N,O,O,O,O,O,N,1944
+298,the princess and the pirate,O,O,N,O,,O,O,O,N,O,O,O,O,O,O,1944
+299,summer storm,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1944
+300,three russian girls,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1944
+301,up in mabel's room,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1944
+302,voice in the wind,O,O,O,O,,O,O,O,N,O,O,O,O,O,N,1944
+303,the woman of the town,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1944
+304,cover girl,O,O,N,N,,O,O,O,W,O,O,O,O,N,N,1944
+305,brazil,O,O,O,O,,O,O,O,N,O,O,O,O,N,N,1944
+306,higher and higher,O,O,O,O,,O,O,O,N,O,O,O,O,N,O,1944
+307,hollywood canteen,O,O,O,O,,O,O,O,N,O,O,O,O,N,N,1944
+308,irish eyes are smiling,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1944
+309,knickerbocker holiday,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1944
+310,lady in the dark,O,O,N,N,,O,O,O,N,O,O,O,O,O,O,1944
+311,"lady, let's dance",O,O,O,O,,O,O,O,N,O,O,O,O,N,O,1944
+312,the merry monahans,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1944
+313,minstrel man,O,O,O,O,,O,O,O,N,O,O,O,O,N,O,1944
+314,sensations of 1945,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1944
+315,song of the open road,O,O,N,O,,O,O,O,N,O,O,O,O,N,O,1944
+316,up in arms,O,O,O,O,,O,O,O,N,O,O,O,O,N,O,1944
+317,follow the boys,O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1944
+318,sweet and lowdown,O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1944
+319,his butler's sister,O,O,O,O,,O,O,O,O,O,O,O,O,O,N,1944
+320,music in manhattan,O,O,O,O,,O,O,O,O,O,O,O,O,O,N,1944
+321,no time for love,O,O,N,O,,O,O,O,O,O,O,O,O,O,O,1944
+322,step lively,O,O,N,O,,O,O,O,O,O,O,O,O,O,O,1944
+323,the climax,O,O,N,O,,O,O,O,O,O,O,O,O,O,O,1944
+324,the desert song,O,O,N,O,,O,O,O,O,O,O,O,O,O,O,1944
+325,thirty seconds over tokyo,O,O,O,N,,O,O,W,O,O,O,O,O,O,O,1944
+326,the uninvited,O,O,O,N,,O,O,O,O,O,O,O,O,O,O,1944
+327,the white cliffs of dover,O,O,O,N,,O,O,O,O,O,O,O,O,O,O,1944
+328,home in indiana,O,O,O,N,,O,O,O,O,O,O,O,O,O,O,1944
+329,janie,O,O,O,O,,O,N,O,O,O,O,O,O,O,O,1944
+330,days of glory,O,O,O,O,,O,O,N,O,O,O,O,O,O,O,1944
+331,secret command,O,O,O,O,,O,O,N,O,O,O,O,O,O,O,1944
+332,the story of dr. wassell,O,O,O,O,,O,O,N,O,O,O,O,O,O,O,1944
+333,the lost weekend,W,O,O,N,,W,N,O,N,W,O,O,W,O,O,1945
+334,anchors aweigh,N,O,O,N,,O,O,O,W,N,O,O,O,N,O,1945
+335,the bells of st. mary's,N,N,O,O,,N,N,O,N,N,O,O,O,N,W,1945
+336,mildred pierce,O,W,O,N,,O,O,O,O,N,O,N,N,O,O,1945
+337,spellbound,O,O,O,N,,N,O,N,W,N,N,O,O,O,O,1945
+338,national velvet,O,O,N,N,,N,W,O,O,O,O,W,O,O,O,1945
+339,the southerner,O,O,O,O,,N,O,O,N,O,O,O,O,O,N,1945
+340,the keys of the kingdom,N,O,N,N,,O,O,O,N,O,O,O,O,O,O,1945
+341,a song to remember,N,O,O,N,,O,N,O,N,O,O,O,O,O,N,1945
+342,the valley of decision,O,N,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+343,love letters,O,N,N,O,,O,O,O,N,O,O,O,O,N,O,1945
+344,leave her to heaven,O,N,N,W,,O,O,O,O,O,O,O,O,O,N,1945
+345,a tree grows in brooklyn,O,O,O,O,,O,O,O,O,O,W,O,N,O,O,1945
+346,the corn is green,O,O,O,O,,O,O,O,O,O,N,N,O,O,O,1945
+347,the story of g.i. joe,O,O,O,O,,O,O,O,N,O,N,O,N,N,O,1945
+348,a medal for benny,O,O,O,O,,O,O,O,O,O,N,O,O,O,O,1945
+349,the picture of dorian gray,O,O,N,W,,O,O,O,O,O,O,N,O,O,O,1945
+350,marie-louise,O,O,O,O,,O,O,O,O,O,O,O,W,O,O,1945
+351,dillinger,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1945
+352,music for millions,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1945
+353,salty o'rourke,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1945
+354,"what next, corporal hargrove?",O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1945
+355,pride of the marines,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1945
+356,brewster's millions,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+357,captain kidd,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+358,the enchanted cottage,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+359,flame of barbary coast,O,O,O,O,,O,O,O,N,O,O,O,O,O,N,1945
+360,g. i. honeymoon,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+361,guest in the house,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+362,guest wife,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+363,the man who walked alone,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+364,"objective, burma!",O,O,O,O,,O,N,O,N,O,O,O,O,O,O,1945
+365,paris underground,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+366,this love of ours,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+367,the woman in the window,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+368,belle of the yukon,O,O,O,O,,O,O,O,N,O,O,O,O,N,O,1945
+369,can't help singing,O,O,O,O,,O,O,O,N,O,O,O,O,N,O,1945
+370,hitchhike to happiness,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+371,incendiary blonde,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+372,rhapsody in blue,O,O,O,O,,O,O,O,N,O,O,O,O,O,N,1945
+373,state fair,O,O,O,O,,O,O,O,N,O,O,O,O,W,O,1945
+374,sunbonnet sue,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1945
+375,the three caballeros,O,O,O,O,,O,O,O,N,O,O,O,O,O,N,1945
+376,tonight and every night,O,O,O,O,,O,O,O,N,O,O,O,O,N,O,1945
+377,why girls leave home,O,O,O,O,,O,O,O,N,O,O,O,O,N,O,1945
+378,wonder man,O,O,O,O,,O,O,W,N,O,O,O,O,N,N,1945
+379,here come the waves,O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1945
+380,earl carroll vanities,O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1945
+381,sing your way home,O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1945
+382,san antonio,O,O,N,O,,O,O,O,O,O,O,O,O,N,O,1945
+383,lady on a train,O,O,O,O,,O,O,O,O,O,O,O,O,O,N,1945
+384,they were expendable,O,O,O,O,,O,O,N,O,O,O,O,O,O,N,1945
+385,three is a family,O,O,O,O,,O,O,O,O,O,O,O,O,O,N,1945
+386,the unseen,O,O,O,O,,O,O,O,O,O,O,O,O,O,N,1945
+387,blood on the sun,O,O,W,O,,O,O,O,O,O,O,O,O,O,O,1945
+388,experiment perilous,O,O,N,O,,O,O,O,O,O,O,O,O,O,O,1945
+389,frenchman's creek,O,O,W,O,,O,O,O,O,O,O,O,O,O,O,1945
+390,a thousand and one nights,O,O,N,O,,O,O,N,O,O,O,O,O,O,O,1945
+391,the spanish main,O,O,O,N,,O,O,O,O,O,O,O,O,O,O,1945
+392,captain eddie,O,O,O,O,,O,O,N,O,O,O,O,O,O,O,1945
+393,the best years of our lives,W,O,O,O,,W,W,O,W,W,W,O,W,O,N,1946
+394,henry v,N,O,N,O,,O,O,O,N,N,O,O,O,O,O,1946
+395,it's a wonderful life,N,O,O,O,,N,N,O,O,N,O,O,O,O,N,1946
+396,the razor's edge,O,O,N,O,,O,O,O,O,N,N,W,O,O,O,1946
+397,the yearling,N,N,W,W,,N,N,O,O,N,O,O,O,O,O,1946
+398,brief encounter,O,N,O,O,,N,O,O,O,O,O,O,N,O,O,1946
+399,the killers,O,O,O,O,,N,N,O,N,O,O,O,N,O,O,1946
+400,the jolson story,N,O,O,N,,O,N,O,W,O,N,O,O,O,W,1946
+401,to each his own,O,W,O,O,,O,O,O,O,O,O,O,O,O,O,1946
+402,duel in the sun,O,N,O,O,,O,O,O,O,O,O,N,O,O,O,1946
+403,sister kenny,O,N,O,O,,O,O,O,O,O,O,O,O,O,O,1946
+404,the green years,O,O,O,N,,O,O,O,O,O,N,O,O,O,O,1946
+405,notorious,O,O,O,O,,O,O,O,O,O,N,O,N,O,O,1946
+406,the spiral staircase,O,O,O,O,,O,O,O,O,O,O,N,O,O,O,1946
+407,saratoga trunk,O,O,O,O,,O,O,O,O,O,O,N,O,O,O,1946
+408,anna and the king of siam,O,O,W,W,,O,O,O,N,O,O,N,N,O,O,1946
+409,the seventh veil,O,O,O,O,,O,O,O,O,O,O,O,W,O,O,1946
+410,the blue dahlia,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1946
+411,children of paradise,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1946
+412,road to utopia,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1946
+413,"rome, open city",O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1946
+414,humoresque,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1946
+415,blue skies,O,O,O,O,,O,O,O,N,O,O,O,O,N,O,1946
+416,centennial summer,O,O,O,O,,O,O,O,N,O,O,O,O,N,O,1946
+417,the harvey girls,O,O,O,O,,O,O,O,N,O,O,O,O,W,O,1946
+418,night and day,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1946
+419,the dolly sisters,O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1946
+420,canyon passage,O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1946
+421,kitty,O,O,N,O,,O,O,O,O,O,O,O,O,O,O,1946
+422,caesar and cleopatra,O,O,N,O,,O,O,O,O,O,O,O,O,O,O,1946
+423,blithe spirit,O,O,O,O,,O,O,W,O,O,O,O,O,O,O,1946
+424,a stolen life,O,O,O,O,,O,O,N,O,O,O,O,O,O,O,1946
+425,gentleman's agreement,N,N,O,O,,W,N,O,O,W,O,WN,N,O,O,1947
+426,the bishop's wife,O,O,O,O,,N,N,O,N,N,O,O,O,O,W,1947
+427,crossfire,O,O,O,O,,N,O,O,O,N,N,N,N,O,O,1947
+428,great expectations,O,O,W,W,,N,O,O,O,N,O,O,N,O,O,1947
+429,miracle on 34th street,O,O,O,O,,O,O,O,O,N,W,O,W,O,O,1947
+430,a double life,W,O,O,O,,N,O,O,W,O,O,O,N,O,O,1947
+431,body and soul,N,O,O,O,,O,W,O,O,O,O,O,N,O,O,1947
+432,life with father,N,O,N,N,,O,O,O,N,O,O,O,O,O,O,1947
+433,mourning becomes electra,N,N,O,O,,O,O,O,O,O,O,O,O,O,O,1947
+434,the farmer's daughter,O,W,O,O,,O,O,O,O,O,N,O,O,O,O,1947
+435,possessed,O,N,O,O,,O,O,O,O,O,O,O,O,O,O,1947
+436,"smash-up, the story of a woman",O,N,O,O,,O,O,O,O,O,O,O,O,O,O,1947
+437,ride the pink horse,O,O,O,O,,O,O,O,O,O,N,O,O,O,O,1947
+438,kiss of death,O,O,O,O,,O,O,O,O,O,N,O,O,O,O,1947
+439,the paradine case,O,O,O,O,,O,O,O,O,O,O,N,O,O,O,1947
+440,the egg and i,O,O,O,O,,O,O,O,O,O,O,N,O,O,O,1947
+441,the bachelor and the bobby-soxer,O,O,O,O,,O,O,O,O,O,O,O,W,O,O,1947
+442,monsieur verdoux,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1947
+443,shoeshine,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1947
+444,boomerang!,O,O,O,O,,O,O,O,O,O,O,O,N,O,O,1947
+445,captain from castile,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1947
+446,forever amber,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1947
+447,mother wore tights,O,O,O,N,,O,O,O,W,O,O,O,O,N,O,1947
+448,fiesta,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1947
+449,my wild irish rose,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1947
+450,road to rio,O,O,O,O,,O,O,O,N,O,O,O,O,O,O,1947
+451,song of the south,O,O,O,O,,O,O,O,N,O,O,O,O,W,O,1947
+452,"the time, the place and the girl",O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1947
+453,the perils of pauline,O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1947
+454,good news,O,O,O,O,,O,O,O,O,O,O,O,O,N,O,1947
+455,green dolphin street,O,O,O,N,,O,N,W,O,O,O,O,O,O,N,1947
+456,t-men,O,O,O,O,,O,O,O,O,O,O,O,O,O,N,1947
+457,the foxes of harrow,O,O,N,O,,O,O,O,O,O,O,O,O,O,O,1947
+458,black narcissus,O,O,W,W,,O,O,O,O,O,O,O,O,O,O,1947
+459,the ghost and mrs. muir,O,O,O,N,,O,O,O,O,O,O,O,O,O,O,1947
+460,odd man out,O,O,O,O,,O,N,O,O,O,O,O,O,O,O,1947
+461,unconquered,O,O,O,O,,O,O,N,O,O,O,O,O,O,O,1947
+462,hamlet,W,O,W,O,W,N,O,O,N,W,O,N,O,O,O,1948
+463,johnny belinda,N,W,N,N,O,N,N,O,N,N,N,N,N,O,N,1948
+464,the red shoes,O,O,W,O,O,O,N,O,W,N,O,O,O,O,O,1948
+465,the snake pit,O,N,O,O,O,N,O,O,N,N,O,O,N,O,W,1948
+466,the treasure of the sierra madre,O,O,O,O,O,W,O,O,O,N,W,O,W,O,O,1948
+467,the search,N,O,O,O,O,N,O,O,O,O,O,O,N,O,O,1948
+468,when my baby smiles at me,N,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1948
+469,sitting pretty,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1948
+470,joan of arc,O,N,N,W,W,O,N,O,N,O,N,O,O,O,O,1948
+471,i remember mama,O,N,O,N,O,O,O,O,O,O,N,N,O,O,O,1948
+472,"sorry, wrong number",O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1948
+473,the luck of the irish,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1948
+474,key largo,O,O,O,O,O,O,O,O,O,O,O,W,O,O,O,1948
+475,a foreign affair,O,O,O,N,O,O,O,O,O,O,O,O,N,O,O,1948
+476,easter parade,O,O,O,O,O,O,O,O,W,O,O,O,O,O,O,1948
+477,the emperor waltz,O,O,O,O,N,O,O,O,N,O,O,O,O,O,O,1948
+478,the pirate,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1948
+479,romance on the high seas,O,O,O,O,O,O,O,O,N,O,O,O,O,N,O,1948
+480,the paleface,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,1948
+481,casbah,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1948
+482,that lady in ermine,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1948
+483,wet blanket policy,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1948
+484,moonrise,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1948
+485,the naked city,O,O,O,W,O,O,W,O,O,O,O,O,O,O,O,1948
+486,portrait of jennie,O,O,O,N,O,O,O,W,O,O,O,O,O,O,O,1948
+487,green grass of wyoming,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1948
+488,the loves of carmen,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1948
+489,the three musketeers,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1948
+490,b.f.'s daughter,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1948
+491,red river,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1948
+492,deep waters,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1948
+493,all the king's men,W,O,O,O,O,N,N,O,O,W,N,W,N,O,O,1949
+494,battleground,O,O,O,W,O,N,N,O,O,N,N,O,O,O,O,1949
+495,the heiress,O,W,W,N,W,N,O,O,W,N,N,O,O,O,O,1949
+496,a letter to three wives,O,O,O,O,O,W,O,O,O,N,O,O,W,O,O,1949
+497,twelve o'clock high,N,O,O,O,O,O,O,O,O,N,W,O,O,O,W,1949
+498,the fallen idol,O,O,O,O,O,N,O,O,O,O,O,O,N,O,O,1949
+499,champion,N,O,O,N,O,O,W,O,N,O,N,O,N,O,O,1949
+500,the hasty heart,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1949
+501,sands of iwo jima,N,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1949
+502,pinky,O,N,O,O,O,O,O,O,O,O,O,N,O,O,O,1949
+503,my foolish heart,O,N,O,O,O,O,O,O,O,O,O,O,O,N,O,1949
+504,"edward, my son",O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1949
+505,come to the stable,O,N,N,N,O,O,O,O,O,O,O,N,O,N,O,1949
+506,bicycle thieves,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1949
+507,beyond the forest,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1949
+508,on the town,O,O,O,O,O,O,O,O,W,O,O,O,O,O,O,1949
+509,jolson sings again,O,O,O,N,O,O,O,O,N,O,O,O,O,O,O,1949
+510,look for the silver lining,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1949
+511,neptune's daughter,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,1949
+512,it's a great feeling,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1949
+513,so dear to my heart,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1949
+514,"once more, my darling",O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1949
+515,madame bovary,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1949
+516,little women,O,O,W,N,O,O,O,O,O,O,O,O,O,O,O,1949
+517,adventures of don juan,O,O,N,O,W,O,O,O,O,O,O,O,O,O,O,1949
+518,saraband for dead lovers,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1949
+519,prince of foxes,O,O,O,N,N,O,O,O,O,O,O,O,O,O,O,1949
+520,she wore a yellow ribbon,O,O,O,W,O,O,O,O,O,O,O,O,O,O,O,1949
+521,the barkleys of broadway,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1949
+522,sand,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1949
+523,mother is a freshman,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1949
+524,the window,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1949
+525,mighty joe young,O,O,O,O,O,O,O,W,O,O,O,O,O,O,O,1949
+526,tulsa,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1949
+527,all about eve,O,N,N,N,W,W,N,O,N,W,W,N,W,O,W,1950
+528,born yesterday,O,W,O,O,N,N,O,O,O,N,O,O,N,O,O,1950
+529,father of the bride,N,O,O,O,O,O,O,O,O,N,O,O,N,O,O,1950
+530,king solomon's mines,O,O,O,W,O,O,W,O,O,N,O,O,O,O,O,1950
+531,sunset boulevard,N,N,W,N,O,N,N,O,W,N,N,N,O,O,O,1950
+532,the asphalt jungle,O,O,O,N,O,N,O,O,O,O,N,O,N,O,O,1950
+533,the third man,O,O,O,W,O,N,N,O,O,O,O,O,O,O,O,1950
+534,cyrano de bergerac,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1950
+535,the magnificent yankee,N,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1950
+536,harvey,N,O,O,O,O,O,O,O,O,O,O,W,O,O,O,1950
+537,caged,O,N,O,O,O,O,O,O,O,O,O,N,O,O,O,1950
+538,broken arrow,O,O,O,N,O,O,O,O,O,O,N,O,N,O,O,1950
+539,mister 880,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1950
+540,the flame and the arrow,O,O,O,N,O,O,O,O,N,O,O,O,O,O,O,1950
+541,no sad songs for me,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1950
+542,samson and delilah,O,O,W,N,W,O,O,N,N,O,O,O,O,O,O,1950
+543,annie get your gun,O,O,N,N,O,O,N,O,W,O,O,O,O,O,O,1950
+544,cinderella,O,O,O,O,O,O,O,O,N,O,O,O,O,N,N,1950
+545,i'll get by,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1950
+546,three little words,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1950
+547,the west point story,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1950
+548,"captain carey, u.s.a.",O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,1950
+549,the toast of new orleans,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1950
+550,singing guns,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1950
+551,wabash avenue,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1950
+552,louisa,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1950
+553,our very own,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1950
+554,trio,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1950
+555,the red danube,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1950
+556,destination moon,O,O,N,O,O,O,O,W,O,O,O,O,O,O,O,1950
+557,the furies,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1950
+558,the black rose,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1950
+559,that forsyte woman,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1950
+560,an american in paris,O,O,W,W,W,N,N,,W,W,O,O,O,O,O,1951
+561,decision before dawn,O,O,O,O,O,O,N,,O,N,O,O,O,O,O,1951
+562,a place in the sun,N,N,O,W,W,W,W,,W,N,O,O,W,O,O,1951
+563,quo vadis,O,O,N,N,N,O,N,,N,N,N,O,O,O,O,1951
+564,a streetcar named desire,N,W,W,N,N,N,O,,N,N,W,W,N,O,N,1951
+565,the african queen,W,N,O,O,O,N,O,,O,O,O,O,N,O,O,1951
+566,detective story,O,N,O,O,O,N,O,,O,O,O,N,N,O,O,1951
+567,bright victory,N,O,O,O,O,O,O,,O,O,O,O,O,O,N,1951
+568,death of a salesman,N,O,O,N,O,O,O,,N,O,N,N,O,O,O,1951
+569,the blue veil,O,N,O,O,O,O,O,,O,O,O,N,O,O,O,1951
+570,come fill the cup,O,O,O,O,O,O,O,,O,O,N,O,O,O,O,1951
+571,the mating season,O,O,O,O,O,O,O,,O,O,O,N,O,O,O,1951
+572,la ronde,O,O,N,O,O,O,O,,O,O,O,O,N,O,O,1951
+573,david and bathsheba,O,O,N,N,N,O,O,,N,O,O,O,O,O,O,1951
+574,alice in wonderland,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1951
+575,the great caruso,O,O,O,O,N,O,O,,N,O,O,O,O,O,W,1951
+576,on the riviera,O,O,N,O,O,O,O,,N,O,O,O,O,O,O,1951
+577,show boat,O,O,O,N,O,O,O,,N,O,O,O,O,O,O,1951
+578,here comes the groom,O,O,O,O,O,O,O,,O,O,O,O,O,W,O,1951
+579,the strip,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1951
+580,golden girl,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1951
+581,royal wedding,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1951
+582,"rich, young and pretty",O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1951
+583,i want you,O,O,O,O,O,O,O,,O,O,O,O,O,O,N,1951
+584,two tickets to broadway,O,O,O,O,O,O,O,,O,O,O,O,O,O,N,1951
+585,fourteen hours,O,O,N,O,O,O,O,,O,O,O,O,O,O,O,1951
+586,the house on telegraph hill,O,O,N,O,O,O,O,,O,O,O,O,O,O,O,1951
+587,too young to kiss,O,O,N,O,O,O,O,,O,O,O,O,O,O,O,1951
+588,tales of hoffmann,O,O,N,O,N,O,O,,O,O,O,O,O,O,O,1951
+589,the frogmen,O,O,O,N,O,O,O,,O,O,O,O,O,O,O,1951
+590,strangers on a train,O,O,O,N,O,O,O,,O,O,O,O,O,O,O,1951
+591,when worlds collide,O,O,O,N,O,O,O,,O,O,O,O,O,O,O,1951
+592,kind lady,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1951
+593,the model and the marriage broker,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1951
+594,the mudlark,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1951
+595,the well,O,O,O,O,O,O,N,,O,O,O,O,O,O,O,1951
+596,the greatest show on earth,O,O,O,O,N,N,N,,O,W,O,O,O,O,O,1952
+597,high noon,W,O,O,O,O,N,W,,W,N,O,O,N,W,O,1952
+598,ivanhoe,O,O,O,N,O,O,O,,N,N,O,O,O,O,O,1952
+599,moulin rouge,N,O,W,O,W,N,N,,O,N,O,N,O,O,O,1952
+600,the quiet man,O,O,N,W,O,W,O,,O,N,N,O,N,O,N,1952
+601,five fingers,O,O,O,O,O,N,O,,O,O,O,O,N,O,O,1952
+602,viva zapata!,N,O,N,O,O,O,O,,N,O,W,O,O,O,O,1952
+603,the bad and the beautiful,N,O,W,W,W,O,O,,O,O,O,W,W,O,O,1952
+604,the lavender hill mob,N,O,O,O,O,O,O,,O,O,O,O,O,O,O,1952
+605,"come back, little sheba",O,W,O,O,O,O,N,,O,O,O,N,O,O,O,1952
+606,sudden fear,O,N,O,N,N,O,O,,O,O,N,O,O,O,O,1952
+607,the star,O,N,O,O,O,O,O,,O,O,O,O,O,O,O,1952
+608,the member of the wedding,O,N,O,O,O,O,O,,O,O,O,O,O,O,O,1952
+609,with a song in my heart,O,N,O,O,N,O,O,,W,O,O,N,O,O,N,1952
+610,my cousin rachel,O,O,N,N,N,O,O,,O,O,N,O,O,O,O,1952
+611,the big sky,O,O,O,N,O,O,O,,O,O,N,O,O,O,O,1952
+612,singin' in the rain,O,O,O,O,O,O,O,,N,O,O,N,O,O,O,1952
+613,the man in the white suit,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1952
+614,the miracle of our lady of fatima,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1952
+615,the thief,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1952
+616,hans christian andersen,O,O,N,N,N,O,O,,N,O,O,O,O,N,N,1952
+617,the jazz singer,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1952
+618,the medium,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1952
+619,son of paleface,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1952
+620,because you're mine,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1952
+621,just for you,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1952
+622,breaking the sound barrier,O,O,O,O,O,O,O,,O,O,O,O,O,O,W,1952
+623,the card,O,O,O,O,O,O,O,,O,O,O,O,O,O,N,1952
+624,carrie,O,O,N,O,N,O,O,,O,O,O,O,O,O,O,1952
+625,rashomon,O,O,N,O,O,O,O,,O,O,O,O,O,O,O,1952
+626,the merry widow,O,O,N,O,N,O,O,,O,O,O,O,O,O,O,1952
+627,the snows of kilimanjaro,O,O,N,N,O,O,O,,O,O,O,O,O,O,O,1952
+628,navajo,O,O,O,N,O,O,O,,O,O,O,O,O,O,O,1952
+629,million dollar mermaid,O,O,O,N,O,O,O,,O,O,O,O,O,O,O,1952
+630,affair in trinidad,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1952
+631,flat top,O,O,O,O,O,O,N,,O,O,O,O,O,O,O,1952
+632,from here to eternity,N,N,O,W,N,W,W,,N,W,W,W,W,O,W,1953
+633,julius caesar,N,O,W,N,O,O,O,,N,N,O,O,O,O,O,1953
+634,the robe,N,O,W,N,W,O,O,,O,N,O,O,O,O,O,1953
+635,roman holiday,O,W,N,N,W,N,N,,O,N,N,O,N,O,O,1953
+636,shane,O,O,O,W,O,N,O,,O,N,N,O,N,O,O,1953
+637,lili,O,N,N,N,O,N,O,,W,O,O,O,N,O,O,1953
+638,stalag 17,W,O,O,O,O,N,O,,O,O,N,O,O,O,O,1953
+639,mogambo,O,N,O,O,O,O,O,,O,O,O,N,O,O,O,1953
+640,the moon is blue,O,N,O,O,O,O,N,,O,O,O,O,O,N,O,1953
+641,hondo,O,O,O,O,O,O,O,,O,O,O,N,O,O,O,1953
+642,torch song,O,O,O,O,O,O,O,,O,O,O,N,O,O,O,1953
+643,pickup on south street,O,O,O,O,O,O,O,,O,O,O,N,O,O,O,1953
+644,the cruel sea,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1953
+645,above and beyond,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1953
+646,this is cinerama,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1953
+647,call me madam,O,O,O,O,N,O,O,,W,O,O,O,O,O,O,1953
+648,"the 5,000 fingers of dr. t.",O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1953
+649,the band wagon,O,O,O,O,N,O,O,,N,O,O,O,O,O,O,1953
+650,calamity jane,O,O,O,O,O,O,O,,N,O,O,O,O,W,N,1953
+651,kiss me kate,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1953
+652,small town girl,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1953
+653,miss sadie thompson,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1953
+654,the caddy,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1953
+655,knights of the round table,O,O,N,O,O,O,O,,O,O,O,O,O,O,N,1953
+656,the mississippi gambler,O,O,O,O,O,O,O,,O,O,O,O,O,O,N,1953
+657,the war of the worlds,O,O,O,O,O,O,N,,O,O,O,O,O,O,N,1953
+658,martin luther,O,O,N,N,O,O,O,,O,O,O,O,O,O,O,1953
+659,the president's lady,O,O,N,O,N,O,O,,O,O,O,O,O,O,O,1953
+660,titanic,O,O,N,O,O,O,O,,O,O,O,O,O,O,O,1953
+661,the story of three loves,O,O,N,O,O,O,O,,O,O,O,O,O,O,O,1953
+662,young bess,O,O,N,O,N,O,O,,O,O,O,O,O,O,O,1953
+663,the four poster,O,O,O,N,O,O,O,,O,O,O,O,O,O,O,1953
+664,all the brothers were valiant,O,O,O,N,O,O,O,,O,O,O,O,O,O,O,1953
+665,beneath the 12-mile reef,O,O,O,N,O,O,O,,O,O,O,O,O,O,O,1953
+666,the actress,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1953
+667,dream wife,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1953
+668,how to marry a millionaire,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1953
+669,crazylegs,O,O,O,O,O,O,N,,O,O,O,O,O,O,O,1953
+670,on the waterfront,W,O,W,W,O,W,W,O,N,W,N,W,O,O,O,1954
+671,the caine mutiny,N,O,O,O,O,O,N,O,N,N,N,O,N,O,N,1954
+672,the country girl,N,W,N,N,O,N,O,O,O,N,O,O,W,O,O,1954
+673,seven brides for seven brothers,O,O,O,N,O,O,N,O,W,N,O,O,N,O,O,1954
+674,three coins in the fountain,O,O,O,W,O,O,O,O,O,N,O,O,O,W,O,1954
+675,the high and the mighty,O,O,O,O,O,N,N,O,W,O,O,N,O,N,O,1954
+676,rear window,O,O,O,N,O,N,O,O,O,O,O,O,N,O,N,1954
+677,sabrina,O,N,N,N,W,N,O,O,O,O,O,O,N,O,O,1954
+678,a star is born,N,N,N,O,N,O,O,O,N,O,O,O,O,N,O,1954
+679,robinson crusoe,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1954
+680,carmen jones,O,N,O,O,O,O,O,O,N,O,O,O,O,O,O,1954
+681,magnificent obsession,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1954
+682,the barefoot contessa,O,O,O,O,O,O,O,O,O,O,W,O,O,O,O,1954
+683,executive suite,O,O,N,N,N,O,O,O,O,O,O,N,O,O,O,1954
+684,broken lance,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1954
+685,genevieve,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1954
+686,the silver chalice,O,O,O,N,O,O,O,O,N,O,O,O,O,O,O,1954
+687,the glenn miller story,O,O,O,O,O,O,O,O,N,O,O,O,O,O,W,1954
+688,there's no business like show business,O,O,O,O,N,O,O,O,N,O,O,O,O,O,O,1954
+689,white christmas,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1954
+690,susan slept here,O,O,O,O,O,O,O,O,O,O,O,O,O,N,N,1954
+691,brigadoon,O,O,N,O,N,O,O,O,O,O,O,O,O,O,N,1954
+692,le plaisir,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1954
+693,"20,000 leagues under the sea",O,O,W,O,O,O,N,W,O,O,O,O,O,O,O,1954
+694,désirée,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1954
+695,red garters,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1954
+696,rogue cop,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1954
+697,the egyptian,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1954
+698,the earrings of madame de…,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1954
+699,indiscretion of an american wife,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1954
+700,it should happen to you,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1954
+701,gate of hell,O,O,O,O,W,O,O,O,O,O,O,O,O,O,O,1954
+702,hell and high water,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1954
+703,them!,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1954
+704,marty,W,O,N,N,O,W,O,O,O,W,N,N,W,O,O,1955
+705,love is a many-splendored thing,O,N,N,N,W,O,O,O,W,N,O,O,O,W,N,1955
+706,mister roberts,O,O,O,O,O,O,O,O,O,N,W,O,O,O,N,1955
+707,picnic,O,O,W,O,O,N,W,O,N,N,N,O,O,O,O,1955
+708,the rose tattoo,O,W,W,W,N,O,N,O,N,N,O,N,O,O,O,1955
+709,bad day at black rock,N,O,O,O,O,N,O,O,O,O,O,O,N,O,O,1955
+710,east of eden,N,O,O,O,O,N,O,O,O,O,O,W,N,O,O,1955
+711,summertime,O,N,O,O,O,N,O,O,O,O,O,O,O,O,O,1955
+712,love me or leave me,N,O,O,O,O,O,O,O,N,O,O,O,N,N,N,1955
+713,the man with the golden arm,N,O,N,O,O,O,O,O,N,O,O,O,O,O,O,1955
+714,i'll cry tomorrow,O,N,N,N,W,O,O,O,O,O,O,O,O,O,O,1955
+715,interrupted melody,O,N,O,O,N,O,O,O,O,O,O,O,O,O,O,1955
+716,trial,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1955
+717,rebel without a cause,O,O,O,O,O,O,O,O,O,O,N,N,O,O,O,1955
+718,pete kelly's blues,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1955
+719,blackboard jungle,O,O,N,N,O,O,N,O,O,O,O,O,N,O,O,1955
+720,battle cry,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1955
+721,oklahoma!,O,O,O,N,O,O,N,O,W,O,O,O,O,O,W,1955
+722,daddy long legs,O,O,N,O,O,O,O,O,N,O,O,O,O,N,O,1955
+723,guys and dolls,O,O,N,N,N,O,O,O,N,O,O,O,O,O,O,1955
+724,it's always fair weather,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1955
+725,the tender trap,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1955
+726,unchained,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1955
+727,not as a stranger,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1955
+728,to catch a thief,O,O,N,W,N,O,O,O,O,O,O,O,O,O,O,1955
+729,queen bee,O,O,O,N,N,O,O,O,O,O,O,O,O,O,O,1955
+730,a man called peter,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1955
+731,the pickwick papers,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1955
+732,ugetsu,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1955
+733,the virgin queen,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1955
+734,the bridges at toko-ri,O,O,O,O,O,O,N,W,O,O,O,O,O,O,O,1955
+735,the dam busters,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1955
+736,the rains of ranchipur,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1955
+737,around the world in 80 days,O,O,N,W,N,N,W,O,W,W,O,O,W,O,O,1956
+738,friendly persuasion,O,O,O,O,O,N,O,O,O,N,N,O,N,N,N,1956
+739,giant,N,O,N,O,N,W,N,O,N,N,O,N,N,O,O,1956
+740,the king and i,W,N,W,N,W,N,O,O,W,N,O,O,O,O,W,1956
+741,the ten commandments,O,O,N,N,N,O,N,W,O,N,O,O,O,O,N,1956
+742,war and peace,O,O,O,N,N,N,O,O,O,O,O,O,O,O,O,1956
+743,lust for life,N,O,N,O,O,O,O,O,O,O,W,O,N,O,O,1956
+744,richard iii,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1956
+745,anastasia,O,W,O,O,O,O,O,O,N,O,O,O,O,O,O,1956
+746,baby doll,O,N,O,N,O,O,O,O,O,O,O,N,N,O,O,1956
+747,the rainmaker,O,N,O,O,O,O,O,O,N,O,O,O,O,O,O,1956
+748,the bad seed,O,N,O,N,O,O,O,O,O,O,O,N,O,O,O,1956
+749,bus stop,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1956
+750,the bold and the brave,O,O,O,O,O,O,O,O,O,O,N,O,N,O,O,1956
+751,written on the wind,O,O,O,O,O,O,O,O,O,O,N,W,O,N,O,1956
+752,the red balloon,O,O,O,O,O,O,O,O,O,O,O,O,W,O,O,1956
+753,julie,O,O,O,O,O,O,O,O,O,O,O,O,N,N,O,1956
+754,la strada,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1956
+755,the ladykillers,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1956
+756,between heaven and hell,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1956
+757,the best things in life are free,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1956
+758,the eddy duchin story,O,O,O,N,O,O,O,O,N,O,O,O,O,O,N,1956
+759,high society,O,O,O,O,O,O,O,O,N,O,O,O,O,N,O,1956
+760,meet me in las vegas,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1956
+761,the man who knew too much,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,1956
+762,the brave one,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1956
+763,somebody up there likes me,O,O,W,W,O,O,N,O,O,O,O,O,O,O,O,1956
+764,the proud and profane,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1956
+765,seven samurai,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1956
+766,the solid gold cadillac,O,O,N,O,W,O,O,O,O,O,O,O,O,O,O,1956
+767,teenage rebel,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1956
+768,the harder they fall,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1956
+769,stagecoach to fury,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1956
+770,the power and the prize,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1956
+771,forbidden planet,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1956
+772,the bridge on the river kwai,W,O,O,W,O,W,W,O,W,W,N,O,W,O,O,1957
+773,12 angry men,O,O,O,O,O,N,O,O,O,N,O,O,N,O,O,1957
+774,peyton place,O,N,O,N,O,N,O,O,O,N,N,N,N,O,O,1957
+775,sayonara,N,O,W,N,O,N,N,O,O,N,W,W,N,O,W,1957
+776,witness for the prosecution,N,O,O,O,O,N,N,O,O,N,O,N,O,O,N,1957
+777,a hatful of rain,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1957
+778,wild is the wind,N,N,O,O,O,O,O,O,O,O,O,O,O,N,O,1957
+779,the three faces of eve,O,W,O,O,O,O,O,O,O,O,O,O,O,O,O,1957
+780,"heaven knows, mr. allison",O,N,O,O,O,O,O,O,O,O,O,O,N,O,O,1957
+781,raintree county,O,N,N,O,N,O,O,O,N,O,O,O,O,O,O,1957
+782,a farewell to arms,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1957
+783,the bachelor party,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1957
+784,an affair to remember,O,O,O,N,N,O,O,O,N,O,O,O,O,N,O,1957
+785,boy on a dolphin,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1957
+786,perri,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1957
+787,the joker is wild,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,1957
+788,april love,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1957
+789,tammy and the bachelor,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1957
+790,gunfight at the o.k. corral,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1957
+791,les girls,O,O,N,O,W,O,O,O,O,O,O,O,O,O,N,1957
+792,pal joey,O,O,N,O,N,O,N,O,O,O,O,O,O,O,N,1957
+793,funny face,O,O,N,N,N,O,O,O,O,O,O,O,O,O,O,1957
+794,the enemy below,O,O,O,O,O,O,O,W,O,O,O,O,O,O,O,1957
+795,the spirit of st. louis,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1957
+796,gigi,O,O,W,W,W,W,W,O,W,W,O,O,W,W,O,1958
+797,auntie mame,O,N,N,N,O,O,N,O,O,N,O,N,O,O,O,1958
+798,cat on a hot tin roof,N,N,O,N,O,N,O,O,O,N,O,O,N,O,O,1958
+799,the defiant ones,N,O,O,W,O,N,N,O,O,N,N,N,O,O,O,1958
+800,separate tables,W,N,O,N,O,O,O,O,N,N,O,W,N,O,O,1958
+801,i want to live!,O,W,O,N,O,N,N,O,O,O,O,O,N,O,N,1958
+802,the inn of the sixth happiness,O,O,O,O,O,N,O,O,O,O,O,O,O,O,O,1958
+803,the old man and the sea,N,O,O,N,O,O,O,O,W,O,O,O,O,O,O,1958
+804,some came running,O,N,O,O,N,O,O,O,O,O,N,N,O,N,O,1958
+805,the big country,O,O,O,O,O,O,O,O,N,O,W,O,O,O,O,1958
+806,the brothers karamazov,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1958
+807,teacher's pet,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1958
+808,lonelyhearts,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1958
+809,the horse's mouth,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1958
+810,white wilderness,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1958
+811,the young lions,O,O,O,N,O,O,O,O,N,O,O,O,O,O,N,1958
+812,the bolshoi ballet,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1958
+813,damn yankees!,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1958
+814,mardi gras,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1958
+815,south pacific,O,O,O,N,O,O,O,O,N,O,O,O,O,O,W,1958
+816,houseboat,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1958
+817,a certain smile,O,O,N,O,N,O,O,O,O,O,O,O,O,N,O,1958
+818,marjorie morningstar,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1958
+819,a time to love and a time to die,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1958
+820,vertigo,O,O,N,O,O,O,O,O,O,O,O,O,O,O,N,1958
+821,"bell, book and candle",O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1958
+822,the buccaneer,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1958
+823,desire under the elms,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1958
+824,cowboy,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1958
+825,tom thumb,O,O,O,O,O,O,O,W,O,O,O,O,O,O,O,1958
+826,torpedo run,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1958
+827,ben-hur,W,O,W,W,W,W,W,W,W,W,W,O,N,O,W,1959
+828,anatomy of a murder,N,O,O,N,O,O,N,O,O,N,N,O,N,O,O,1959
+829,the diary of anne frank,O,O,W,W,N,N,O,O,N,N,N,W,O,O,O,1959
+830,the nun's story,O,N,O,N,O,N,N,O,N,N,O,O,N,O,N,1959
+831,room at the top,N,W,O,O,O,N,O,O,O,N,O,N,W,O,O,1959
+832,some like it hot,N,O,N,N,W,N,O,O,O,O,O,O,N,O,O,1959
+833,the last angry man,N,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1959
+834,pillow talk,O,N,N,O,O,O,O,O,N,O,O,N,O,O,O,1959
+835,"suddenly, last summer",O,N,N,O,O,O,O,O,O,O,O,O,O,O,O,1959
+836,the young philadelphians,O,O,O,N,N,O,O,O,O,O,N,O,O,O,O,1959
+837,imitation of life,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1959
+838,on the beach,O,O,O,O,O,O,N,O,N,O,O,O,O,O,O,1959
+839,porgy and bess,O,O,O,N,N,O,O,O,W,O,O,O,O,O,N,1959
+840,the five pennies,O,O,O,N,N,O,O,O,N,O,O,O,O,N,O,1959
+841,li'l abner,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1959
+842,say one for me,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1959
+843,sleeping beauty,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1959
+844,a hole in the head,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,1959
+845,the best of everything,O,O,O,O,N,O,O,O,O,O,O,O,O,N,O,1959
+846,the hanging tree,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1959
+847,the young land,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1959
+848,journey to the center of the earth,O,O,N,O,O,O,O,N,O,O,O,O,O,O,N,1959
+849,libel,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1959
+850,career,O,O,N,N,N,O,O,O,O,O,O,O,O,O,O,1959
+851,the big fisherman,O,O,N,N,N,O,O,O,O,O,O,O,O,O,O,1959
+852,north by northwest,O,O,N,O,O,O,N,O,O,O,O,O,O,O,O,1959
+853,the gazebo,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1959
+854,the apartment,N,N,W,N,O,W,W,O,O,W,N,O,O,O,N,1960
+855,the alamo,O,O,O,N,O,O,N,O,N,N,N,O,O,N,W,1960
+856,elmer gantry,W,O,O,O,O,O,O,O,N,N,O,W,W,O,O,1960
+857,sons and lovers,N,O,N,W,O,N,O,O,O,N,O,N,N,O,O,1960
+858,the sundowners,O,N,O,O,O,N,O,O,O,N,O,N,N,O,O,1960
+859,never on sunday,O,N,O,O,N,N,O,O,O,O,O,O,O,W,O,1960
+860,psycho,O,O,N,N,O,N,O,O,O,O,O,N,O,O,O,1960
+861,the entertainer,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1960
+862,inherit the wind,N,O,O,N,O,O,N,O,O,O,O,O,N,O,O,1960
+863,butterfield 8,O,W,O,N,O,O,O,O,O,O,O,O,O,O,O,1960
+864,sunrise at campobello,O,N,N,O,N,O,O,O,O,O,O,O,O,O,N,1960
+865,spartacus,O,O,W,W,W,O,N,O,N,O,W,O,O,O,O,1960
+866,"murder, inc.",O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1960
+867,exodus,O,O,O,N,O,O,O,O,W,O,N,O,O,O,O,1960
+868,the dark at the top of the stairs,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1960
+869,tunes of glory,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1960
+870,the magnificent seven,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1960
+871,song without end,O,O,O,O,O,O,O,O,W,O,O,O,O,O,O,1960
+872,bells are ringing,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1960
+873,can-can,O,O,O,O,N,O,O,O,N,O,O,O,O,O,O,1960
+874,let's make love,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1960
+875,pepe,O,O,N,N,N,O,N,O,N,O,O,O,O,N,N,1960
+876,high time,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1960
+877,the facts of life,O,O,N,N,W,O,O,O,O,O,O,O,O,N,O,1960
+878,cimarron,O,O,N,O,O,O,O,O,O,O,O,O,O,O,N,1960
+879,visit to a small planet,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1960
+880,it started in naples,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1960
+881,the rise and fall of legs diamond,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1960
+882,seven thieves,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1960
+883,the virgin spring,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1960
+884,midnight lace,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1960
+885,the time machine,O,O,O,O,O,O,O,W,O,O,O,O,O,O,O,1960
+886,the last voyage,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1960
+887,west side story,O,O,W,W,W,W,W,O,W,W,W,W,N,O,W,1961
+888,fanny,N,O,O,N,O,O,N,O,N,N,O,O,O,O,O,1961
+889,the guns of navarone,O,O,O,O,O,N,N,W,N,N,O,O,N,O,N,1961
+890,the hustler,N,N,W,W,O,N,O,O,O,N,N,O,N,O,O,1961
+891,judgment at nuremberg,WN,O,N,N,N,N,N,O,O,N,N,N,W,O,O,1961
+892,la dolce vita,O,O,N,O,W,N,O,O,O,O,O,O,O,O,O,1961
+893,the mark,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1961
+894,two women,O,W,O,O,O,O,O,O,O,O,O,O,O,O,O,1961
+895,breakfast at tiffany's,O,N,N,O,O,O,O,O,W,O,O,O,N,W,O,1961
+896,summer and smoke,O,N,N,O,O,O,O,O,N,O,O,N,O,O,O,1961
+897,splendor in the grass,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1961
+898,pocketful of miracles,O,O,O,O,N,O,O,O,O,O,N,O,O,N,O,1961
+899,the children's hour,O,O,N,N,N,O,O,O,O,O,O,N,O,O,N,1961
+900,the roman spring of mrs. stone,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1961
+901,el cid,O,O,N,O,O,O,O,O,N,O,O,O,O,N,O,1961
+902,babes in toyland,O,O,O,O,N,O,O,O,N,O,O,O,O,O,O,1961
+903,flower drum song,O,O,N,N,N,O,O,O,N,O,O,O,O,O,N,1961
+904,khovanshchina,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1961
+905,paris blues,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1961
+906,bachelor in paradise,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1961
+907,town without pity,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1961
+908,the parent trap,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1961
+909,the absent-minded professor,O,O,N,N,O,O,O,N,O,O,O,O,O,O,O,1961
+910,"one, two, three",O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1961
+911,a majority of one,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1961
+912,one-eyed jacks,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1961
+913,claudelle inglish,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1961
+914,yojimbo,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1961
+915,back street,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1961
+916,lawrence of arabia,N,O,W,W,O,W,W,O,W,W,N,O,N,O,W,1962
+917,the longest day,O,O,N,W,O,O,N,W,O,N,O,O,O,O,O,1962
+918,the music man[3],O,O,O,O,O,O,O,O,O,N,O,O,O,O,O,1962
+919,mutiny on the bounty,O,O,N,N,O,O,N,N,N,N,O,O,O,N,O,1962
+920,to kill a mockingbird,W,O,W,N,O,N,O,O,N,N,O,N,W,O,O,1962
+921,david and lisa,O,O,O,O,O,N,O,O,O,O,O,O,N,O,O,1962
+922,divorce italian style,N,O,O,O,O,N,O,O,O,O,O,O,O,O,O,1962
+923,the miracle worker,O,W,O,O,N,N,O,O,O,O,O,W,N,O,O,1962
+924,birdman of alcatraz,N,O,O,N,O,O,O,O,O,O,N,N,O,O,O,1962
+925,days of wine and roses,N,N,N,O,N,O,O,O,O,O,O,O,O,W,O,1962
+926,what ever happened to baby jane?,O,N,O,N,W,O,O,O,O,O,N,O,O,O,N,1962
+927,long day's journey into night,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1962
+928,sweet bird of youth,O,N,O,O,O,O,O,O,O,O,W,N,O,O,O,1962
+929,billy budd,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1962
+930,the manchurian candidate,O,O,O,O,O,O,N,O,O,O,O,N,O,O,O,1962
+931,lolita,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1962
+932,freud,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1962
+933,taras bulba,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1962
+934,meredith willson's the music man,O,O,N,O,N,O,N,O,W,O,O,O,O,O,N,1962
+935,billy rose's jumbo,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1962
+936,gigot,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1962
+937,gypsy,O,O,O,N,N,O,O,O,N,O,O,O,O,O,O,1962
+938,the wonderful world of the brothers grimm,O,O,N,N,W,O,O,O,N,O,O,O,O,O,O,1962
+939,two for the seesaw,O,O,O,N,O,O,O,O,O,O,O,O,O,N,O,1962
+940,tender is the night,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1962
+941,walk on the wild side,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1962
+942,bon voyage!,O,O,O,O,N,O,O,O,O,O,O,O,O,O,N,1962
+943,that touch of mink,O,O,N,O,O,O,O,O,O,O,O,O,O,O,N,1962
+944,period of adjustment,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1962
+945,the pigeon that took rome,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1962
+946,hatari!,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1962
+947,the man who shot liberty valance,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1962
+948,phaedra,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1962
+949,my geisha,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1962
+950,tom jones,N,O,N,O,O,W,O,O,W,W,N,N,W,O,O,1963
+951,america america,O,O,W,O,O,N,O,O,O,N,O,O,O,O,O,1963
+952,cleopatra,N,O,W,W,W,O,N,W,N,N,O,O,O,O,N,1963
+953,how the west was won,O,O,N,N,N,O,W,O,N,N,O,O,O,O,W,1963
+954,lilies of the field,W,O,O,N,O,O,O,O,O,N,O,N,N,O,O,1963
+955,8½,O,O,N,O,W,N,O,O,O,O,O,O,O,O,O,1963
+956,the cardinal,O,O,N,N,N,N,N,O,O,O,N,O,O,O,O,1963
+957,hud,N,W,N,W,O,N,O,O,O,O,W,O,N,O,O,1963
+958,this sporting life,N,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1963
+959,the l-shaped room,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1963
+960,irma la douce,O,N,O,N,O,O,O,O,W,O,O,O,O,O,O,1963
+961,love with the proper stranger,O,N,N,N,N,O,O,O,O,O,O,O,O,O,O,1963
+962,twilight of honor,O,O,N,O,O,O,O,O,O,O,N,O,O,O,O,1963
+963,"captain newman, m.d.",O,O,O,O,O,O,O,O,O,O,N,O,N,O,N,1963
+964,the v.i.p.s,O,O,O,O,O,O,O,O,O,O,O,W,O,O,O,1963
+965,sundays and cybele,O,O,O,O,O,O,O,O,N,O,O,O,N,O,O,1963
+966,papa's delicate condition,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,1963
+967,charade,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1963
+968,"it's a mad, mad, mad, mad world",O,O,O,N,O,O,N,W,N,O,O,O,O,N,N,1963
+969,mondo cane,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1963
+970,55 days at peking,O,O,O,O,O,O,O,O,N,O,O,O,O,N,O,1963
+971,bye bye birdie,O,O,O,O,O,O,O,O,N,O,O,O,O,O,N,1963
+972,a new kind of love,O,O,O,O,N,O,O,O,N,O,O,O,O,O,O,1963
+973,the sword in the stone,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1963
+974,a gathering of eagles,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1963
+975,come blow your horn,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1963
+976,the balcony,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1963
+977,the caretakers,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1963
+978,the stripper,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1963
+979,toys in the attic,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1963
+980,wives and lovers,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1963
+981,the leopard,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1963
+982,the great escape,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1963
+983,the birds,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1963
+984,my fair lady,W,O,W,W,W,W,N,O,W,W,N,N,N,O,W,1964
+985,becket,N,O,N,N,N,N,N,O,N,N,N,O,W,O,N,1964
+986,dr. strangelove,N,O,O,O,O,N,O,O,O,N,O,O,N,O,O,1964
+987,mary poppins,O,W,N,N,N,N,W,W,N,N,O,O,N,W,N,1964
+988,zorba the greek,N,O,W,W,O,N,O,O,O,N,O,W,N,O,O,1964
+989,the pumpkin eater,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1964
+990,marriage italian style,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1964
+991,the unsinkable molly brown,O,N,N,N,N,O,O,O,N,O,O,O,O,O,N,1964
+992,séance on a wet afternoon,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1964
+993,topkapi,O,O,O,O,O,O,O,O,O,O,W,O,O,O,O,1964
+994,seven days in may,O,O,N,O,O,O,O,O,O,O,N,O,O,O,O,1964
+995,the best man,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1964
+996,the chalk garden,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1964
+997,the night of the iguana,O,O,N,N,W,O,O,O,O,O,O,N,O,O,O,1964
+998,"hush...hush, sweet charlotte",O,O,N,N,N,O,N,O,N,O,O,N,O,N,O,1964
+999,dear heart,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1964
+1000,robin and the 7 hoods,O,O,O,O,O,O,O,O,N,O,O,O,O,N,O,1964
+1001,where love has gone,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1964
+1002,the fall of the roman empire,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1964
+1003,the pink panther,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1964
+1004,a hard day's night,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1964
+1005,goldfinger,O,O,O,O,O,O,O,W,O,O,O,O,O,O,O,1964
+1006,the lively set,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1964
+1007,father goose,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1964
+1008,the americanization of emily,O,O,N,N,O,O,O,O,O,O,O,O,O,O,O,1964
+1009,what a way to go!,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1964
+1010,fate is the hunter,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1964
+1011,cheyenne autumn,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1964
+1012,a house is not a home,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1964
+1013,kisses for my president,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1964
+1014,the visit,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1964
+1015,7 faces of dr. lao,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1964
+1016,the sound of music,O,N,N,N,N,W,W,O,W,W,O,N,O,O,W,1965
+1017,darling,O,W,O,O,W,N,O,O,O,N,O,O,O,O,O,1965
+1018,doctor zhivago,O,O,W,W,W,N,N,O,W,N,N,O,W,O,N,1965
+1019,ship of fools,N,N,W,W,N,O,O,O,O,N,N,O,N,O,O,1965
+1020,a thousand clowns,O,O,O,O,O,O,O,O,N,N,W,O,N,O,O,1965
+1021,the collector,O,N,O,O,O,N,O,O,O,O,O,O,N,O,O,1965
+1022,woman in the dunes,O,O,O,O,O,N,O,O,O,O,O,O,O,O,O,1965
+1023,cat ballou,W,O,O,O,O,O,N,O,N,O,O,O,N,N,O,1965
+1024,the spy who came in from the cold,N,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1965
+1025,othello,N,O,O,O,O,O,O,O,O,O,N,N,O,O,O,1965
+1026,the pawnbroker,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1965
+1027,a patch of blue,O,N,N,N,O,O,O,O,N,O,O,W,O,O,O,1965
+1028,the flight of the phoenix,O,O,O,O,O,O,N,O,O,O,N,O,O,O,O,1965
+1029,inside daisy clover,O,O,N,O,N,O,O,O,O,O,O,N,O,O,O,1965
+1030,the sandpiper,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,1965
+1031,the umbrellas of cherbourg,O,O,O,O,O,O,O,O,N,O,O,O,O,N,O,1965
+1032,the great race,O,O,O,N,O,O,N,W,O,O,O,O,O,N,N,1965
+1033,what's new pussycat?,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1965
+1034,the agony and the ecstasy,O,O,N,N,N,O,O,O,N,O,O,O,O,O,N,1965
+1035,the greatest story ever told,O,O,N,N,N,O,O,N,N,O,O,O,O,O,O,1965
+1036,the pleasure seekers,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1965
+1037,von ryan's express,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1965
+1038,shenandoah,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1965
+1039,king rat,O,O,N,N,O,O,O,O,O,O,O,O,O,O,O,1965
+1040,the slender thread,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1965
+1041,in harm's way,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1965
+1042,morituri,O,O,O,N,N,O,O,O,O,O,O,O,O,O,O,1965
+1043,a rage to live,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1965
+1044,thunderball,O,O,O,O,O,O,O,W,O,O,O,O,O,O,O,1965
+1045,a man for all seasons,W,O,O,W,W,W,O,O,O,W,N,N,W,O,O,1966
+1046,alfie,N,O,O,O,O,O,O,O,O,N,O,N,N,N,O,1966
+1047,"the russians are coming, the russians are coming",N,O,O,O,O,O,N,O,O,N,O,O,N,O,O,1966
+1048,the sand pebbles,N,O,N,N,O,O,N,O,N,N,N,O,O,O,N,1966
+1049,who's afraid of virginia woolf?,N,W,W,W,W,N,N,O,N,N,N,W,N,O,N,1966
+1050,blowup,O,O,O,O,O,N,O,O,O,O,O,O,O,O,O,1966
+1051,a man and a woman,O,N,O,O,O,N,O,O,O,O,O,O,O,O,O,1966
+1052,the professionals,O,O,O,N,O,N,O,O,O,O,O,O,N,O,O,1966
+1053,the shop on main street,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1966
+1054,georgy girl,O,N,O,N,O,O,O,O,O,O,N,O,O,N,O,1966
+1055,morgan!,O,N,O,O,N,O,O,O,O,O,O,O,O,O,O,1966
+1056,the fortune cookie,O,O,N,N,O,O,O,O,O,O,W,O,O,O,O,1966
+1057,hawaii,O,O,O,N,N,O,O,N,N,O,O,N,O,N,N,1966
+1058,you're a big boy now,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1966
+1059,born free,O,O,O,O,O,O,O,O,W,O,O,O,O,W,O,1966
+1060,an american dream,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1966
+1061,the bible: in the beginning...,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1966
+1062,a funny thing happened on the way to the forum,O,O,O,O,O,O,O,O,W,O,O,O,O,O,O,1966
+1063,the gospel according to st. matthew,O,O,N,O,N,O,O,O,N,O,O,O,O,O,O,1966
+1064,return of the seven,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1966
+1065,the singing nun,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1966
+1066,stop the world  i want to get off,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1966
+1067,grand prix,O,O,O,O,O,O,W,W,O,O,O,O,O,O,W,1966
+1068,fantastic voyage,O,O,W,N,O,O,N,W,O,O,O,O,O,O,O,1966
+1069,gambit,O,O,N,O,N,O,O,O,O,O,O,O,O,O,N,1966
+1070,is paris burning?,O,O,N,N,O,O,O,O,O,O,O,O,O,O,O,1966
+1071,mister buddwing,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1966
+1072,juliet of the spirits,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1966
+1073,the oscar,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1966
+1074,seconds,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1966
+1075,mandragola,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1966
+1076,in the heat of the night,W,O,O,O,O,N,W,N,O,W,O,O,W,O,W,1967
+1077,bonnie and clyde,N,N,O,W,N,N,O,O,O,N,N,W,O,O,O,1967
+1078,doctor dolittle,O,O,N,N,O,O,N,W,N,N,O,O,O,W,N,1967
+1079,the graduate,N,N,O,N,O,W,O,O,O,N,O,N,N,O,O,1967
+1080,guess who's coming to dinner,N,W,N,O,O,N,N,O,N,N,N,N,O,O,O,1967
+1081,in cold blood,O,O,O,N,O,N,O,O,N,O,O,O,N,O,O,1967
+1082,cool hand luke,N,O,O,O,O,O,O,O,N,O,W,O,N,O,O,1967
+1083,the whisperers,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1967
+1084,wait until dark,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1967
+1085,the dirty dozen,O,O,O,O,O,O,N,W,O,O,N,O,O,O,N,1967
+1086,thoroughly modern millie,O,O,N,O,N,O,O,O,N,O,O,N,O,N,N,1967
+1087,barefoot in the park,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1967
+1088,ulysses,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1967
+1089,far from the madding crowd,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1967
+1090,camelot,O,O,W,N,W,O,O,O,W,O,O,O,O,O,N,1967
+1091,valley of the dolls,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1967
+1092,the jungle book,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1967
+1093,banning,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1967
+1094,casino royale,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1967
+1095,the happiest millionaire,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1967
+1096,the taming of the shrew,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1967
+1097,beach red,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1967
+1098,tobruk,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1967
+1099,oliver!,N,O,W,N,N,W,N,O,W,W,N,O,N,O,W,1968
+1100,funny girl,O,W,O,N,O,O,N,O,N,N,O,N,O,N,N,1968
+1101,the lion in winter,N,W,O,O,N,N,O,O,W,N,O,O,W,O,O,1968
+1102,"rachel, rachel",O,N,O,O,O,O,O,O,O,N,O,N,N,O,O,1968
+1103,romeo and juliet,O,O,O,W,W,N,O,O,O,N,O,O,O,O,O,1968
+1104,2001: a space odyssey,O,O,N,O,O,N,O,W,O,O,O,O,O,O,O,1968
+1105,the battle of algiers,O,O,O,O,O,N,O,O,O,O,O,O,O,O,O,1968
+1106,charly,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1968
+1107,the heart is a lonely hunter,N,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1968
+1108,the fixer,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1968
+1109,the subject was roses,O,N,O,O,O,O,O,O,O,O,W,O,O,O,O,1968
+1110,isadora,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1968
+1111,faces,O,O,O,O,O,O,O,O,O,O,N,N,O,O,O,1968
+1112,star!,O,O,N,N,N,O,O,O,N,O,N,O,O,N,N,1968
+1113,the producers,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1968
+1114,rosemary's baby,O,O,O,O,O,O,O,O,O,O,O,W,N,O,O,1968
+1115,the odd couple,O,O,O,O,O,O,N,O,O,O,O,O,N,O,O,1968
+1116,the fox,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1968
+1117,planet of the apes,O,O,O,O,N,O,O,O,N,O,O,O,O,O,O,1968
+1118,the shoes of the fisherman,O,O,N,O,O,O,O,O,N,O,O,O,O,O,O,1968
+1119,the thomas crown affair,O,O,O,O,O,O,O,O,N,O,O,O,O,W,O,1968
+1120,finian's rainbow,O,O,O,O,O,O,O,O,N,O,O,O,O,O,N,1968
+1121,the young girls of rochefort,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1968
+1122,chitty chitty bang bang,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1968
+1123,for love of ivy,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1968
+1124,bullitt,O,O,O,O,O,O,W,O,O,O,O,O,O,O,N,1968
+1125,war and peace,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1968
+1126,ice station zebra,O,O,O,N,O,O,O,N,O,O,O,O,O,O,O,1968
+1127,wild in the streets,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1968
+1128,midnight cowboy,N,O,O,O,O,W,N,O,O,W,O,N,W,O,O,1969
+1129,anne of the thousand days,N,N,N,N,W,O,O,O,N,N,N,O,N,O,N,1969
+1130,butch cassidy and the sundance kid,O,O,O,W,O,N,O,O,W,N,O,O,O,W,N,1969
+1131,"hello, dolly!",O,O,W,N,N,O,N,O,W,N,O,O,O,O,W,1969
+1132,z,O,O,O,O,O,N,W,O,O,N,O,O,N,O,O,1969
+1133,alice's restaurant,O,O,O,O,O,N,O,O,O,O,O,O,O,O,O,1969
+1134,"they shoot horses, don't they?",O,N,N,O,N,N,N,O,N,O,W,N,N,O,O,1969
+1135,true grit,W,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1969
+1136,"goodbye, mr. chips",N,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1969
+1137,the prime of miss jean brodie,O,W,O,O,O,O,O,O,O,O,O,O,O,N,O,1969
+1138,the sterile cuckoo,O,N,O,O,O,O,O,O,O,O,O,O,O,N,O,1969
+1139,the happy ending,O,N,O,O,O,O,O,O,O,O,O,O,O,N,O,1969
+1140,the reivers,O,O,O,O,O,O,O,O,N,O,N,O,O,O,O,1969
+1141,bob & carol & ted & alice,O,O,O,N,O,O,O,O,O,O,N,N,O,O,O,1969
+1142,easy rider,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1969
+1143,cactus flower,O,O,O,O,O,O,O,O,O,O,O,W,O,O,O,1969
+1144,last summer,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1969
+1145,"goodbye, columbus",O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1969
+1146,the secret of santa vittoria,O,O,O,O,O,O,N,O,N,O,O,O,O,O,O,1969
+1147,the wild bunch,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1969
+1148,paint your wagon,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1969
+1149,sweet charity,O,O,N,O,N,O,O,O,N,O,O,O,O,O,O,1969
+1150,"gaily, gaily",O,O,N,O,N,O,O,O,O,O,O,O,O,O,N,1969
+1151,marooned,O,O,O,N,O,O,O,W,O,O,O,O,O,O,N,1969
+1152,"krakatoa, east of java",O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1969
+1153,patton,W,O,W,N,O,W,W,N,N,W,O,O,O,O,W,1970
+1154,airport,O,O,N,N,N,O,N,O,N,N,O,WN,N,O,N,1970
+1155,five easy pieces,N,O,O,O,O,O,O,O,O,N,O,N,O,O,O,1970
+1156,love story,N,N,O,O,O,N,O,O,W,N,N,O,O,O,O,1970
+1157,m*a*s*h,O,O,O,O,O,N,N,O,O,N,O,N,W,O,O,1970
+1158,fellini satyricon,O,O,O,O,O,N,O,O,O,O,O,O,O,O,O,1970
+1159,women in love,O,W,O,N,O,N,O,O,O,O,O,O,N,O,O,1970
+1160,i never sang for my father,N,O,O,O,O,O,O,O,O,O,N,O,N,O,O,1970
+1161,the great white hope,N,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1970
+1162,ryan's daughter,O,N,O,W,O,O,O,O,O,O,W,O,O,O,N,1970
+1163,diary of a mad housewife,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1970
+1164,lovers and other strangers,O,O,O,O,O,O,O,O,O,O,N,O,N,W,O,1970
+1165,little big man,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1970
+1166,the landlord,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1970
+1167,cromwell,O,O,O,O,W,O,O,O,N,O,O,O,O,O,O,1970
+1168,i girasoli,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1970
+1169,let it be,O,O,O,O,O,O,O,O,W,O,O,O,O,O,O,1970
+1170,the baby maker,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1970
+1171,a boy named charlie brown,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1970
+1172,darling lili,O,O,O,O,N,O,O,O,N,O,O,O,O,N,O,1970
+1173,scrooge,O,O,N,O,N,O,O,O,N,O,O,O,O,N,O,1970
+1174,madron,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1970
+1175,pieces of dreams,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1970
+1176,tora! tora! tora!,O,O,N,N,O,O,N,W,O,O,O,O,O,O,N,1970
+1177,woodstock,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1970
+1178,the hawaiians,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1970
+1179,the molly maguires,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1970
+1180,the french connection,W,O,O,N,O,W,W,O,O,W,N,O,W,O,N,1971
+1181,a clockwork orange,O,O,O,O,O,N,N,O,O,N,O,O,N,O,O,1971
+1182,fiddler on the roof,N,O,N,W,O,N,O,O,W,N,N,O,O,O,W,1971
+1183,the last picture show,O,O,O,N,O,N,O,O,O,N,WN,WN,N,O,O,1971
+1184,nicholas and alexandra,O,N,W,N,W,O,O,O,N,N,O,O,O,O,O,1971
+1185,sunday bloody sunday,N,N,O,O,O,N,O,O,O,O,O,O,O,O,O,1971
+1186,kotch,N,O,O,O,O,O,N,O,O,O,O,O,O,N,N,1971
+1187,the hospital,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1971
+1188,klute,O,W,O,O,O,O,O,O,O,O,O,O,O,O,O,1971
+1189,mccabe & mrs. miller,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1971
+1190,"mary, queen of scots",O,N,N,O,N,O,O,O,N,O,O,O,O,O,N,1971
+1191,sometimes a great notion,O,O,O,O,O,O,O,O,O,O,N,O,O,N,O,1971
+1192,carnal knowledge,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1971
+1193,who is harry kellerman and why is he saying those terrible things about me?,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1971
+1194,the go-between,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1971
+1195,the conformist,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1971
+1196,the garden of the finzi-continis,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1971
+1197,bedknobs and broomsticks,O,O,N,O,N,O,O,W,N,O,O,O,O,N,O,1971
+1198,death in venice,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1971
+1199,what's the matter with helen?,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1971
+1200,summer of '42,O,O,O,N,O,O,N,O,W,O,O,O,O,O,O,1971
+1201,shaft,O,O,O,O,O,O,O,O,N,O,O,O,O,W,O,1971
+1202,straw dogs,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1971
+1203,the boy friend,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1971
+1204,tchaikovsky,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1971
+1205,willy wonka & the chocolate factory,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1971
+1206,bless the beasts and children,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1971
+1207,diamonds are forever,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1971
+1208,the andromeda strain,O,O,N,O,O,O,N,O,O,O,O,O,O,O,O,1971
+1209,when dinosaurs ruled the earth,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1971
+1210,the godfather,W,O,O,O,N,N,N,,O,W,N,O,W,O,N,1972
+1211,cabaret,O,W,W,W,O,W,W,,W,N,W,O,N,O,W,1972
+1212,deliverance,O,O,O,O,O,N,N,,O,N,O,O,O,O,O,1972
+1213,the emigrants,O,N,O,O,O,N,O,,O,N,O,O,N,O,O,1972
+1214,sounder,N,N,O,O,O,O,O,,O,N,O,O,N,O,O,1972
+1215,sleuth,N,O,O,O,O,N,O,,N,O,O,O,O,O,O,1972
+1216,the ruling class,N,O,O,O,O,O,O,,O,O,O,O,O,O,O,1972
+1217,lady sings the blues,O,N,N,O,N,O,O,,N,O,O,O,N,O,O,1972
+1218,travels with my aunt,O,N,N,N,W,O,O,,O,O,O,O,O,O,O,1972
+1219,the heartbreak kid,O,O,O,O,O,O,O,,O,O,N,N,O,O,O,1972
+1220,butterflies are free,O,O,O,N,O,O,O,,O,O,O,W,O,O,N,1972
+1221,pete 'n' tillie,O,O,O,O,O,O,O,,O,O,O,N,N,O,O,1972
+1222,fat city,O,O,O,O,O,O,O,,O,O,O,N,O,O,O,1972
+1223,the poseidon adventure,O,O,N,N,N,O,N,,N,O,O,N,O,W,N,1972
+1224,the candidate,O,O,O,O,O,O,O,,O,O,O,O,W,O,N,1972
+1225,the discreet charm of the bourgeoisie,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1972
+1226,murmur of the heart,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1972
+1227,young winston,O,O,N,O,N,O,O,,O,O,O,O,N,O,O,1972
+1228,ben,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1972
+1229,the little ark,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1972
+1230,the life and times of judge roy bean,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1972
+1231,the stepmother,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1972
+1232,limelight,O,O,O,O,O,O,O,,W,O,O,O,O,O,O,1972
+1233,images,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1972
+1234,napoleon and samantha,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1972
+1235,man of la mancha,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1972
+1236,1776,O,O,O,N,O,O,O,,O,O,O,O,O,O,O,1972
+1237,the hot rock,O,O,O,O,O,O,N,,O,O,O,O,O,O,O,1972
+1238,the sting,N,O,W,N,W,W,W,,W,W,O,O,O,O,N,1973
+1239,american graffiti,O,O,O,O,O,N,N,,O,N,O,N,O,O,O,1973
+1240,cries and whispers,O,O,O,W,N,N,O,,O,N,O,O,O,O,O,1973
+1241,the exorcist,O,N,N,N,O,N,N,,O,N,N,N,W,O,W,1973
+1242,a touch of class,O,W,O,O,O,O,O,,N,N,O,O,O,N,O,1973
+1243,last tango in paris,N,O,O,O,O,N,O,,O,O,O,O,O,O,O,1973
+1244,save the tiger,W,O,O,O,O,O,O,,O,O,N,O,O,O,O,1973
+1245,the last detail,N,O,O,O,O,O,O,,O,O,N,O,N,O,O,1973
+1246,serpico,N,O,O,O,O,O,O,,O,O,O,O,N,O,O,1973
+1247,cinderella liberty,O,N,O,O,O,O,O,,N,O,O,O,O,N,O,1973
+1248,the way we were,O,N,N,N,N,O,O,,W,O,O,O,O,W,O,1973
+1249,"summer wishes, winter dreams",O,N,O,O,O,O,O,,O,O,O,N,O,O,O,1973
+1250,the paper chase,O,O,O,O,O,O,O,,O,O,W,O,N,O,N,1973
+1251,bang the drum slowly,O,O,O,O,O,O,O,,O,O,N,O,O,O,O,1973
+1252,paper moon,O,O,O,O,O,O,O,,O,O,O,WN,N,O,N,1973
+1253,the day of the dolphin,O,O,O,O,O,O,O,,N,O,O,O,O,O,N,1973
+1254,papillon,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1973
+1255,jesus christ superstar,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1973
+1256,tom sawyer,O,O,N,O,N,O,O,,N,O,O,O,O,O,O,1973
+1257,live and let die,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1973
+1258,robin hood,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1973
+1259,ludwig,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1973
+1260,"brother sun, sister moon",O,O,N,O,O,O,O,,O,O,O,O,O,O,O,1973
+1261,jonathan livingston seagull,O,O,O,N,O,O,N,,O,O,O,O,O,O,O,1973
+1262,the day of the jackal,O,O,O,O,O,O,N,,O,O,O,O,O,O,O,1973
+1263,the godfather part ii,N,O,W,O,N,W,O,,W,W,WN,N,W,O,O,1974
+1264,chinatown,N,N,N,N,N,N,N,,N,N,O,O,W,O,N,1974
+1265,the conversation,O,O,O,O,O,O,O,,O,N,O,O,N,O,N,1974
+1266,lenny,N,N,O,N,O,N,O,,O,N,O,O,N,O,O,1974
+1267,the towering inferno,O,O,N,W,O,O,W,,N,N,N,O,O,W,N,1974
+1268,day for night,O,O,O,O,O,N,O,,O,O,O,N,N,O,O,1974
+1269,a woman under the influence,O,N,O,O,O,N,O,,O,O,O,O,O,O,O,1974
+1270,harry and tonto,W,O,O,O,O,O,O,,O,O,O,O,N,O,O,1974
+1271,murder on the orient express,N,O,O,N,N,O,O,,N,O,O,W,N,O,O,1974
+1272,alice doesn't live here anymore,O,W,O,O,O,O,O,,O,O,O,N,N,O,O,1974
+1273,claudine,O,N,O,O,O,O,O,,O,O,O,O,O,O,O,1974
+1274,thunderbolt and lightfoot,O,O,O,O,O,O,O,,O,O,N,O,O,O,O,1974
+1275,blazing saddles,O,O,O,O,O,O,N,,O,O,O,N,O,N,O,1974
+1276,the apprenticeship of duddy kravitz,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1974
+1277,young frankenstein,O,O,O,O,O,O,O,,O,O,O,O,N,O,N,1974
+1278,shanks,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1974
+1279,the great gatsby,O,O,O,O,W,O,O,,W,O,O,O,O,O,O,1974
+1280,the little prince,O,O,O,O,O,O,O,,N,O,O,O,O,N,O,1974
+1281,phantom of the paradise,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1974
+1282,benji,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1974
+1283,gold,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1974
+1284,earthquake,O,O,N,N,O,O,N,,O,O,O,O,O,O,W,1974
+1285,daisy miller,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1974
+1286,the island at the top of the world,O,O,N,O,O,O,O,,O,O,O,O,O,O,O,1974
+1287,the longest yard,O,O,O,O,O,O,N,,O,O,O,O,O,O,O,1974
+1288,one flew over the cuckoo's nest,W,W,O,N,O,W,N,,N,W,N,O,W,O,O,1975
+1289,barry lyndon,O,O,W,W,W,N,O,,W,N,O,O,N,O,O,1975
+1290,dog day afternoon,N,O,O,O,O,N,N,,O,N,N,O,W,O,O,1975
+1291,jaws,O,O,O,O,O,O,W,,W,N,O,O,O,O,W,1975
+1292,nashville,O,O,O,O,O,N,O,,O,N,O,N,O,W,O,1975
+1293,amarcord,O,O,O,O,O,N,O,,O,O,O,O,N,O,O,1975
+1294,the sunshine boys,N,O,N,O,O,O,O,,O,O,W,O,N,O,O,1975
+1295,the man in the glass booth,N,O,O,O,O,O,O,,O,O,O,O,O,O,O,1975
+1296,"give 'em hell, harry!",N,O,O,O,O,O,O,,O,O,O,O,O,O,O,1975
+1297,the story of adele h.,O,N,O,O,O,O,O,,O,O,O,O,O,O,O,1975
+1298,tommy,O,N,O,O,O,O,O,,N,O,O,O,O,O,O,1975
+1299,hedda,O,N,O,O,O,O,O,,O,O,O,O,O,O,O,1975
+1300,hester street,O,N,O,O,O,O,O,,O,O,O,O,O,O,O,1975
+1301,the day of the locust,O,O,O,N,O,O,O,,O,O,N,O,O,O,O,1975
+1302,shampoo,O,O,N,O,O,O,O,,O,O,N,W,N,O,O,1975
+1303,"farewell, my lovely",O,O,O,O,O,O,O,,O,O,O,N,O,O,O,1975
+1304,jacqueline susann's once is not enough,O,O,O,O,O,O,O,,O,O,O,N,O,O,O,1975
+1305,and now my love,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1975
+1306,lies my father told me,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1975
+1307,the man who would be king,O,O,N,O,N,O,N,,O,O,O,O,N,O,O,1975
+1308,profumo di donna,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1975
+1309,"birds do it, bees do it",O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1975
+1310,bite the bullet,O,O,O,O,O,O,O,,N,O,O,O,O,O,N,1975
+1311,the wind and the lion,O,O,O,O,O,O,O,,N,O,O,O,O,O,N,1975
+1312,funny lady,O,O,O,N,N,O,O,,N,O,O,O,O,N,N,1975
+1313,whiffs,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1975
+1314,the other side of the mountain,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1975
+1315,mahogany,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1975
+1316,the hindenburg,O,O,N,N,O,O,O,,O,O,O,O,O,O,N,1975
+1317,the four musketeers,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1975
+1318,the magic flute,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1975
+1319,three days of the condor,O,O,O,O,O,O,N,,O,O,O,O,O,O,O,1975
+1320,rocky,N,N,O,O,O,W,W,,O,W,N,O,O,N,N,1976
+1321,all the president's men,O,O,W,O,O,N,N,,O,N,W,N,W,O,W,1976
+1322,bound for glory,O,O,O,W,N,O,N,,W,N,O,O,N,O,O,1976
+1323,network,WN,W,O,N,O,N,N,,O,N,N,W,O,O,O,1976
+1324,taxi driver,N,O,O,O,O,O,O,,N,N,O,N,O,O,O,1976
+1325,face to face,O,N,O,O,O,N,O,,O,O,O,O,O,O,O,1976
+1326,seven beauties,N,O,O,O,O,N,O,,O,O,O,O,O,O,O,1976
+1327,cousin cousine,O,N,O,O,O,O,O,,O,O,O,O,O,O,O,1976
+1328,carrie,O,N,O,O,O,O,O,,O,O,O,N,O,O,O,1976
+1329,marathon man,O,O,O,O,O,O,O,,O,O,N,O,O,O,O,1976
+1330,voyage of the damned,O,O,O,O,O,O,O,,N,O,O,N,N,O,O,1976
+1331,fellini's casanova,O,O,O,O,W,O,O,,O,O,O,O,N,O,O,1976
+1332,the seven-per-cent solution,O,O,O,O,N,O,O,,O,O,O,O,N,O,O,1976
+1333,the omen,O,O,O,O,O,O,O,,W,O,O,O,O,N,O,1976
+1334,obsession,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1976
+1335,the outlaw josey wales,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1976
+1336,bugsy malone,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1976
+1337,a star is born,O,O,O,N,O,O,O,,N,O,O,O,O,W,N,1976
+1338,the pink panther strikes again,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1976
+1339,half a house,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1976
+1340,king kong,O,O,O,N,O,O,O,,O,O,O,O,O,O,N,1976
+1341,silver streak,O,O,O,O,O,O,O,,O,O,O,O,O,O,N,1976
+1342,the incredible sarah,O,O,N,O,N,O,O,,O,O,O,O,O,O,O,1976
+1343,the passover plot,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1976
+1344,the last tycoon,O,O,N,O,O,O,O,,O,O,O,O,O,O,O,1976
+1345,logan's run,O,O,N,N,O,O,O,,O,O,O,O,O,O,O,1976
+1346,the shootist,O,O,N,O,O,O,O,,O,O,O,O,O,O,O,1976
+1347,two-minute warning,O,O,O,O,O,O,N,,O,O,O,O,O,O,O,1976
+1348,annie hall,N,W,O,O,O,W,O,O,O,W,O,O,O,O,O,1977
+1349,the goodbye girl,W,N,O,O,O,O,O,O,O,N,O,N,O,O,O,1977
+1350,julia,O,N,O,N,N,N,N,O,N,N,WN,W,W,O,O,1977
+1351,star wars,O,O,W,O,W,N,W,W,W,N,N,O,O,O,W,1977
+1352,the turning point,O,N,N,N,O,N,N,O,O,N,N,N,O,O,N,1977
+1353,close encounters of the third kind,O,O,N,W,O,N,N,N,N,O,O,N,O,O,N,1977
+1354,equus,N,O,O,O,O,O,O,O,O,O,N,O,N,O,O,1977
+1355,a special day,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1977
+1356,saturday night fever,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1977
+1357,looking for mr. goodbar,O,O,O,N,O,O,O,O,O,O,O,N,O,O,O,1977
+1358,i never promised you a rose garden,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1977
+1359,"oh, god!",O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1977
+1360,that obscure object of desire,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1977
+1361,"mohammad, messenger of god",O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1977
+1362,the spy who loved me,O,O,N,O,O,O,O,O,N,O,O,O,O,N,O,1977
+1363,a little night music,O,O,O,O,N,O,O,O,W,O,O,O,O,O,O,1977
+1364,pete's dragon,O,O,O,O,O,O,O,O,N,O,O,O,O,N,O,1977
+1365,the slipper and the rose,O,O,O,O,O,O,O,O,N,O,O,O,O,N,O,1977
+1366,you light up my life,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,1977
+1367,the rescuers,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1977
+1368,the deep,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1977
+1369,sorcerer,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1977
+1370,airport '77,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1977
+1371,the other side of midnight,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1977
+1372,islands in the stream,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1977
+1373,smokey and the bandit,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1977
+1374,the deer hunter,N,O,O,N,O,W,W,,O,W,W,N,N,O,W,1978
+1375,coming home,W,W,O,O,O,N,N,,O,N,N,N,W,O,O,1978
+1376,heaven can wait,N,O,W,N,O,N,O,,N,N,N,N,N,O,O,1978
+1377,midnight express,O,O,O,O,O,N,N,,W,N,N,O,W,O,O,1978
+1378,an unmarried woman,O,N,O,O,O,O,O,,O,N,O,O,N,O,O,1978
+1379,interiors,O,N,N,O,O,N,O,,O,O,O,N,N,O,O,1978
+1380,the buddy holly story,N,O,O,O,O,O,O,,W,O,O,O,O,O,N,1978
+1381,the boys from brazil,N,O,O,O,O,O,N,,N,O,O,O,O,O,O,1978
+1382,autumn sonata,O,N,O,O,O,O,O,,O,O,O,O,N,O,O,1978
+1383,"same time, next year",O,N,O,N,O,O,O,,O,O,O,O,N,N,O,1978
+1384,comes a horseman,O,O,O,O,O,O,O,,O,O,N,O,O,O,O,1978
+1385,california suite,O,O,N,O,O,O,O,,O,O,O,W,N,O,O,1978
+1386,bloodbrothers,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1978
+1387,days of heaven,O,O,O,W,N,O,O,,N,O,O,O,O,O,N,1978
+1388,superman,O,O,O,O,O,O,N,,N,O,O,O,O,O,N,1978
+1389,pretty baby,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1978
+1390,the wiz,O,O,N,N,N,O,O,,N,O,O,O,O,O,O,1978
+1391,thank god it's friday,O,O,O,O,O,O,O,,O,O,O,O,O,W,O,1978
+1392,grease,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1978
+1393,foul play,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1978
+1394,the magic of lassie,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1978
+1395,hooper,O,O,O,O,O,O,O,,O,O,O,O,O,O,N,1978
+1396,death on the nile,O,O,O,O,W,O,O,,O,O,O,O,O,O,O,1978
+1397,caravans,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1978
+1398,the swarm,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1978
+1399,the brink's job,O,O,N,O,O,O,O,,O,O,O,O,O,O,O,1978
+1400,kramer vs. kramer,W,O,O,N,O,W,N,O,O,W,N,WN,W,O,O,1979
+1401,all that jazz,N,O,W,N,W,N,W,O,W,N,O,O,N,O,O,1979
+1402,apocalypse now,O,O,N,W,O,N,N,O,O,N,N,O,N,O,W,1979
+1403,breaking away,O,O,O,O,O,N,O,O,N,N,O,N,W,O,O,1979
+1404,norma rae,O,W,O,O,O,O,O,O,O,N,O,O,N,W,O,1979
+1405,la cage aux folles,O,O,O,O,N,N,O,O,O,O,O,O,N,O,O,1979
+1406,the china syndrome,N,N,N,O,O,O,O,O,O,O,O,O,N,O,O,1979
+1407,...and justice for all.,N,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1979
+1408,being there,N,O,O,O,O,O,O,O,O,O,W,O,O,O,O,1979
+1409,starting over,O,N,O,O,O,O,O,O,O,O,O,N,O,O,O,1979
+1410,chapter two,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1979
+1411,the rose,O,N,O,O,O,O,N,O,O,O,N,O,O,O,N,1979
+1412,the black stallion,O,O,O,O,O,O,N,O,O,O,N,O,O,O,O,1979
+1413,manhattan,O,O,O,O,O,O,O,O,O,O,O,N,N,O,O,1979
+1414,a little romance,O,O,O,O,O,O,O,O,W,O,O,O,N,O,O,1979
+1415,10,O,O,O,O,O,O,O,O,N,O,O,O,O,N,O,1979
+1416,the amityville horror,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1979
+1417,the champ,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1979
+1418,star trek: the motion picture,O,O,N,O,O,O,O,N,N,O,O,O,O,O,O,1979
+1419,the muppet movie,O,O,O,O,O,O,O,O,N,O,O,O,O,N,O,1979
+1420,the promise,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1979
+1421,ice castles,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1979
+1422,1941,O,O,O,N,O,O,O,N,O,O,O,O,O,O,N,1979
+1423,the electric horseman,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1979
+1424,meteor,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1979
+1425,agatha,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1979
+1426,butch and sundance: the early days,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1979
+1427,the europeans,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1979
+1428,alien,O,O,N,O,O,O,O,W,O,O,O,O,O,O,O,1979
+1429,the black hole,O,O,O,N,O,O,O,N,O,O,O,O,O,O,O,1979
+1430,moonraker,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1979
+1431,ordinary people,O,N,O,O,O,W,O,,O,W,WN,O,W,O,O,1980
+1432,coal miner's daughter,O,W,N,N,O,O,N,,O,N,O,O,N,O,N,1980
+1433,the elephant man,N,O,N,O,N,N,N,,N,N,O,O,N,O,O,1980
+1434,raging bull,W,O,O,N,O,N,W,,O,N,N,N,O,O,N,1980
+1435,tess,O,O,W,W,W,N,O,,N,N,O,O,O,O,O,1980
+1436,the stunt man,N,O,O,O,O,N,O,,O,O,O,O,N,O,O,1980
+1437,the great santini,N,O,O,O,O,O,O,,O,O,N,O,O,O,O,1980
+1438,tribute,N,O,O,O,O,O,O,,O,O,O,O,O,O,O,1980
+1439,resurrection,O,N,O,O,O,O,O,,O,O,O,N,O,O,O,1980
+1440,private benjamin,O,N,O,O,O,O,O,,O,O,O,N,N,O,O,1980
+1441,gloria,O,N,O,O,O,O,O,,O,O,O,O,O,O,O,1980
+1442,melvin and howard,O,O,O,O,O,O,O,,O,O,N,W,W,O,O,1980
+1443,inside moves,O,O,O,O,O,O,O,,O,O,O,N,O,O,O,1980
+1444,brubaker,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1980
+1445,fame,O,O,O,O,O,O,N,,W,O,O,O,N,WN,N,1980
+1446,mon oncle d'amerique,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1980
+1447,breaker morant,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1980
+1448,altered states,O,O,O,O,O,O,O,,N,O,O,O,O,O,N,1980
+1449,the empire strikes back,O,O,N,O,O,O,O,,N,O,O,O,O,O,W,1980
+1450,9 to 5,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1980
+1451,honeysuckle rose,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1980
+1452,the competition,O,O,O,O,O,O,N,,O,O,O,O,O,N,O,1980
+1453,my brilliant career,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1980
+1454,somewhere in time,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1980
+1455,when time ran out,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1980
+1456,kagemusha,O,O,N,O,O,O,O,,O,O,O,O,O,O,O,1980
+1457,the blue lagoon,O,O,O,N,O,O,O,,O,O,O,O,O,O,O,1980
+1458,the formula,O,O,O,N,O,O,O,,O,O,O,O,O,O,O,1980
+1459,chariots of fire,O,O,O,O,W,N,N,O,W,W,N,O,W,O,O,1981
+1460,atlantic city,N,N,O,O,O,N,O,O,O,N,O,O,N,O,O,1981
+1461,on golden pond,W,W,O,N,O,N,N,O,N,N,O,N,W,O,N,1981
+1462,raiders of the lost ark,O,O,W,N,O,N,W,W,N,N,O,O,O,O,W,1981
+1463,reds,N,N,N,W,N,W,N,O,O,N,N,W,N,O,N,1981
+1464,arthur,N,O,O,O,O,O,O,O,O,O,W,O,N,W,O,1981
+1465,absence of malice,N,O,O,O,O,O,O,O,O,O,O,N,N,O,O,1981
+1466,only when i laugh,O,N,O,O,O,O,O,O,O,O,N,N,O,O,O,1981
+1467,the french lieutenant's woman,O,N,N,O,N,O,N,O,O,O,O,O,N,O,O,1981
+1468,ragtime,O,O,N,N,N,O,O,O,N,O,N,N,N,N,O,1981
+1469,pennies from heaven,O,O,O,O,N,O,O,O,O,O,O,O,N,O,N,1981
+1470,prince of the city,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1981
+1471,dragonslayer,O,O,O,O,O,O,O,N,N,O,O,O,O,O,O,1981
+1472,endless love,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1981
+1473,the great muppet caper,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1981
+1474,for your eyes only,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1981
+1475,outland,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1981
+1476,heaven's gate,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1981
+1477,excalibur,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1981
+1478,gandhi,W,O,W,W,W,W,W,O,N,W,O,O,W,O,N,1982
+1479,e.t. the extra-terrestrial,O,O,O,N,O,N,N,W,W,N,O,O,N,O,W,1982
+1480,missing,N,N,O,O,O,O,O,O,O,N,O,O,W,O,O,1982
+1481,tootsie,N,O,O,N,O,N,N,O,O,N,O,WN,N,N,N,1982
+1482,the verdict,N,O,O,O,O,N,O,O,O,N,N,O,N,O,O,1982
+1483,das boot,O,O,O,N,O,N,N,O,O,O,O,O,N,O,N,1982
+1484,my favorite year,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1982
+1485,sophie's choice,O,W,O,N,N,O,O,O,N,O,O,O,N,O,O,1982
+1486,victor/victoria,O,N,N,O,N,O,O,O,W,O,N,N,N,O,O,1982
+1487,frances,O,N,O,O,O,O,O,O,O,O,O,N,O,O,O,1982
+1488,an officer and a gentleman,O,N,O,O,O,O,N,O,N,O,W,O,N,W,O,1982
+1489,the best little whorehouse in texas,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1982
+1490,the world according to garp,O,O,O,O,O,O,O,O,O,O,N,N,O,O,O,1982
+1491,diner,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1982
+1492,poltergeist,O,O,O,O,O,O,N,N,N,O,O,O,O,O,O,1982
+1493,annie,O,O,N,O,O,O,O,O,N,O,O,O,O,O,O,1982
+1494,one from the heart,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1982
+1495,rocky iii,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1982
+1496,best friends,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1982
+1497,"yes, giorgio",O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1982
+1498,tron,O,O,O,O,N,O,O,O,O,O,O,O,O,O,N,1982
+1499,la traviata,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1982
+1500,blade runner,O,O,N,O,O,O,O,N,O,O,O,O,O,O,O,1982
+1501,terms of endearment,O,WN,N,O,O,W,N,,N,W,WN,O,W,O,N,1983
+1502,the big chill,O,O,O,O,O,O,O,,O,N,O,N,N,O,O,1983
+1503,the dresser,N,O,O,O,O,N,O,,O,N,O,O,N,O,O,1983
+1504,the right stuff,O,O,N,N,O,O,W,,W,N,N,O,O,O,W,1983
+1505,tender mercies,W,O,O,O,O,N,O,,O,N,O,O,W,N,O,1983
+1506,fanny and alexander,O,O,W,W,W,N,O,,O,O,O,O,N,O,O,1983
+1507,silkwood,O,N,O,O,O,N,N,,O,O,O,N,N,O,O,1983
+1508,educating rita,N,N,O,O,O,O,O,,O,O,O,O,N,O,O,1983
+1509,"reuben, reuben",N,O,O,O,O,O,O,,O,O,O,O,N,O,O,1983
+1510,testament,O,N,O,O,O,O,O,,O,O,O,O,O,O,O,1983
+1511,to be or not to be,O,O,O,O,O,O,O,,O,O,N,O,O,O,O,1983
+1512,cross creek,O,O,O,O,N,O,O,,N,O,N,N,O,O,O,1983
+1513,the year of living dangerously,O,O,O,O,O,O,O,,O,O,O,W,O,O,O,1983
+1514,yentl,O,O,N,O,O,O,O,,W,O,O,N,O,N,O,1983
+1515,wargames,O,O,O,N,O,O,O,,O,O,O,O,N,O,N,1983
+1516,betrayal,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1983
+1517,return of the jedi,O,O,N,O,O,O,N,,N,O,O,O,O,O,N,1983
+1518,under fire,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1983
+1519,the sting ii,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1983
+1520,trading places,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1983
+1521,flashdance,O,O,O,N,O,O,N,,O,O,O,O,O,WN,O,1983
+1522,never cry wolf,O,O,O,O,O,O,O,,O,O,O,O,O,O,N,1983
+1523,heart like a wheel,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1983
+1524,the return of martin guerre,O,O,O,O,N,O,O,,O,O,O,O,O,O,O,1983
+1525,zelig,O,O,O,N,N,O,O,,O,O,O,O,O,O,O,1983
+1526,blue thunder,O,O,O,O,O,O,N,,O,O,O,O,O,O,O,1983
+1527,amadeus,WN,O,W,N,W,W,N,O,O,W,O,O,W,O,W,1984
+1528,the killing fields,N,O,O,W,O,N,W,O,O,N,W,O,N,O,O,1984
+1529,a passage to india,O,N,N,N,N,N,N,O,W,N,O,W,N,O,N,1984
+1530,places in the heart,O,W,O,O,N,N,O,O,O,N,N,N,W,O,O,1984
+1531,a soldier's story,O,O,O,O,O,O,O,O,O,N,O,O,N,O,O,1984
+1532,broadway danny rose,O,O,O,O,O,N,O,O,O,O,O,O,N,O,O,1984
+1533,starman,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1984
+1534,under the volcano,N,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1984
+1535,country,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1984
+1536,the bostonians,O,N,O,O,N,O,O,O,O,O,O,O,O,O,O,1984
+1537,the river,O,N,O,N,O,O,O,O,N,O,O,O,O,O,N,1984
+1538,a soldier's story as,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1984
+1539,the karate kid as,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1984
+1540,"greystoke: the legend of tarzan, lord of the apes as",O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1984
+1541,the natural as,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1984
+1542,swing shift as,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1984
+1543,the pope of greenwich village as,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1984
+1544,beverly hills cop,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1984
+1545,the north,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1984
+1546,splash,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1984
+1547,"greystoke: the legend of tarzan, lord of the apes",O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1984
+1548,indiana jones and the temple of doom,O,O,O,O,O,O,O,W,N,O,O,O,O,O,O,1984
+1549,the natural,O,O,N,N,O,O,O,O,N,O,O,O,O,O,O,1984
+1550,purple rain,O,O,O,O,O,O,O,O,W,O,O,O,O,O,O,1984
+1551,the muppets take manhattan,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1984
+1552,songwriter,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1984
+1553,the woman in red,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,1984
+1554,against all odds,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1984
+1555,footloose,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1984
+1556,ghostbusters,O,O,O,O,O,O,O,N,O,O,O,O,O,N,O,1984
+1557,2010,O,O,N,O,N,O,O,N,O,O,O,O,O,O,N,1984
+1558,dune,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1984
+1559,the cotton club,O,O,N,O,O,O,N,O,O,O,O,O,O,O,O,1984
+1560,romancing the stone,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1984
+1561,out of africa,O,N,W,W,N,W,N,O,W,W,N,O,W,O,W,1985
+1562,the color purple,O,N,N,N,N,O,O,O,N,N,O,N,N,N,O,1985
+1563,kiss of the spider woman,W,O,O,O,O,N,O,O,O,N,O,O,N,O,O,1985
+1564,prizzi's honor,N,O,O,O,N,N,N,O,O,N,N,W,N,O,O,1985
+1565,witness,N,O,N,N,O,N,W,O,N,N,O,O,W,O,O,1985
+1566,ran,O,O,N,N,W,N,O,O,O,O,O,O,O,O,O,1985
+1567,murphy's romance,N,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1985
+1568,runaway train,N,O,O,O,O,O,N,O,O,O,N,O,O,O,O,1985
+1569,the trip to bountiful,O,W,O,O,O,O,O,O,O,O,O,O,N,O,O,1985
+1570,agnes of god,O,N,O,O,O,O,O,O,N,O,O,N,O,O,O,1985
+1571,sweet dreams,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1985
+1572,cocoon,O,O,O,O,O,O,O,W,O,O,W,O,O,O,O,1985
+1573,jagged edge,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1985
+1574,twice in a lifetime,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1985
+1575,back to the future,O,O,O,O,O,O,W,O,O,O,O,O,N,N,N,1985
+1576,brazil,O,O,N,O,O,O,O,O,O,O,O,O,N,O,O,1985
+1577,the official story,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1985
+1578,the purple rose of cairo,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1985
+1579,silverado,O,O,O,O,O,O,O,O,N,O,O,O,O,O,N,1985
+1580,white nights,O,O,O,O,O,O,O,O,O,O,O,O,O,WN,O,1985
+1581,a chorus line,O,O,O,O,O,O,N,O,O,O,O,O,O,N,N,1985
+1582,ladyhawke,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1985
+1583,rambo: first blood part ii,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1985
+1584,the journey of natty gann,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1985
+1585,return to oz,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1985
+1586,young sherlock holmes,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1985
+1587,platoon,O,O,O,N,O,W,W,O,O,W,N,O,N,O,W,1986
+1588,children of a lesser god,N,W,O,O,O,O,O,O,O,N,O,N,N,O,O,1986
+1589,hannah and her sisters,O,O,N,O,O,N,N,O,O,N,W,W,W,O,O,1986
+1590,the mission,O,O,N,W,N,N,N,O,N,N,O,O,O,O,O,1986
+1591,a room with a view,O,O,W,N,W,N,O,O,O,N,N,N,W,O,O,1986
+1592,blue velvet,O,O,O,O,O,N,O,O,O,O,O,O,O,O,O,1986
+1593,the color of money,W,O,N,O,O,O,O,O,O,O,O,N,N,O,O,1986
+1594,round midnight,N,O,O,O,O,O,O,O,W,O,O,O,O,O,O,1986
+1595,mona lisa,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1986
+1596,salvador,N,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1986
+1597,the morning after,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1986
+1598,crimes of the heart,O,N,O,O,O,O,O,O,O,O,O,N,N,O,O,1986
+1599,peggy sue got married,O,N,O,N,N,O,O,O,O,O,O,O,O,O,O,1986
+1600,aliens,O,N,N,O,O,O,N,W,N,O,O,O,O,O,N,1986
+1601,hoosiers,O,O,O,O,O,O,O,O,N,O,N,O,O,O,O,1986
+1602,crocodile dundee,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1986
+1603,my beautiful laundrette,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1986
+1604,stand by me,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1986
+1605,star trek iv: the voyage home,O,O,O,N,O,O,N,O,N,O,O,O,O,O,N,1986
+1606,top gun,O,O,O,O,O,O,N,O,O,O,O,O,O,W,N,1986
+1607,the karate kid part ii,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1986
+1608,that's life!,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1986
+1609,little shop of horrors,O,O,O,O,O,O,O,N,O,O,O,O,O,N,O,1986
+1610,an american tail,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1986
+1611,heartbreak ridge,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1986
+1612,otello,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1986
+1613,pirates,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1986
+1614,poltergeist ii: the other side,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1986
+1615,the last emperor,O,O,W,W,W,W,W,O,W,W,O,O,W,O,W,1987
+1616,broadcast news,N,N,O,N,O,O,N,O,O,N,N,O,N,O,O,1987
+1617,fatal attraction,O,N,O,O,O,N,N,O,O,N,O,N,N,O,O,1987
+1618,hope and glory,O,O,N,N,O,N,O,O,O,N,O,O,N,O,O,1987
+1619,moonstruck,O,W,O,O,O,N,O,O,O,N,N,W,W,O,O,1987
+1620,my life as a dog,O,O,O,O,O,N,O,O,O,O,O,O,N,O,O,1987
+1621,wall street,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1987
+1622,dark eyes,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1987
+1623,ironweed,N,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1987
+1624,"good morning, vietnam",N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1987
+1625,anna,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1987
+1626,the untouchables,O,O,N,O,N,O,O,O,N,O,W,O,O,O,O,1987
+1627,street smart,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1987
+1628,cry freedom,O,O,O,O,O,O,O,O,N,O,N,O,O,N,O,1987
+1629,gaby: a true story,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1987
+1630,throw momma from the train,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1987
+1631,the whales of august,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1987
+1632,au revoir les enfants,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1987
+1633,radio days,O,O,N,O,O,O,O,O,O,O,O,O,N,O,O,1987
+1634,the dead,O,O,O,O,N,O,O,O,O,O,O,O,N,O,O,1987
+1635,full metal jacket,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1987
+1636,empire of the sun,O,O,N,N,N,O,N,O,N,O,O,O,O,O,N,1987
+1637,the witches of eastwick,O,O,O,O,O,O,O,O,N,O,O,O,O,O,N,1987
+1638,dirty dancing,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,1987
+1639,mannequin,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1987
+1640,beverly hills cop ii,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1987
+1641,the princess bride,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1987
+1642,lethal weapon,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1987
+1643,robocop,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1987
+1644,matewan,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1987
+1645,maurice,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1987
+1646,innerspace,O,O,O,O,O,O,O,W,O,O,O,O,O,O,O,1987
+1647,predator,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1987
+1648,rain man,W,O,N,N,O,W,N,O,N,W,O,O,W,O,O,1988
+1649,the accidental tourist,O,O,O,O,O,O,O,O,N,N,O,W,N,O,O,1988
+1650,dangerous liaisons,O,N,W,O,W,O,O,O,N,N,O,N,W,O,O,1988
+1651,mississippi burning,N,O,O,W,O,N,N,O,O,N,O,N,O,O,N,1988
+1652,working girl,O,N,O,O,O,N,O,O,O,N,O,N,O,W,O,1988
+1653,a fish called wanda,O,O,O,O,O,N,O,O,O,O,W,O,N,O,O,1988
+1654,the last temptation of christ,O,O,O,O,O,N,O,O,O,O,O,O,O,O,O,1988
+1655,big,N,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1988
+1656,stand and deliver,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1988
+1657,pelle the conqueror,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1988
+1658,the accused,O,W,O,O,O,O,O,O,O,O,O,O,O,O,O,1988
+1659,a cry in the dark,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1988
+1660,gorillas in the mist,O,N,O,O,O,O,N,O,N,O,O,O,N,O,N,1988
+1661,little dorrit,O,O,O,O,O,O,O,O,O,O,N,O,N,O,O,1988
+1662,tucker: the man and his dream,O,O,N,O,N,O,O,O,O,O,N,O,O,O,O,1988
+1663,running on empty,O,O,O,O,O,O,O,O,O,O,N,O,N,O,O,1988
+1664,married to the mob,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1988
+1665,bull durham,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1988
+1666,the unbearable lightness of being,O,O,O,N,O,O,O,O,O,O,O,O,N,O,O,1988
+1667,the milagro beanfield war,O,O,O,O,O,O,O,O,W,O,O,O,O,O,O,1988
+1668,bagdad cafe,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1988
+1669,buster,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1988
+1670,bird,O,O,O,O,O,O,O,O,O,O,O,O,O,O,W,1988
+1671,die hard,O,O,O,O,O,O,N,N,O,O,O,O,O,O,N,1988
+1672,who framed roger rabbit,O,O,N,N,O,O,W,W,O,O,O,O,O,O,N,1988
+1673,willow,O,O,O,O,O,O,N,N,O,O,O,O,O,O,O,1988
+1674,beaches,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1988
+1675,coming to america,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1988
+1676,a handful of dust,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1988
+1677,sunset,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1988
+1678,tequila sunrise,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1988
+1679,driving miss daisy,N,W,N,O,N,O,N,O,O,W,N,O,W,O,O,1989
+1680,born on the fourth of july,N,O,O,N,O,W,W,O,N,N,O,O,N,O,N,1989
+1681,dead poets society,N,O,O,O,O,N,O,O,O,N,O,O,W,O,O,1989
+1682,field of dreams,O,O,O,O,O,O,O,O,N,N,O,O,N,O,O,1989
+1683,my left foot,W,O,O,O,O,N,O,O,O,N,O,W,N,O,O,1989
+1684,crimes and misdemeanors,O,O,O,O,O,N,O,O,O,O,N,O,N,O,O,1989
+1685,henry v,N,O,O,O,W,N,O,O,O,O,O,O,O,O,O,1989
+1686,camille claudel,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1989
+1687,shirley valentine,O,N,O,O,O,O,O,O,O,O,O,O,O,N,O,1989
+1688,music box,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1989
+1689,the fabulous baker boys,O,N,O,N,O,O,N,O,N,O,O,O,O,O,O,1989
+1690,glory,O,O,N,W,O,O,N,O,O,O,W,O,O,O,W,1989
+1691,do the right thing,O,O,O,O,O,O,O,O,O,O,N,O,N,O,O,1989
+1692,a dry white season,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1989
+1693,"enemies, a love story",O,O,O,O,O,O,O,O,O,O,O,N,N,O,O,1989
+1694,steel magnolias,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1989
+1695,parenthood,O,O,O,O,O,O,O,O,O,O,O,N,O,N,O,1989
+1696,"sex, lies, and videotape",O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1989
+1697,when harry met sally...,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1989
+1698,the little mermaid,O,O,O,O,O,O,O,O,W,O,O,O,O,WN,O,1989
+1699,indiana jones and the last crusade,O,O,O,O,O,O,W,O,N,O,O,O,O,O,N,1989
+1700,chances are,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1989
+1701,black rain,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1989
+1702,lethal weapon 2,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1989
+1703,the abyss,O,O,N,N,O,O,O,W,O,O,O,O,O,O,N,1989
+1704,batman,O,O,W,O,O,O,O,O,O,O,O,O,O,O,O,1989
+1705,the adventures of baron munchausen,O,O,N,O,N,O,O,N,O,O,O,O,O,O,O,1989
+1706,blaze,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1989
+1707,harlem nights,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1989
+1708,valmont,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1989
+1709,the bear,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1989
+1710,back to the future part ii,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1989
+1711,dances with wolves,N,O,N,W,N,W,W,,W,W,N,N,W,O,W,1990
+1712,awakenings,N,O,O,O,O,O,O,,O,N,O,O,N,O,O,1990
+1713,ghost,O,O,O,O,O,O,N,,N,N,O,W,W,O,O,1990
+1714,the godfather part iii,O,O,N,N,O,N,N,,O,N,N,O,O,N,O,1990
+1715,goodfellas,O,O,O,O,O,N,N,,O,N,W,N,N,O,O,1990
+1716,the grifters,O,N,O,O,O,N,O,,O,O,O,N,N,O,O,1990
+1717,reversal of fortune,W,O,O,O,O,N,O,,O,O,O,O,N,O,O,1990
+1718,cyrano de bergerac,N,O,N,O,W,O,O,,O,O,O,O,O,O,O,1990
+1719,the field,N,O,O,O,O,O,O,,O,O,O,O,O,O,O,1990
+1720,misery,O,W,O,O,O,O,O,,O,O,O,O,O,O,O,1990
+1721,pretty woman,O,N,O,O,O,O,O,,O,O,O,O,O,O,O,1990
+1722,postcards from the edge,O,N,O,O,O,O,O,,O,O,O,O,O,N,O,1990
+1723,mr. and mrs. bridge,O,N,O,O,O,O,O,,O,O,O,O,O,O,O,1990
+1724,longtime companion,O,O,O,O,O,O,O,,O,O,N,O,O,O,O,1990
+1725,dick tracy,O,O,W,N,N,O,O,,O,O,N,O,O,W,N,1990
+1726,wild at heart,O,O,O,O,O,O,O,,O,O,O,N,O,O,O,1990
+1727,alice,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1990
+1728,avalon,O,O,O,N,N,O,O,,N,O,O,O,N,O,O,1990
+1729,green card,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1990
+1730,metropolitan,O,O,O,O,O,O,O,,O,O,O,O,N,O,O,1990
+1731,havana,O,O,O,O,O,O,O,,N,O,O,O,O,O,O,1990
+1732,home alone,O,O,O,O,O,O,O,,N,O,O,O,O,N,O,1990
+1733,young guns ii,O,O,O,O,O,O,O,,O,O,O,O,O,N,O,1990
+1734,days of thunder,O,O,O,O,O,O,O,,O,O,O,O,O,O,N,1990
+1735,the hunt for red october,O,O,O,O,O,O,N,,O,O,O,O,O,O,N,1990
+1736,total recall,O,O,O,O,O,O,N,,O,O,O,O,O,O,N,1990
+1737,flatliners,O,O,O,O,O,O,N,,O,O,O,O,O,O,O,1990
+1738,hamlet,O,O,N,O,N,O,O,,O,O,O,O,O,O,O,1990
+1739,henry & june,O,O,O,N,O,O,O,,O,O,O,O,O,O,O,1990
+1740,the silence of the lambs,W,W,O,O,O,W,N,O,O,W,O,O,W,O,N,1991
+1741,beauty and the beast,O,O,O,O,O,O,O,O,W,N,O,O,O,WN,N,1991
+1742,bugsy,N,O,W,N,W,N,O,O,N,N,N,O,N,O,O,1991
+1743,jfk,O,O,O,W,O,N,W,O,N,N,N,O,N,O,N,1991
+1744,the prince of tides,N,O,N,N,O,O,O,O,N,N,O,N,N,O,O,1991
+1745,boyz n the hood,O,O,O,O,O,N,O,O,O,O,O,O,N,O,O,1991
+1746,thelma & louise,O,N,O,N,O,N,N,O,O,O,O,O,W,O,O,1991
+1747,cape fear,N,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1991
+1748,the fisher king,N,O,N,O,O,O,O,O,N,O,O,W,N,O,O,1991
+1749,rambling rose,O,N,O,O,O,O,O,O,O,O,O,N,O,O,O,1991
+1750,for the boys,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1991
+1751,city slickers,O,O,O,O,O,O,O,O,O,O,W,O,O,O,O,1991
+1752,barton fink,O,O,N,O,N,O,O,O,O,O,N,O,O,O,O,1991
+1753,fried green tomatoes,O,O,O,O,O,O,O,O,O,O,O,N,N,O,O,1991
+1754,grand canyon,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1991
+1755,europa europa,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1991
+1756,robin hood: prince of thieves,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1991
+1757,hook,O,O,N,O,N,O,O,N,O,O,O,O,O,N,O,1991
+1758,terminator 2: judgment day,O,O,O,N,O,O,N,W,O,O,O,O,O,O,W,1991
+1759,backdraft,O,O,O,O,O,O,N,N,O,O,O,O,O,O,N,1991
+1760,star trek vi: the undiscovered country,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1991
+1761,the addams family,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1991
+1762,madame bovary,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1991
+1763,the commitments,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1991
+1764,unforgiven,N,O,N,N,O,W,W,O,O,W,W,O,N,O,N,1992
+1765,the crying game,N,O,O,O,O,N,N,O,O,N,N,O,W,O,O,1992
+1766,a few good men,O,O,O,O,O,O,N,O,O,N,N,O,O,O,N,1992
+1767,howards end,O,W,W,N,N,N,O,O,N,N,O,N,W,O,O,1992
+1768,scent of a woman,W,O,O,O,O,N,O,O,O,N,O,O,N,O,O,1992
+1769,the player,O,O,O,O,O,N,N,O,O,O,O,O,N,O,O,1992
+1770,chaplin,N,O,N,O,O,O,O,O,N,O,O,O,O,O,O,1992
+1771,malcolm x,N,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1992
+1772,indochine,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1992
+1773,passion fish,O,N,O,O,O,O,O,O,O,O,O,O,N,O,O,1992
+1774,love field,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1992
+1775,lorenzo's oil,O,N,O,O,O,O,O,O,O,O,O,O,N,O,O,1992
+1776,glengarry glen ross,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1992
+1777,mr. saturday night,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1992
+1778,my cousin vinny,O,O,O,O,O,O,O,O,O,O,O,W,O,O,O,1992
+1779,husbands and wives,O,O,O,O,O,O,O,O,O,O,O,N,N,O,O,1992
+1780,enchanted april,O,O,O,O,N,O,O,O,O,O,O,N,N,O,O,1992
+1781,damage,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1992
+1782,a river runs through it,O,O,O,W,O,O,O,O,N,O,O,O,N,O,O,1992
+1783,aladdin,O,O,O,O,O,O,N,O,W,O,O,O,O,WN,N,1992
+1784,basic instinct,O,O,O,O,O,O,N,O,N,O,O,O,O,O,O,1992
+1785,the bodyguard,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1992
+1786,the mambo kings,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1992
+1787,bram stoker's dracula,O,O,N,O,W,O,W,O,O,O,O,O,O,O,O,1992
+1788,under siege,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1992
+1789,the last of the mohicans,O,O,O,O,O,O,O,O,O,O,O,O,O,O,W,1992
+1790,toys,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1992
+1791,hoffa,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1992
+1792,the lover,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1992
+1793,death becomes her,O,O,O,O,O,O,O,W,O,O,O,O,O,O,O,1992
+1794,alien³,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1992
+1795,batman returns,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1992
+1796,schindler's list,N,O,W,W,N,W,W,O,W,W,N,O,W,O,N,1993
+1797,the fugitive,O,O,O,N,O,O,N,O,N,N,W,O,O,O,N,1993
+1798,in the name of the father,N,O,O,O,O,N,N,O,O,N,N,N,N,O,O,1993
+1799,the piano,O,W,O,N,N,N,N,O,O,N,O,W,W,O,O,1993
+1800,the remains of the day,N,N,N,O,N,N,O,O,N,N,O,O,N,O,O,1993
+1801,short cuts,O,O,O,O,O,N,O,O,O,O,O,O,O,O,O,1993
+1802,philadelphia,W,O,O,O,O,O,O,O,O,O,O,O,N,WN,O,1993
+1803,what's love got to do with it,N,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1993
+1804,six degrees of separation,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1993
+1805,shadowlands,O,N,O,O,O,O,O,O,O,O,O,O,N,O,O,1993
+1806,what's eating gilbert grape,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1993
+1807,in the line of fire,O,O,O,O,O,O,N,O,O,O,N,O,N,O,O,1993
+1808,the firm,O,O,O,O,O,O,O,O,N,O,O,N,O,O,O,1993
+1809,fearless,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1993
+1810,the age of innocence,O,O,N,O,W,O,O,O,N,O,O,N,N,O,O,1993
+1811,dave,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1993
+1812,sleepless in seattle,O,O,O,O,O,O,O,O,O,O,O,O,N,N,O,1993
+1813,poetic justice,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1993
+1814,beethoven's 2nd,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1993
+1815,jurassic park,O,O,O,O,O,O,W,W,O,O,O,O,O,O,W,1993
+1816,cliffhanger,O,O,O,O,O,O,N,N,O,O,O,O,O,O,N,1993
+1817,geronimo: an american legend,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1993
+1818,addams family values,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1993
+1819,orlando,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1993
+1820,farewell my concubine,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1993
+1821,searching for bobby fischer,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1993
+1822,the nightmare before christmas,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1993
+1823,forrest gump,W,O,N,N,O,W,W,W,N,W,N,O,W,O,N,1994
+1824,four weddings and a funeral,O,O,O,O,O,O,O,O,O,N,O,O,N,O,O,1994
+1825,pulp fiction,N,O,O,O,O,N,N,O,O,N,N,N,W,O,O,1994
+1826,quiz show,O,O,O,O,O,N,O,O,O,N,N,O,N,O,O,1994
+1827,the shawshank redemption,N,O,O,N,O,O,N,O,N,N,O,O,N,O,N,1994
+1828,bullets over broadway,O,O,N,O,N,N,O,O,O,O,N,WN,N,O,O,1994
+1829,red,O,O,O,N,O,N,O,O,O,O,O,O,N,O,O,1994
+1830,the madness of king george,N,O,W,O,O,O,O,O,O,O,O,N,N,O,O,1994
+1831,nobody's fool,N,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1994
+1832,blue sky,O,W,O,O,O,O,O,O,O,O,O,O,O,O,O,1994
+1833,nell,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1994
+1834,tom & viv,O,N,O,O,O,O,O,O,O,O,O,N,O,O,O,1994
+1835,little women,O,N,O,O,N,O,O,O,N,O,O,O,O,O,O,1994
+1836,the client,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1994
+1837,ed wood,O,O,O,O,O,O,O,O,O,O,W,O,O,O,O,1994
+1838,heavenly creatures,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1994
+1839,the lion king,O,O,O,O,O,O,O,O,W,O,O,O,O,WN,O,1994
+1840,interview with the vampire,O,O,N,O,O,O,O,O,N,O,O,O,O,O,O,1994
+1841,junior,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1994
+1842,the paper,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1994
+1843,speed,O,O,O,O,O,O,N,O,O,O,O,O,O,O,W,1994
+1844,clear and present danger,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1994
+1845,legends of the fall,O,O,N,W,O,O,O,O,O,O,O,O,O,O,N,1994
+1846,wyatt earp,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1994
+1847,"the adventures of priscilla, queen of the desert",O,O,O,O,W,O,O,O,O,O,O,O,O,O,O,1994
+1848,maverick,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1994
+1849,queen margot,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1994
+1850,hoop dreams,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1994
+1851,the mask,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1994
+1852,true lies,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1994
+1853,braveheart,O,O,O,W,N,W,N,O,N,W,O,O,N,O,N,1995
+1854,apollo 13,O,O,N,O,O,O,W,N,N,N,N,N,N,O,W,1995
+1855,babe,O,O,N,O,O,N,N,W,O,N,N,O,N,O,O,1995
+1856,il postino: the postman,N,O,O,O,O,N,O,O,W,N,O,O,N,O,O,1995
+1857,sense and sensibility,O,N,O,N,N,O,O,O,N,N,O,N,W,O,O,1995
+1858,dead man walking,N,W,O,O,O,N,O,O,O,O,O,O,O,N,O,1995
+1859,leaving las vegas,W,N,O,O,O,N,O,O,O,O,O,O,N,O,O,1995
+1860,mr. holland's opus,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1995
+1861,nixon,N,O,O,O,O,O,O,O,N,O,O,N,N,O,O,1995
+1862,casino,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1995
+1863,the bridges of madison county,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1995
+1864,the usual suspects,O,O,O,O,O,O,O,O,O,O,W,O,W,O,O,1995
+1865,12 monkeys,O,O,O,O,N,O,O,O,O,O,N,O,O,O,O,1995
+1866,rob roy,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1995
+1867,mighty aphrodite,O,O,O,O,O,O,O,O,O,O,O,W,N,O,O,1995
+1868,georgia,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1995
+1869,toy story,O,O,O,O,O,O,O,O,N,O,O,O,N,N,O,1995
+1870,pocahontas,O,O,O,O,O,O,O,O,W,O,O,O,O,W,O,1995
+1871,the american president,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1995
+1872,sabrina,O,O,O,O,O,O,O,O,N,O,O,O,O,N,O,1995
+1873,unstrung heroes,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1995
+1874,don juan demarco,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1995
+1875,batman forever,O,O,O,N,O,O,N,O,O,O,O,O,O,O,N,1995
+1876,crimson tide,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1995
+1877,waterworld,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1995
+1878,restoration,O,O,W,O,W,O,O,O,O,O,O,O,O,O,O,1995
+1879,a little princess,O,O,N,N,O,O,O,O,O,O,O,O,O,O,O,1995
+1880,richard iii,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1995
+1881,shanghai triad,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1995
+1882,seven,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1995
+1883,the english patient,N,N,W,W,W,W,W,O,W,W,O,W,N,O,W,1996
+1884,fargo,O,W,O,N,O,N,N,O,O,N,N,O,W,O,O,1996
+1885,jerry maguire,N,O,O,O,O,O,N,O,O,N,W,O,N,O,O,1996
+1886,secrets & lies,O,N,O,O,O,N,O,O,O,N,O,N,N,O,O,1996
+1887,shine,W,O,O,O,O,N,N,O,N,N,N,O,N,O,O,1996
+1888,the people vs. larry flynt,N,O,O,O,O,N,O,O,O,O,O,O,O,O,O,1996
+1889,sling blade,N,O,O,O,O,O,O,O,O,O,O,O,W,O,O,1996
+1890,marvin's room,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1996
+1891,breaking the waves,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1996
+1892,primal fear,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1996
+1893,ghosts of mississippi,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1996
+1894,the crucible,O,O,O,O,O,O,O,O,O,O,O,N,N,O,O,1996
+1895,the mirror has two faces,O,O,O,O,O,O,O,O,O,O,O,N,O,N,O,1996
+1896,the portrait of a lady,O,O,O,O,N,O,O,O,O,O,O,N,O,O,O,1996
+1897,lone star,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1996
+1898,hamlet,O,O,N,O,N,O,O,O,N,O,O,O,N,O,O,1996
+1899,trainspotting,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1996
+1900,michael collins,O,O,O,N,O,O,O,O,N,O,O,O,O,O,O,1996
+1901,sleepers,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1996
+1902,emma,O,O,O,O,N,O,O,O,W,O,O,O,O,O,O,1996
+1903,the first wives club,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1996
+1904,the hunchback of notre dame,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1996
+1905,james and the giant peach,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1996
+1906,the preacher's wife,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1996
+1907,evita,O,O,N,N,O,O,N,O,O,O,O,O,O,W,N,1996
+1908,one fine day,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1996
+1909,that thing you do!,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1996
+1910,up close and personal,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1996
+1911,the ghost and the darkness,O,O,O,O,O,O,W,O,O,O,O,O,O,O,O,1996
+1912,daylight,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1996
+1913,eraser,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1996
+1914,independence day,O,O,O,O,O,O,O,W,O,O,O,O,O,O,N,1996
+1915,the rock,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1996
+1916,twister,O,O,O,O,O,O,O,N,O,O,O,O,O,O,N,1996
+1917,the birdcage,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1996
+1918,romeo + juliet,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1996
+1919,fly away home,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1996
+1920,angels & insects,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1996
+1921,dragonheart,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1996
+1922,titanic,O,N,W,W,W,W,W,W,W,W,O,N,O,W,W,1997
+1923,as good as it gets,W,W,O,O,O,O,N,O,N,N,N,O,N,O,O,1997
+1924,the full monty,O,O,O,O,O,N,O,O,W,N,O,O,N,O,O,1997
+1925,good will hunting,N,O,O,O,O,N,N,O,N,N,W,N,W,N,O,1997
+1926,l.a. confidential,O,O,N,N,O,N,N,O,N,N,O,W,W,O,N,1997
+1927,the sweet hereafter,O,O,O,O,O,N,O,O,O,O,O,O,N,O,O,1997
+1928,the apostle,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1997
+1929,ulee's gold,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1997
+1930,wag the dog,N,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1997
+1931,the wings of the dove,O,N,O,N,N,O,O,O,O,O,O,O,N,O,O,1997
+1932,afterglow,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1997
+1933,mrs brown,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1997
+1934,jackie brown,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,1997
+1935,amistad,O,O,O,N,N,O,O,O,N,O,N,O,O,O,O,1997
+1936,boogie nights,O,O,O,O,O,O,O,O,O,O,N,N,N,O,O,1997
+1937,in & out,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1997
+1938,deconstructing harry,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1997
+1939,donnie brasco,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1997
+1940,kundun,O,O,N,N,N,O,O,O,N,O,O,O,O,O,O,1997
+1941,anastasia,O,O,O,O,O,O,O,O,N,O,O,O,O,N,O,1997
+1942,men in black,O,O,N,O,O,O,O,O,N,O,O,O,O,O,O,1997
+1943,my best friend's wedding,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1997
+1944,hercules,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1997
+1945,con air,O,O,O,O,O,O,O,O,O,O,O,O,O,N,N,1997
+1946,face/off,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1997
+1947,the fifth element,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1997
+1948,air force one,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1997
+1949,contact,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1997
+1950,gattaca,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,1997
+1951,oscar and lucinda,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1997
+1952,the lost world: jurassic park,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1997
+1953,starship troopers,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1997
+1954,shakespeare in love,O,W,W,N,W,N,N,O,W,W,N,W,W,O,N,1998
+1955,elizabeth,O,N,N,N,N,O,O,O,N,N,O,O,O,O,O,1998
+1956,life is beautiful,W,O,O,O,O,N,N,O,W,N,O,O,N,O,O,1998
+1957,saving private ryan,N,O,N,W,O,W,W,O,N,N,O,O,N,O,W,1998
+1958,the thin red line,O,O,O,N,O,N,N,O,N,N,O,O,N,O,N,1998
+1959,the truman show,O,O,O,O,O,N,O,O,O,O,N,O,N,O,O,1998
+1960,gods and monsters,N,O,O,O,O,O,O,O,O,O,O,N,W,O,O,1998
+1961,affliction,N,O,O,O,O,O,O,O,O,O,W,O,O,O,O,1998
+1962,american history x,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1998
+1963,central station,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1998
+1964,one true thing,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1998
+1965,hilary and jackie,O,N,O,O,O,O,O,O,O,O,O,N,O,O,O,1998
+1966,a civil action,O,O,O,N,O,O,O,O,O,O,N,O,O,O,O,1998
+1967,a simple plan,O,O,O,O,O,O,O,O,O,O,N,O,N,O,O,1998
+1968,primary colors,O,O,O,O,O,O,O,O,O,O,O,N,N,O,O,1998
+1969,little voice,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1998
+1970,bulworth,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1998
+1971,out of sight,O,O,O,O,O,O,N,O,O,O,O,O,N,O,O,1998
+1972,the prince of egypt,O,O,O,O,O,O,O,O,N,O,O,O,O,W,O,1998
+1973,armageddon,O,O,O,O,O,O,N,N,O,O,O,O,O,N,N,1998
+1974,babe: pig in the city,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1998
+1975,the horse whisperer,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1998
+1976,quest for camelot,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1998
+1977,pleasantville,O,O,N,O,N,O,O,O,N,O,O,O,O,O,O,1998
+1978,a bug's life,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1998
+1979,mulan,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1998
+1980,patch adams,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1998
+1981,the mask of zorro,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,1998
+1982,what dreams may come,O,O,N,O,O,O,O,W,O,O,O,O,O,O,O,1998
+1983,beloved,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1998
+1984,velvet goldmine,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1998
+1985,mighty joe young,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1998
+1986,american beauty,W,N,O,W,O,W,N,O,N,W,O,O,W,O,O,1999
+1987,the cider house rules,O,O,N,O,O,N,N,O,N,N,W,O,W,O,O,1999
+1988,the green mile,O,O,O,O,O,O,O,O,O,N,N,O,N,O,N,1999
+1989,the insider,N,O,O,N,O,N,N,O,O,N,O,O,N,O,N,1999
+1990,the sixth sense,O,O,O,O,O,N,N,O,O,N,N,N,N,O,O,1999
+1991,being john malkovich,O,O,O,O,O,N,O,O,O,O,O,N,N,O,O,1999
+1992,the straight story,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1999
+1993,sweet and lowdown,N,O,O,O,O,O,O,O,O,O,O,N,O,O,O,1999
+1994,the hurricane,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,1999
+1995,boys don't cry,O,W,O,O,O,O,O,O,O,O,O,N,O,O,O,1999
+1996,tumbleweeds,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,1999
+1997,the end of the affair,O,N,O,N,O,O,O,O,O,O,O,O,O,O,O,1999
+1998,music of the heart,O,N,O,O,O,O,O,O,O,O,O,O,O,N,O,1999
+1999,magnolia,O,O,O,O,O,O,O,O,O,O,N,O,N,N,O,1999
+2000,the talented mr. ripley,O,O,N,O,N,O,O,O,N,O,N,O,N,O,O,1999
+2001,"girl, interrupted",O,O,O,O,O,O,O,O,O,O,O,W,O,O,O,1999
+2002,topsy-turvy,O,O,N,O,W,O,O,O,O,O,O,O,N,O,O,1999
+2003,election,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,1999
+2004,the red violin,O,O,O,O,O,O,O,O,W,O,O,O,O,O,O,1999
+2005,angela's ashes,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,1999
+2006,tarzan,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,1999
+2007,"south park: bigger, longer & uncut",O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1999
+2008,toy story 2,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,1999
+2009,the matrix,O,O,O,O,O,O,W,W,O,O,O,O,O,O,W,1999
+2010,fight club,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,1999
+2011,star wars: episode i  the phantom menace,O,O,O,O,O,O,N,N,O,O,O,O,O,O,N,1999
+2012,the mummy,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,1999
+2013,sleepy hollow,O,O,W,N,N,O,O,O,O,O,O,O,O,O,O,1999
+2014,anna and the king,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,1999
+2015,snow falling on cedars,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,1999
+2016,titus,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,1999
+2017,stuart little,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,1999
+2018,gladiator,W,O,N,N,W,N,N,W,N,W,N,O,N,O,W,2000
+2019,chocolat,O,N,O,O,O,O,O,O,N,N,O,N,N,O,O,2000
+2020,"crouching tiger, hidden dragon",O,O,W,W,N,N,N,O,W,N,O,O,N,N,O,2000
+2021,erin brockovich,O,W,O,O,O,N,O,O,O,N,N,O,N,O,O,2000
+2022,traffic,O,O,O,O,O,W,W,O,O,N,W,O,W,O,O,2000
+2023,billy elliot,O,O,O,O,O,N,O,O,O,O,O,N,N,O,O,2000
+2024,before night falls,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,2000
+2025,cast away,N,O,O,O,O,O,O,O,O,O,O,O,O,O,N,2000
+2026,pollock,N,O,O,O,O,O,O,O,O,O,O,W,O,O,O,2000
+2027,quills,N,O,N,O,N,O,O,O,O,O,O,O,O,O,O,2000
+2028,the contender,O,N,O,O,O,O,O,O,O,O,N,O,O,O,O,2000
+2029,requiem for a dream,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,2000
+2030,you can count on me,O,N,O,O,O,O,O,O,O,O,O,O,N,O,O,2000
+2031,shadow of the vampire,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,2000
+2032,almost famous,O,O,O,O,O,O,N,O,O,O,O,N,W,O,O,2000
+2033,"o brother, where art thou?",O,O,O,N,O,O,O,O,O,O,O,O,N,O,O,2000
+2034,wonder boys,O,O,O,O,O,O,N,O,O,O,O,O,N,W,O,2000
+2035,malèna,O,O,O,N,O,O,O,O,N,O,O,O,O,O,O,2000
+2036,the patriot,O,O,O,N,O,O,O,O,N,O,O,O,O,O,N,2000
+2037,meet the parents,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2000
+2038,dancer in the dark,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2000
+2039,the emperor's new groove,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2000
+2040,u-571,O,O,O,O,O,O,W,O,O,O,O,O,O,O,N,2000
+2041,space cowboys,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,2000
+2042,the perfect storm,O,O,O,O,O,O,O,N,O,O,O,O,O,O,N,2000
+2043,how the grinch stole christmas,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,2000
+2044,vatel,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,2000
+2045,102 dalmatians,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2000
+2046,hollow man,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,2000
+2047,a beautiful mind,N,O,O,O,O,W,N,O,N,W,O,W,W,O,O,2001
+2048,gosford park,O,O,N,O,N,N,O,O,O,N,O,N,W,O,O,2001
+2049,in the bedroom,N,N,O,O,O,O,O,O,O,N,O,N,N,O,O,2001
+2050,the lord of the rings: the fellowship of the ring,O,O,N,W,N,N,N,W,W,N,N,O,N,N,N,2001
+2051,moulin rouge!,O,N,W,N,W,O,N,O,O,N,O,O,O,O,N,2001
+2052,black hawk down,O,O,O,N,O,N,W,O,O,O,O,O,O,O,W,2001
+2053,mulholland drive,O,O,O,O,O,N,O,O,O,O,O,O,O,O,O,2001
+2054,training day,W,O,O,O,O,O,O,O,O,O,N,O,O,O,O,2001
+2055,i am sam,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,2001
+2056,ali,N,O,O,O,O,O,O,O,O,O,N,O,O,O,O,2001
+2057,monster's ball,O,W,O,O,O,O,O,O,O,O,O,O,N,O,O,2001
+2058,iris,O,N,O,O,O,O,O,O,O,O,W,N,O,O,O,2001
+2059,bridget jones's diary,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,2001
+2060,sexy beast,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,2001
+2061,amélie,O,O,N,N,O,O,O,O,O,O,O,O,N,O,N,2001
+2062,memento,O,O,O,O,O,O,N,O,O,O,O,O,N,O,O,2001
+2063,the royal tenenbaums,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2001
+2064,ghost world,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2001
+2065,shrek,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2001
+2066,a.i. artificial intelligence,O,O,O,O,O,O,O,N,N,O,O,O,O,O,O,2001
+2067,harry potter and the sorcerer's stone,O,O,N,O,N,O,O,O,N,O,O,O,O,O,O,2001
+2068,"monsters, inc.",O,O,O,O,O,O,N,O,N,O,O,O,O,W,O,2001
+2069,pearl harbor,O,O,O,O,O,O,W,N,O,O,O,O,O,N,N,2001
+2070,kate & leopold,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2001
+2071,vanilla sky,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2001
+2072,the man who wasn't there,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,2001
+2073,the affair of the necklace,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2001
+2074,chicago,O,N,W,N,W,N,W,O,O,W,N,WN,N,N,W,2002
+2075,gangs of new york,N,O,N,N,N,N,N,O,O,N,O,O,N,N,N,2002
+2076,the hours,O,W,O,O,N,N,N,O,N,N,N,N,N,O,O,2002
+2077,the lord of the rings: the two towers,O,O,N,O,O,O,N,W,O,N,O,O,O,O,N,2002
+2078,the pianist,W,O,O,N,N,W,N,O,O,N,O,O,W,O,O,2002
+2079,talk to her,O,O,O,O,O,N,O,O,O,O,O,O,W,O,O,2002
+2080,adaptation,N,O,O,O,O,O,O,O,O,O,W,N,N,O,O,2002
+2081,the quiet american,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,2002
+2082,about schmidt,N,O,O,O,O,O,O,O,O,O,O,N,O,O,O,2002
+2083,frida,O,N,N,O,N,O,O,O,W,O,O,O,O,N,O,2002
+2084,unfaithful,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,2002
+2085,far from heaven,O,N,O,N,O,O,O,O,N,O,O,O,N,O,O,2002
+2086,road to perdition,O,O,N,W,O,O,N,O,N,O,N,O,O,O,N,2002
+2087,catch me if you can,O,O,O,O,O,O,O,O,N,O,N,O,O,O,O,2002
+2088,my big fat greek wedding,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2002
+2089,y tu mamá también,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2002
+2090,about a boy,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2002
+2091,8 mile,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,2002
+2092,the wild thornberrys movie,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2002
+2093,minority report,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,2002
+2094,spider-man,O,O,O,O,O,O,O,N,O,O,O,O,O,O,N,2002
+2095,star wars: episode ii  attack of the clones,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,2002
+2096,the lord of the rings: the return of the king,O,O,W,O,W,W,W,W,W,W,O,O,W,W,W,2003
+2097,lost in translation,N,O,O,O,O,N,O,O,O,N,O,O,W,O,O,2003
+2098,master and commander: the far side of the world,O,O,N,W,N,N,N,N,O,N,O,O,O,O,N,2003
+2099,mystic river,W,O,O,O,O,N,O,O,O,N,W,N,N,O,O,2003
+2100,seabiscuit,O,O,N,N,N,O,N,O,O,N,O,O,N,O,N,2003
+2101,city of god,O,O,O,N,O,N,N,O,O,O,O,O,N,O,O,2003
+2102,pirates of the caribbean: the curse of the black pearl,N,O,O,O,O,O,N,N,O,O,O,O,O,O,N,2003
+2103,house of sand and fog,N,O,O,O,O,O,O,O,N,O,O,N,O,O,O,2003
+2104,cold mountain,N,O,O,N,O,O,N,O,N,O,O,W,O,N,O,2003
+2105,monster,O,W,O,O,O,O,O,O,O,O,O,O,O,O,O,2003
+2106,whale rider,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,2003
+2107,something's gotta give,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,2003
+2108,in america,O,N,O,O,O,O,O,O,O,O,N,O,N,O,O,2003
+2109,21 grams,O,N,O,O,O,O,O,O,O,O,N,O,O,O,O,2003
+2110,the cooler,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,2003
+2111,the last samurai,O,O,N,O,N,O,O,O,O,O,N,O,O,O,N,2003
+2112,pieces of april,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,2003
+2113,thirteen,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,2003
+2114,the barbarian invasions,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2003
+2115,dirty pretty things,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2003
+2116,finding nemo,O,O,O,O,O,O,N,O,N,O,O,O,N,O,O,2003
+2117,american splendor,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2003
+2118,big fish,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,2003
+2119,the triplets of belleville,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2003
+2120,a mighty wind,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2003
+2121,girl with a pearl earring,O,O,N,N,N,O,O,O,O,O,O,O,O,O,O,2003
+2122,million dollar baby,N,W,O,O,O,W,N,O,O,W,W,O,N,O,O,2004
+2123,the aviator,N,O,W,W,W,N,W,O,O,N,N,W,N,O,N,2004
+2124,finding neverland,N,O,N,O,N,O,N,O,W,N,O,O,N,O,O,2004
+2125,ray,W,O,O,O,N,N,N,O,O,N,O,O,O,O,W,2004
+2126,sideways,O,O,O,O,O,N,O,O,O,N,N,N,W,O,O,2004
+2127,vera drake,O,N,O,O,O,N,O,O,O,O,O,O,N,O,O,2004
+2128,hotel rwanda,N,O,O,O,O,O,O,O,O,O,O,N,N,O,O,2004
+2129,being julia,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,2004
+2130,maria full of grace,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,2004
+2131,eternal sunshine of the spotless mind,O,N,O,O,O,O,O,O,O,O,O,O,W,O,O,2004
+2132,collateral,O,O,O,O,O,O,N,O,O,O,N,O,O,O,O,2004
+2133,closer,O,O,O,O,O,O,O,O,O,O,N,N,O,O,O,2004
+2134,kinsey,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,2004
+2135,the incredibles,O,O,O,O,O,O,W,O,O,O,O,O,N,O,N,2004
+2136,before sunset,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2004
+2137,the motorcycle diaries,O,O,O,O,O,O,O,O,O,O,O,O,N,W,O,2004
+2138,harry potter and the prisoner of azkaban,O,O,O,O,O,O,O,N,N,O,O,O,O,O,O,2004
+2139,lemony snicket's a series of unfortunate events,O,O,N,O,N,O,O,O,N,O,O,O,O,O,O,2004
+2140,the passion of the christ,O,O,O,N,O,O,O,O,N,O,O,O,O,O,O,2004
+2141,the village,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,2004
+2142,shrek 2,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2004
+2143,the polar express,O,O,O,O,O,O,N,O,O,O,O,O,O,N,N,2004
+2144,the phantom of the opera,O,O,N,N,O,O,O,O,O,O,O,O,O,N,O,2004
+2145,the chorus,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2004
+2146,spider-man 2,O,O,O,O,O,O,N,W,O,O,O,O,O,O,N,2004
+2147,a very long engagement,O,O,N,N,O,O,O,O,O,O,O,O,O,O,O,2004
+2148,house of flying daggers,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,2004
+2149,troy,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2004
+2150,"i, robot",O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,2004
+2151,crash,O,O,O,O,O,N,W,O,O,W,N,O,W,N,O,2005
+2152,brokeback mountain,N,O,O,N,O,W,O,O,W,N,N,N,W,O,O,2005
+2153,capote,W,O,O,O,O,N,O,O,O,N,O,N,N,O,O,2005
+2154,"good night, and good luck",N,O,N,N,O,N,O,O,O,N,O,O,N,O,O,2005
+2155,munich,O,O,O,O,O,N,N,O,N,N,O,O,N,O,O,2005
+2156,hustle & flow,N,O,O,O,O,O,O,O,O,O,O,O,O,W,O,2005
+2157,walk the line,N,W,O,O,N,O,N,O,O,O,O,O,O,O,N,2005
+2158,mrs henderson presents,O,N,O,O,N,O,O,O,O,O,O,O,O,O,O,2005
+2159,transamerica,O,N,O,O,O,O,O,O,O,O,O,O,O,N,O,2005
+2160,pride & prejudice,O,N,N,O,N,O,O,O,N,O,O,O,O,O,O,2005
+2161,north country,O,N,O,O,O,O,O,O,O,O,O,N,O,O,O,2005
+2162,syriana,O,O,O,O,O,O,O,O,O,O,W,O,N,O,O,2005
+2163,cinderella man,O,O,O,O,O,O,N,O,O,O,N,O,O,O,O,2005
+2164,a history of violence,O,O,O,O,O,O,O,O,O,O,N,O,N,O,O,2005
+2165,the constant gardener,O,O,O,O,O,O,N,O,N,O,O,W,N,O,O,2005
+2166,junebug,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,2005
+2167,match point,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2005
+2168,the squid and the whale,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2005
+2169,memoirs of a geisha,O,O,W,W,W,O,N,O,N,O,O,O,O,O,N,2005
+2170,king kong,O,O,N,O,O,O,W,W,O,O,O,O,O,O,W,2005
+2171,war of the worlds,O,O,O,O,O,O,N,N,O,O,O,O,O,O,N,2005
+2172,"the chronicles of narnia: the lion, the witch and the wardrobe",O,O,O,O,O,O,O,N,O,O,O,O,O,O,N,2005
+2173,harry potter and the goblet of fire,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,2005
+2174,batman begins,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,2005
+2175,the new world,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,2005
+2176,charlie and the chocolate factory,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2005
+2177,the departed,O,O,O,O,O,W,W,O,O,W,N,O,W,O,O,2006
+2178,babel,O,O,O,O,O,N,N,O,W,N,O,N,N,O,O,2006
+2179,letters from iwo jima,O,O,O,O,O,N,W,O,O,N,O,O,N,O,O,2006
+2180,little miss sunshine,O,O,O,O,O,O,O,O,O,N,W,N,W,O,O,2006
+2181,the queen,O,W,O,O,N,N,O,O,N,N,O,O,N,O,O,2006
+2182,united 93,O,O,O,O,O,N,N,O,O,O,O,O,O,O,O,2006
+2183,the last king of scotland,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,2006
+2184,blood diamond,N,O,O,O,O,O,N,O,O,O,N,O,O,O,N,2006
+2185,half nelson,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,2006
+2186,venus,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,2006
+2187,the pursuit of happyness,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,2006
+2188,volver,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,2006
+2189,notes on a scandal,O,N,O,O,O,O,O,O,N,O,O,N,N,O,O,2006
+2190,the devil wears prada,O,N,O,O,N,O,O,O,O,O,O,O,O,O,O,2006
+2191,little children,O,N,O,O,O,O,O,O,O,O,N,O,N,O,O,2006
+2192,dreamgirls,O,O,N,O,N,O,O,O,O,O,N,W,O,N,W,2006
+2193,pan's labyrinth,O,O,W,W,O,O,O,O,N,O,O,O,N,O,O,2006
+2194,borat: cultural learnings of america for make benefit glorious nation of kazakhstan,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2006
+2195,children of men,O,O,O,N,O,O,N,O,O,O,O,O,N,O,O,2006
+2196,the good german,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,2006
+2197,an inconvenient truth,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,2006
+2198,cars,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2006
+2199,apocalypto,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,2006
+2200,flags of our fathers,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,2006
+2201,pirates of the caribbean: dead man's chest,O,O,N,O,O,O,N,W,O,O,O,O,O,O,N,2006
+2202,the good shepherd,O,O,N,O,O,O,O,O,O,O,O,O,O,O,O,2006
+2203,the prestige,O,O,N,N,O,O,O,O,O,O,O,O,O,O,O,2006
+2204,the black dahlia,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,2006
+2205,the illusionist,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,2006
+2206,marie antoinette,O,O,O,O,W,O,O,O,O,O,O,O,O,O,O,2006
+2207,curse of the golden flower,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2006
+2208,poseidon,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,2006
+2209,superman returns,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,2006
+2210,no country for old men,O,O,O,N,O,W,N,O,O,W,W,O,W,O,N,2007
+2211,atonement,O,O,N,N,N,O,O,O,W,N,O,N,N,O,O,2007
+2212,juno,O,N,O,O,O,N,O,O,O,N,O,O,W,O,O,2007
+2213,michael clayton,N,O,O,O,O,N,O,O,N,N,N,W,N,O,O,2007
+2214,there will be blood,W,O,N,W,O,N,N,O,O,N,O,O,N,O,O,2007
+2215,the diving bell and the butterfly,O,O,O,N,O,N,N,O,O,O,O,O,N,O,O,2007
+2216,sweeney todd: the demon barber of fleet street,N,O,W,O,N,O,O,O,O,O,O,O,O,O,O,2007
+2217,in the valley of elah,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,2007
+2218,eastern promises,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,2007
+2219,la vie en rose,O,W,O,O,N,O,O,O,O,O,O,O,O,O,O,2007
+2220,elizabeth: the golden age,O,N,O,O,W,O,O,O,O,O,O,O,O,O,O,2007
+2221,away from her,O,N,O,O,O,O,O,O,O,O,O,O,N,O,O,2007
+2222,the savages,O,N,O,O,O,O,O,O,O,O,O,O,N,O,O,2007
+2223,the assassination of jesse james by the coward robert ford,O,O,O,N,O,O,O,O,O,O,N,O,O,O,O,2007
+2224,charlie wilson's war,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,2007
+2225,into the wild,O,O,O,O,O,O,N,O,O,O,N,O,O,O,O,2007
+2226,i'm not there,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,2007
+2227,american gangster,O,O,N,O,O,O,O,O,O,O,O,N,O,O,O,2007
+2228,gone baby gone,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,2007
+2229,lars and the real girl,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2007
+2230,ratatouille,O,O,O,O,O,O,N,O,N,O,O,O,N,O,N,2007
+2231,3:10 to yuma,O,O,O,O,O,O,O,O,N,O,O,O,O,O,N,2007
+2232,the kite runner,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,2007
+2233,once,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,2007
+2234,enchanted,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2007
+2235,august rush,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2007
+2236,the bourne ultimatum,O,O,O,O,O,O,W,O,O,O,O,O,O,O,W,2007
+2237,transformers,O,O,O,O,O,O,N,N,O,O,O,O,O,O,N,2007
+2238,the golden compass,O,O,N,O,O,O,O,W,O,O,O,O,O,O,O,2007
+2239,across the universe,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2007
+2240,pirates of the caribbean: at world's end,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,2007
+2241,slumdog millionaire,O,O,O,W,O,W,W,O,W,W,O,O,W,WN,W,2008
+2242,the curious case of benjamin button,N,O,W,N,N,N,N,W,N,N,O,N,N,O,N,2008
+2243,frost/nixon,N,O,O,O,O,N,N,O,O,N,O,O,N,O,O,2008
+2244,milk,W,O,O,O,N,N,N,O,N,N,N,O,W,O,O,2008
+2245,the reader,O,W,O,N,O,N,O,O,O,N,O,O,N,O,O,2008
+2246,the visitor,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,2008
+2247,the wrestler,N,O,O,O,O,O,O,O,O,O,O,N,O,O,O,2008
+2248,rachel getting married,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,2008
+2249,changeling,O,N,N,N,O,O,O,O,O,O,O,O,O,O,O,2008
+2250,frozen river,O,N,O,O,O,O,O,O,O,O,O,O,N,O,O,2008
+2251,doubt,O,N,O,O,O,O,O,O,O,O,N,N,N,O,O,2008
+2252,the dark knight,O,O,N,N,O,O,N,N,O,O,W,O,O,O,N,2008
+2253,tropic thunder,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,2008
+2254,revolutionary road,O,O,N,O,N,O,O,O,O,O,N,O,O,O,O,2008
+2255,vicky cristina barcelona,O,O,O,O,O,O,O,O,O,O,O,W,O,O,O,2008
+2256,happy-go-lucky,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2008
+2257,in bruges,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2008
+2258,wall-e,O,O,O,O,O,O,N,O,N,O,O,O,N,N,N,2008
+2259,defiance,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,2008
+2260,iron man,O,O,O,O,O,O,N,N,O,O,O,O,O,O,O,2008
+2261,wanted,O,O,O,O,O,O,N,O,O,O,O,O,O,O,N,2008
+2262,the duchess,O,O,N,O,W,O,O,O,O,O,O,O,O,O,O,2008
+2263,australia,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2008
+2264,the hurt locker,N,O,O,N,O,W,W,O,N,W,O,O,W,O,W,2009
+2265,avatar,O,O,W,W,O,N,N,W,N,N,O,O,O,O,N,2009
+2266,the blind side,O,W,O,O,O,O,O,O,O,N,O,O,O,O,O,2009
+2267,district 9,O,O,O,O,O,O,N,N,O,N,O,O,N,O,O,2009
+2268,an education,O,N,O,O,O,O,O,O,O,N,O,O,N,O,O,2009
+2269,inglourious basterds,O,O,O,N,O,N,N,O,O,N,W,O,N,O,N,2009
+2270,precious: based on the novel 'push' by sapphire,O,N,O,O,O,N,N,O,O,N,O,W,W,O,O,2009
+2271,a serious man,O,O,O,O,O,O,O,O,O,N,O,O,N,O,O,2009
+2272,up,O,O,O,O,O,O,N,O,W,N,O,O,N,O,O,2009
+2273,up in the air,N,O,O,O,O,N,O,O,O,N,O,N,N,O,O,2009
+2274,crazy heart,W,O,O,O,O,O,O,O,O,O,O,N,O,W,O,2009
+2275,a single man,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,2009
+2276,invictus,N,O,O,O,O,O,O,O,O,O,N,O,O,O,O,2009
+2277,the last station,O,N,O,O,O,O,O,O,O,O,N,O,O,O,O,2009
+2278,julie & julia,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,2009
+2279,the messenger,O,O,O,O,O,O,O,O,O,O,N,O,N,O,O,2009
+2280,the lovely bones,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,2009
+2281,nine,O,O,N,O,N,O,O,O,O,O,O,N,O,N,O,2009
+2282,in the loop,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2009
+2283,fantastic mr. fox,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,2009
+2284,sherlock holmes,O,O,N,O,O,O,O,O,N,O,O,O,O,O,O,2009
+2285,the princess and the frog,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2009
+2286,paris 36,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2009
+2287,star trek,O,O,O,O,O,O,N,N,O,O,O,O,O,O,N,2009
+2288,transformers: revenge of the fallen,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,2009
+2289,the imaginarium of doctor parnassus,O,O,N,O,N,O,O,O,O,O,O,O,O,O,O,2009
+2290,the young victoria,O,O,N,O,W,O,O,O,O,O,O,O,O,O,O,2009
+2291,harry potter and the half-blood prince,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,2009
+2292,the white ribbon,O,O,O,N,O,O,O,O,O,O,O,O,O,O,O,2009
+2293,bright star,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2009
+2294,coco before chanel,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2009
+2295,the king's speech,W,O,N,N,N,W,N,O,N,W,N,N,W,O,N,2010
+2296,127 hours,N,O,O,O,O,O,N,O,N,N,O,O,N,N,O,2010
+2297,black swan,O,W,O,N,O,N,N,O,O,N,O,O,O,O,O,2010
+2298,the fighter,O,O,O,O,O,N,N,O,O,N,W,WN,N,O,O,2010
+2299,inception,O,O,N,W,O,O,W,W,N,N,O,O,N,O,W,2010
+2300,the kids are all right,O,N,O,O,O,O,O,O,O,N,N,O,N,O,O,2010
+2301,the social network,N,O,O,N,O,N,W,O,W,N,O,O,W,O,N,2010
+2302,toy story 3,O,O,O,O,O,O,N,O,O,N,O,O,N,W,O,2010
+2303,true grit,N,O,N,N,N,N,N,O,O,N,O,N,N,O,N,2010
+2304,winter's bone,O,N,O,O,O,O,O,O,O,N,N,O,N,O,O,2010
+2305,biutiful,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,2010
+2306,rabbit hole,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,2010
+2307,blue valentine,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,2010
+2308,the town,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,2010
+2309,animal kingdom,O,O,O,O,O,O,O,O,O,O,O,N,O,O,O,2010
+2310,another year,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2010
+2311,how to train your dragon,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,2010
+2312,country strong,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2010
+2313,tangled,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2010
+2314,tron: legacy,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,2010
+2315,unstoppable,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,2010
+2316,salt,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,2010
+2317,alice in wonderland,O,O,W,O,W,O,O,N,O,O,O,O,O,O,O,2010
+2318,harry potter and the deathly hallows  part 1,O,O,N,O,O,O,O,N,O,O,O,O,O,O,O,2010
+2319,i am love,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2010
+2320,the tempest,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2010
+2321,hereafter,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,2010
+2322,iron man 2,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,2010
+2323,the artist,W,O,N,N,W,W,N,O,W,W,O,N,N,O,O,2011
+2324,the descendants,N,O,O,O,O,N,N,O,O,N,O,O,W,O,O,2011
+2325,extremely loud & incredibly close,O,O,O,O,O,O,O,O,O,N,N,O,O,O,O,2011
+2326,the help,O,N,O,O,O,O,O,O,O,N,O,WN,O,O,O,2011
+2327,hugo,O,O,W,W,N,N,N,W,N,N,O,O,N,O,W,2011
+2328,midnight in paris,O,O,N,O,O,N,O,O,O,N,O,O,W,O,O,2011
+2329,moneyball,N,O,O,O,O,O,N,O,O,N,N,O,N,O,N,2011
+2330,the tree of life,O,O,O,N,O,N,O,O,O,N,O,O,O,O,O,2011
+2331,war horse,O,O,N,N,O,O,N,O,N,N,O,O,O,O,N,2011
+2332,a better life,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,2011
+2333,tinker tailor soldier spy,N,O,O,O,O,O,O,O,N,O,O,O,N,O,O,2011
+2334,the iron lady,O,W,O,O,O,O,O,O,O,O,O,O,O,O,O,2011
+2335,albert nobbs,O,N,O,O,O,O,O,O,O,O,O,N,O,O,O,2011
+2336,the girl with the dragon tattoo,O,N,O,N,O,O,W,O,O,O,O,O,O,O,N,2011
+2337,my week with marilyn,O,N,O,O,O,O,O,O,O,O,N,O,O,O,O,2011
+2338,beginners,O,O,O,O,O,O,O,O,O,O,W,O,O,O,O,2011
+2339,warrior,O,O,O,O,O,O,O,O,O,O,N,O,O,O,O,2011
+2340,bridesmaids,O,O,O,O,O,O,O,O,O,O,O,N,N,O,O,2011
+2341,margin call,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2011
+2342,a separation,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2011
+2343,the ides of march,O,O,O,O,O,O,O,O,O,O,O,O,N,O,O,2011
+2344,the adventures of tintin,O,O,O,O,O,O,O,O,N,O,O,O,O,O,O,2011
+2345,the muppets,O,O,O,O,O,O,O,O,O,O,O,O,O,W,O,2011
+2346,rio,O,O,O,O,O,O,O,O,O,O,O,O,O,N,O,2011
+2347,drive,O,O,O,O,O,O,N,O,O,O,O,O,O,O,O,2011
+2348,transformers: dark of the moon,O,O,O,O,O,O,N,N,O,O,O,O,O,O,N,2011
+2349,harry potter and the deathly hallows  part 2,O,O,N,O,O,O,O,N,O,O,O,O,O,O,O,2011
+2350,anonymous,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2011
+2351,jane eyre,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2011
+2352,w.e.,O,O,O,O,N,O,O,O,O,O,O,O,O,O,O,2011
+2353,real steel,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,2011
+2354,rise of the planet of the apes,O,O,O,O,O,O,O,N,O,O,O,O,O,O,O,2011
+2355,argo,O,O,,O,O,O,W,O,N,W,N,O,W,O,N,2012
+2356,amour,O,N,,O,O,N,O,O,O,N,O,O,N,O,O,2012
+2357,beasts of the southern wild,O,N,,O,O,N,O,O,O,N,O,O,N,O,O,2012
+2358,django unchained,O,O,,N,O,O,N,O,O,N,W,O,W,O,O,2012
+2359,les misérables,N,O,,O,N,O,O,O,O,N,O,W,O,N,W,2012
+2360,life of pi,O,O,,W,O,W,N,W,W,N,O,O,N,N,N,2012
+2361,lincoln,W,O,,N,N,N,N,O,N,N,N,N,N,O,N,2012
+2362,silver linings playbook,N,W,,O,O,N,N,O,O,N,N,N,N,O,O,2012
+2363,zero dark thirty,O,N,,O,O,O,N,O,O,N,O,O,N,O,O,2012
+2364,the master,N,O,,O,O,O,O,O,O,O,N,N,O,O,O,2012
+2365,flight,N,O,,O,O,O,O,O,O,O,O,O,N,O,O,2012
+2366,the impossible,O,N,,O,O,O,O,O,O,O,O,O,O,O,O,2012
+2367,the sessions,O,O,,O,O,O,O,O,O,O,O,N,O,O,O,2012
+2368,moonrise kingdom,O,O,,O,O,O,O,O,O,O,O,O,N,O,O,2012
+2369,anna karenina,O,O,,N,W,O,O,O,N,O,O,O,O,O,O,2012
+2370,skyfall,O,O,,N,O,O,W,O,N,O,O,O,O,W,N,2012
+2371,chasing ice,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2012
+2372,ted,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2012
+2373,mirror mirror,O,O,,O,N,O,O,O,O,O,O,O,O,O,O,2012
+2374,snow white and the huntsman,O,O,,O,N,O,O,N,O,O,O,O,O,O,O,2012
+2375,the hobbit: an unexpected journey,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2012
+2376,marvel's the avengers,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2012
+2377,prometheus,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2012
+2378,12 years a slave,N,O,,O,N,N,N,O,O,W,N,W,W,O,O,2013
+2379,american hustle,N,N,,O,N,N,N,O,O,N,N,N,N,O,O,2013
+2380,captain phillips,O,O,,O,O,O,N,O,O,N,N,O,N,O,N,2013
+2381,dallas buyers club,W,O,,O,O,O,N,O,O,N,W,O,N,O,O,2013
+2382,gravity,O,N,,W,O,W,W,W,W,N,O,O,O,O,W,2013
+2383,her,O,O,,O,O,O,O,O,N,N,O,O,W,N,O,2013
+2384,nebraska,N,O,,N,O,N,O,O,O,N,O,N,N,O,O,2013
+2385,philomena,O,N,,O,O,O,O,O,N,N,O,O,N,O,O,2013
+2386,the wolf of wall street,N,O,,O,O,N,O,O,O,N,N,O,N,O,O,2013
+2387,blue jasmine,O,W,,O,O,O,O,O,O,O,O,N,N,O,O,2013
+2388,august: osage county,O,N,,O,O,O,O,O,O,O,O,N,O,O,O,2013
+2389,before midnight,O,O,,O,O,O,O,O,O,O,O,O,N,O,O,2013
+2390,the book thief,O,O,,O,O,O,O,O,N,O,O,O,O,O,O,2013
+2391,saving mr. banks,O,O,,O,O,O,O,O,N,O,O,O,O,O,O,2013
+2392,frozen,O,O,,O,O,O,O,O,O,O,O,O,O,W,O,2013
+2393,despicable me 2,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2013
+2394,mandela: long walk to freedom,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2013
+2395,alone yet not alone,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2013
+2396,all is lost,O,O,,O,O,O,N,O,O,O,O,O,O,O,O,2013
+2397,the hobbit: the desolation of smaug,O,O,,O,O,O,N,N,O,O,O,O,O,O,N,2013
+2398,lone survivor,O,O,,O,O,O,N,O,O,O,O,O,O,O,N,2013
+2399,inside llewyn davis,O,O,,N,O,O,O,O,O,O,O,O,O,O,N,2013
+2400,the grandmaster,O,O,,N,N,O,O,O,O,O,O,O,O,O,O,2013
+2401,prisoners,O,O,,N,O,O,O,O,O,O,O,O,O,O,O,2013
+2402,the great gatsby,O,O,,O,W,O,O,O,O,O,O,O,O,O,O,2013
+2403,the invisible woman,O,O,,O,N,O,O,O,O,O,O,O,O,O,O,2013
+2404,iron man 3,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2013
+2405,the lone ranger,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2013
+2406,star trek into darkness,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2013
+2407,birdman or (the unexpected virtue of ignorance),N,O,,W,O,W,N,O,O,W,N,N,W,O,N,2014
+2408,american sniper,N,O,,O,O,O,N,O,O,N,O,O,N,O,N,2014
+2409,boyhood,O,O,,O,O,N,N,O,O,N,N,W,N,O,O,2014
+2410,the grand budapest hotel,O,O,,N,W,N,N,O,W,N,O,O,N,O,O,2014
+2411,the imitation game,N,O,,O,O,N,N,O,N,N,O,N,W,O,O,2014
+2412,selma,O,O,,O,O,O,O,O,O,N,O,O,O,W,O,2014
+2413,the theory of everything,W,N,,O,O,O,O,O,N,N,O,O,N,O,O,2014
+2414,whiplash,O,O,,O,O,O,W,O,O,N,W,O,N,O,W,2014
+2415,foxcatcher,N,O,,O,O,N,O,O,O,O,N,O,N,O,O,2014
+2416,still alice,O,W,,O,O,O,O,O,O,O,O,O,O,O,O,2014
+2417,"two days, one night",O,N,,O,O,O,O,O,O,O,O,O,O,O,O,2014
+2418,gone girl,O,N,,O,O,O,O,O,O,O,O,O,O,O,O,2014
+2419,wild,O,N,,O,O,O,O,O,O,O,O,N,O,O,O,2014
+2420,the judge,O,O,,O,O,O,O,O,O,O,N,O,O,O,O,2014
+2421,into the woods,O,O,,O,N,O,O,O,O,O,O,N,O,O,O,2014
+2422,nightcrawler,O,O,,O,O,O,O,O,O,O,O,O,N,O,O,2014
+2423,inherent vice,O,O,,O,N,O,O,O,O,O,O,O,N,O,O,2014
+2424,interstellar,O,O,,O,O,O,N,W,N,O,O,O,O,O,N,2014
+2425,mr. turner,O,O,,N,N,O,O,O,N,O,O,O,O,O,O,2014
+2426,the lego movie,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2014
+2427,beyond the lights,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2014
+2428,glen campbell: i'll be me,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2014
+2429,begin again,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2014
+2430,the hobbit: the battle of the five armies,O,O,,O,O,O,N,O,O,O,O,O,O,O,O,2014
+2431,unbroken,O,O,,N,O,O,N,O,O,O,O,O,O,O,N,2014
+2432,ida,O,O,,N,O,O,O,O,O,O,O,O,O,O,O,2014
+2433,maleficent,O,O,,O,N,O,O,O,O,O,O,O,O,O,O,2014
+2434,captain america: the winter soldier,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2014
+2435,dawn of the planet of the apes,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2014
+2436,guardians of the galaxy,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2014
+2437,x-men: days of future past,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2014
+2438,spotlight,O,O,,O,O,N,N,O,O,W,N,N,W,O,O,2015
+2439,the big short,O,O,,O,O,N,N,O,O,N,N,O,W,O,O,2015
+2440,bridge of spies,O,O,,O,O,O,O,O,N,N,W,O,N,O,N,2015
+2441,brooklyn,O,N,,O,O,O,O,O,O,N,O,O,N,O,O,2015
+2442,mad max: fury road,O,O,,N,W,N,W,N,O,N,O,O,O,O,W,2015
+2443,the martian,N,O,,O,O,O,N,N,O,N,O,O,N,O,N,2015
+2444,the revenant,W,O,,W,N,W,N,N,O,N,N,O,O,O,N,2015
+2445,room,O,W,,O,O,N,O,O,O,N,O,O,N,O,O,2015
+2446,trumbo,N,O,,O,O,O,O,O,O,O,O,O,O,O,O,2015
+2447,steve jobs,N,O,,O,O,O,O,O,O,O,O,N,O,O,O,2015
+2448,the danish girl,N,O,,O,N,O,O,O,O,O,O,W,O,O,O,2015
+2449,carol,O,N,,N,N,O,O,O,N,O,O,N,N,O,O,2015
+2450,joy,O,N,,O,O,O,O,O,O,O,O,O,O,O,O,2015
+2451,45 years,O,N,,O,O,O,O,O,O,O,O,O,O,O,O,2015
+2452,creed,O,O,,O,O,O,O,O,O,O,N,O,O,O,O,2015
+2453,the hateful eight,O,O,,N,O,O,O,O,W,O,O,N,O,O,O,2015
+2454,ex machina,O,O,,O,O,O,O,W,O,O,O,O,N,O,O,2015
+2455,inside out,O,O,,O,O,O,O,O,O,O,O,O,N,O,O,2015
+2456,straight outta compton,O,O,,O,O,O,O,O,O,O,O,O,N,O,O,2015
+2457,sicario,O,O,,N,O,O,N,O,N,O,O,O,O,O,O,2015
+2458,star wars: the force awakens,O,O,,O,O,O,N,N,N,O,O,O,O,O,N,2015
+2459,spectre,O,O,,O,O,O,O,O,O,O,O,O,O,W,O,2015
+2460,fifty shades of grey,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2015
+2461,racing extinction,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2015
+2462,youth,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2015
+2463,the hunting ground,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2015
+2464,cinderella,O,O,,O,N,O,O,O,O,O,O,O,O,O,O,2015
+2465,moonlight,O,O,,N,O,N,N,O,N,W,W,N,W,O,O,2016
+2466,arrival,O,O,,N,O,N,N,O,O,N,O,O,N,O,N,2016
+2467,fences,N,O,,O,O,O,O,O,O,N,O,W,N,O,O,2016
+2468,hacksaw ridge,N,O,,O,O,N,W,O,O,N,O,O,O,O,W,2016
+2469,hell or high water,O,O,,O,O,O,N,O,O,N,N,O,N,O,O,2016
+2470,hidden figures,O,O,,O,O,O,O,O,O,N,O,N,N,O,O,2016
+2471,la la land,N,W,,W,N,W,N,O,W,N,O,O,N,WN,N,2016
+2472,lion,O,O,,N,O,O,O,O,N,N,N,N,N,O,O,2016
+2473,manchester by the sea,W,O,,O,O,N,O,O,O,N,N,N,W,O,O,2016
+2474,captain fantastic,N,O,,O,O,O,O,O,O,O,O,O,O,O,O,2016
+2475,elle,O,N,,O,O,O,O,O,O,O,O,O,O,O,O,2016
+2476,loving,O,N,,O,O,O,O,O,O,O,O,O,O,O,O,2016
+2477,jackie,O,N,,O,N,O,O,O,N,O,O,O,O,O,O,2016
+2478,florence foster jenkins,O,N,,O,N,O,O,O,O,O,O,O,O,O,O,2016
+2479,nocturnal animals,O,O,,O,O,O,O,O,O,O,N,O,O,O,O,2016
+2480,20th century women,O,O,,O,O,O,O,O,O,O,O,O,N,O,O,2016
+2481,the lobster,O,O,,O,O,O,O,O,O,O,O,O,N,O,O,2016
+2482,passengers,O,O,,O,O,O,O,O,N,O,O,O,O,O,O,2016
+2483,trolls,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2016
+2484,jim: the james foley story,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2016
+2485,moana,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2016
+2486,deepwater horizon,O,O,,O,O,O,N,N,O,O,O,O,O,O,O,2016
+2487,sully,O,O,,O,O,O,N,O,O,O,O,O,O,O,O,2016
+2488,13 hours: the secret soldiers of benghazi,O,O,,O,O,O,O,O,O,O,O,O,O,O,N,2016
+2489,rogue one: a star wars story,O,O,,O,O,O,O,N,O,O,O,O,O,O,N,2016
+2490,silence,O,O,,N,O,O,O,O,O,O,O,O,O,O,O,2016
+2491,fantastic beasts and where to find them,O,O,,O,W,O,O,O,O,O,O,O,O,O,O,2016
+2492,allied,O,O,,O,N,O,O,O,O,O,O,O,O,O,O,2016
+2493,the jungle book,O,O,,O,O,O,O,W,O,O,O,O,O,O,O,2016
+2494,doctor strange,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2016
+2495,kubo and the two strings,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2016
+2496,the shape of water,O,N,,N,N,W,N,O,W,W,N,N,N,O,N,2017
+2497,call me by your name,N,O,,O,O,O,O,O,O,N,O,O,W,N,O,2017
+2498,darkest hour,W,O,,N,N,O,O,O,O,N,O,O,O,O,O,2017
+2499,dunkirk,O,O,,N,O,N,W,O,N,N,O,O,O,O,W,2017
+2500,get out,N,O,,O,O,N,O,O,O,N,O,O,W,O,O,2017
+2501,lady bird,O,N,,O,O,N,O,O,O,N,O,N,N,O,O,2017
+2502,phantom thread,N,O,,O,W,N,O,O,N,N,O,N,O,O,O,2017
+2503,the post,O,N,,O,O,O,O,O,O,N,O,O,O,O,O,2017
+2504,"three billboards outside ebbing, missouri",O,W,,O,O,O,N,O,N,N,WN,O,N,O,O,2017
+2505,"roman j. israel, esq.",N,O,,O,O,O,O,O,O,O,O,O,O,O,O,2017
+2506,"i, tonya",O,N,,O,O,O,N,O,O,O,O,W,O,O,O,2017
+2507,the florida project,O,O,,O,O,O,O,O,O,O,N,O,O,O,O,2017
+2508,all the money in the world,O,O,,O,O,O,O,O,O,O,N,O,O,O,O,2017
+2509,mudbound,O,O,,N,O,O,O,O,O,O,O,N,N,N,O,2017
+2510,the big sick,O,O,,O,O,O,O,O,O,O,O,O,N,O,O,2017
+2511,the disaster artist,O,O,,O,O,O,O,O,O,O,O,O,N,O,O,2017
+2512,logan,O,O,,O,O,O,O,O,O,O,O,O,N,O,O,2017
+2513,molly's game,O,O,,O,O,O,O,O,O,O,O,O,N,O,O,2017
+2514,star wars: the last jedi,O,O,,O,O,O,N,N,N,O,O,O,O,O,N,2017
+2515,coco,O,O,,O,O,O,O,O,O,O,O,O,O,W,O,2017
+2516,marshall,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2017
+2517,the greatest showman,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2017
+2518,baby driver,O,O,,O,O,O,N,O,O,O,O,O,O,O,N,2017
+2519,blade runner 2049,O,O,,W,O,O,N,W,O,O,O,O,O,O,N,2017
+2520,beauty and the beast,O,O,,O,N,O,O,O,O,O,O,O,O,O,O,2017
+2521,victoria & abdul,O,O,,O,N,O,O,O,O,O,O,O,O,O,O,2017
+2522,guardians of the galaxy vol. 2,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2017
+2523,kong: skull island,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2017
+2524,war for the planet of the apes,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2017
+2525,green book,N,O,,O,O,O,N,O,O,W,W,O,W,O,O,2018
+2526,black panther,O,O,,O,W,O,N,O,W,N,O,O,O,N,N,2018
+2527,blackkklansman,O,O,,O,O,N,N,O,N,N,N,O,W,O,O,2018
+2528,bohemian rhapsody,W,O,,O,O,O,W,O,O,N,O,O,O,O,W,2018
+2529,the favourite,O,W,,N,N,N,N,O,O,N,O,N,N,O,O,2018
+2530,roma,O,N,,W,O,W,N,O,O,N,O,N,N,O,N,2018
+2531,a star is born,N,N,,N,O,O,O,O,O,N,N,O,N,W,N,2018
+2532,vice,N,O,,O,O,N,N,O,O,N,N,N,N,O,O,2018
+2533,cold war,O,O,,N,O,N,O,O,O,O,O,O,O,O,O,2018
+2534,at eternity's gate,N,O,,O,O,O,O,O,O,O,O,O,O,O,O,2018
+2535,the wife,O,N,,O,O,O,O,O,O,O,O,O,O,O,O,2018
+2536,can you ever forgive me?,O,N,,O,O,O,O,O,O,O,N,O,N,O,O,2018
+2537,if beale street could talk,O,O,,O,O,O,O,O,N,O,O,W,N,O,O,2018
+2538,first reformed,O,O,,O,O,O,O,O,O,O,O,O,N,O,O,2018
+2539,the ballad of buster scruggs,O,O,,O,N,O,O,O,O,O,O,O,N,N,O,2018
+2540,isle of dogs,O,O,,O,O,O,O,O,N,O,O,O,O,O,O,2018
+2541,mary poppins returns,O,O,,O,N,O,O,O,N,O,O,O,O,N,O,2018
+2542,rbg,O,O,,O,O,O,O,O,O,O,O,O,O,N,O,2018
+2543,first man,O,O,,O,O,O,N,W,O,O,O,O,O,O,N,2018
+2544,a quiet place,O,O,,O,O,O,N,O,O,O,O,O,O,O,O,2018
+2545,never look away,O,O,,N,O,O,O,O,O,O,O,O,O,O,O,2018
+2546,mary queen of scots,O,O,,O,N,O,O,O,O,O,O,O,O,O,O,2018
+2547,avengers: infinity war,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2018
+2548,christopher robin,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2018
+2549,ready player one,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2018
+2550,solo: a star wars story,O,O,,O,O,O,O,N,O,O,O,O,O,O,O,2018
