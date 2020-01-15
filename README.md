@@ -1,5 +1,5 @@
 # Predicting Oscars 2020 winner of Best Picture Award
-<img src = "oscar.png" align = "center" width = "60" height = "60">
+<img src = "oscar.png" align = "center" width = "80" height = "100">
 <br>
 This project served as a Capstone project for the Springboard Data Science Bootcamp. The project involved building an entire data science pipeline for collecting the most reliable publicly available data for moedling and predicting the Best P_icture Awasrd at the 92nd Academy Award due to be held on February 9th. The various Notebooks are:
 
