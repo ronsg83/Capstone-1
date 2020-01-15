@@ -1,6 +1,6 @@
 # Predicting Oscars 2020 winner of Best Picture Award
-<img src = "oscar.png" align = "center width = "100" height = "100>
-![](oscar.png)
+<img src = "oscar.png" align = "center width = "20" height = "20>
+<br>
 This project served as a Capstone project for the Springboard Data Science Bootcamp. The project involved building an entire data science pipeline for collecting the most reliable publicly available data for moedling and predicting the Best P_icture Awasrd at the 92nd Academy Award due to be held on February 9th. The various Notebooks are:
 
 1. **Data Acquisition**: Acquiring data from Wikipedia and IMDB using their respective APIs and extracting the necessary information using BeautifulSoup() and Regular Expressions librarries in Python. 
